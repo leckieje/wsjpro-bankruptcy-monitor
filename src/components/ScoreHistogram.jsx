@@ -30,7 +30,7 @@ export default function ScoreHistogram({ scoredRows }) {
   const data = buildBuckets(scoredRows)
 
   return (
-    <div className="histogram-panel">
+    <div>
       <h2 className="chart-title">Score Distribution</h2>
       <ResponsiveContainer width="100%" height={220}>
         <BarChart data={data} margin={{ top: 4, right: 16, left: 0, bottom: 24 }}>
@@ -50,7 +50,7 @@ export default function ScoreHistogram({ scoredRows }) {
             width={28}
           />
           <Tooltip content={<CustomTooltip />} cursor={{ fill: '#f0f4ff' }} />
-          <Bar dataKey="count" fill="#004f9f" radius={[2, 2, 0, 0]} maxBarSize={32} />
+          <Bar dataKey="count" fill="#2563EB" radius={[2, 2, 0, 0]} maxBarSize={32} />
         </BarChart>
       </ResponsiveContainer>
     </div>

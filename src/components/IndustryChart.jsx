@@ -28,7 +28,7 @@ export default function IndustryChart({ scoredRows }) {
   const maxAvg = data.find(d => d.avg !== null)?.avg
 
   return (
-    <div className="chart-panel">
+    <div>
       <h2 className="chart-title">Average Score by Industry</h2>
       <table className="results-table industry-table">
         <thead>

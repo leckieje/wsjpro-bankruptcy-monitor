@@ -28,6 +28,7 @@ export default function App() {
   const [weights, setWeights] = useState(DEFAULT_WEIGHTS)
   const [optionalColumns, setOptionalColumns] = useState([])
   const [scoredRows, setScoredRows] = useState(null)
+  const [scoresStale, setScoresStale] = useState(false)
   const [error, setError] = useState(null)
 
   useEffect(() => {
@@ -42,7 +43,7 @@ export default function App() {
 
   function handleWeightsChange(newWeights) {
     setWeights(newWeights)
-    setScoredRows(null)
+    setScoresStale(true)
   }
 
   function handleOptionalColumnsChange(newCols) {
@@ -55,19 +56,20 @@ export default function App() {
     }
     setOptionalColumns(newCols)
     setWeights(newWeights)
-    setScoredRows(null)
+    setScoresStale(true)
   }
 
   function handleReset() {
     setOptionalColumns([])
     setWeights({ ...DEFAULT_WEIGHTS })
-    setScoredRows(null)
+    setScoresStale(true)
   }
 
   const allWeightColumns = [...WEIGHT_COLUMNS, ...optionalColumns]
 
   function handleScore() {
     setScoredRows(computeScores(parsedData.rows, weights, allWeightColumns))
+    setScoresStale(false)
   }
 
   const availableOptionalColumns = (parsedData?.numericColumns ?? []).filter(
@@ -79,79 +81,28 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-
-        {/* Band 1: black top bar */}
-        <div className="header-topbar">
-          <div className="header-topbar-inner">
-            <nav className="header-sitenav">
-              <span>WSJ</span>
-              <span>Barron's</span>
-              <span>MarketWatch</span>
-              <span>IBD</span>
-            </nav>
-            <div className="header-buyside">WSJ | Buy Side</div>
-          </div>
-        </div>
-
-        {/* Band 2: ticker bar */}
-        <div className="header-ticker">
-          <div className="header-ticker-inner">
-            <span className="ticker-item"><span className="ticker-label">DJIA</span> <span className="ticker-val up">47919.77</span> <span className="ticker-chg down">-0.55%</span></span>
-            <span className="ticker-item"><span className="ticker-label">S&amp;P 500</span> <span className="ticker-val up">6820.02</span> <span className="ticker-chg down">-0.07%</span></span>
-            <span className="ticker-item"><span className="ticker-label">Nasdaq</span> <span className="ticker-val up">22914.23</span> <span className="ticker-chg up">0.40%</span></span>
-            <span className="ticker-item"><span className="ticker-label">Russell 2000</span> <span className="ticker-val up">2632.71</span> <span className="ticker-chg down">-0.14%</span></span>
-            <span className="ticker-item"><span className="ticker-label">U.S. 10 Yr</span> <span className="ticker-val">-3/32</span> <span className="ticker-chg up">4.318%</span></span>
-            <span className="ticker-item"><span className="ticker-label">VIX</span> <span className="ticker-val up">19.60</span> <span className="ticker-chg up">0.56%</span></span>
-          </div>
-        </div>
-
-        {/* Band 3: masthead + nav */}
-        <div className="header-masthead">
-          <div className="header-masthead-inner">
-            <div className="header-masthead-logo">THE WALL STREET JOURNAL.</div>
-            <div className="header-masthead-edition">English Edition</div>
-            <nav className="header-mainnav">
-              <span>World</span><span>Business</span><span>U.S.</span><span>Politics</span>
-              <span>Economy</span><span>Tech</span><span>Markets &amp; Finance</span>
-              <span>Opinion</span><span>Arts</span><span>Lifestyle</span>
-              <span>Real Estate</span><span>Personal Finance</span><span>Health</span>
-              <span>Style</span><span>Sports</span>
-            </nav>
-          </div>
-        </div>
-
-        {/* Band 4: dark teal WSJ Pro Bankruptcy section banner */}
-        <div className="header-pro-banner">
-          <div className="header-pro-inner">
-            <div className="header-pro-top">
-              <span className="wsj-pro-badge">WSJ</span>
-              <span className="wsj-pro-tag">PRO</span>
-            </div>
-            <h1 className="header-pro-title">Bankruptcy</h1>
-            <nav className="header-pro-nav">
-              <span>Home</span>
-              <span>News ›</span>
-              <span>Data ›</span>
-              <span>Newsletters</span>
-              <span>Sectors ›</span>
-            </nav>
-          </div>
-        </div>
-
+        <a className="app-logo" href="#"><span>WSJ Pro</span> Bankruptcy</a>
+        <span className="header-sub">Risk Score</span>
       </header>
 
       <main className="app-main">
         {error && <div className="error-banner">{error}</div>}
 
         {!parsedData && !error && (
-          <div className="loading">Loading data...</div>
+          <div className="loading">
+            <div className="spin-ring" />
+            Loading data…
+          </div>
         )}
 
         {parsedData && (
           <>
             {/* 1. Methodology */}
             <div className="methodology-text">
-              <h3 className="methodology-title">WSJ Pro Bankruptcy Risk Score</h3>
+              <h3 className="methodology-title">
+                <span className="methodology-title-badge">WSJ Pro</span>
+                Bankruptcy Risk Score
+              </h3>
               <p>
                 The WSJ Pro Bankruptcy Risk Score is a weighted composite of up to five financial
                 indicators: Z-Score, Quick Ratio, Receivables to Revenue, FSS Score, and FSS
@@ -171,31 +122,39 @@ export default function App() {
               </p>
             </div>
 
-            {/* 2. Sliders */}
-            <WeightSliders
-              weightColumns={WEIGHT_COLUMNS}
-              weights={weights}
-              defaultWeights={DEFAULT_WEIGHTS}
-              onWeightsChange={handleWeightsChange}
-              onScore={handleScore}
-              optionalColumns={optionalColumns}
-              availableOptionalColumns={availableOptionalColumns}
-              onOptionalColumnsChange={handleOptionalColumnsChange}
-              onReset={handleReset}
-            />
-
-            {/* 3. Histogram */}
-            <ScoreHistogram scoredRows={scoredRows} />
+            {/* 2. Sliders + Histogram side by side */}
+            <div className="sliders-histogram-row">
+              <div className="controls-card">
+                <WeightSliders
+                  weightColumns={WEIGHT_COLUMNS}
+                  weights={weights}
+                  defaultWeights={DEFAULT_WEIGHTS}
+                  onWeightsChange={handleWeightsChange}
+                  onScore={handleScore}
+                  optionalColumns={optionalColumns}
+                  availableOptionalColumns={availableOptionalColumns}
+                  onOptionalColumnsChange={handleOptionalColumnsChange}
+                  onReset={handleReset}
+                />
+              </div>
+              <div className={`chart-card${scoresStale ? ' stale' : ''}`}>
+                <ScoreHistogram scoredRows={scoredRows} />
+              </div>
+            </div>
 
             {/* 4. Industry averages */}
-            <IndustryChart scoredRows={scoredRows} />
+            <div className={`chart-card${scoresStale ? ' stale' : ''}`}>
+              <IndustryChart scoredRows={scoredRows} />
+            </div>
 
             {/* 5. Full table */}
-            <ResultsTable
-              rows={parsedData.rows}
-              displayColumns={displayColumns}
-              scoredRows={scoredRows}
-            />
+            <div className={`table-card${scoresStale ? ' stale' : ''}`}>
+              <ResultsTable
+                rows={parsedData.rows}
+                displayColumns={displayColumns}
+                scoredRows={scoredRows}
+              />
+            </div>
           </>
         )}
       </main>

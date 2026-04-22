@@ -48,12 +48,15 @@ export default function ResultsTable({ rows, displayColumns, scoredRows }) {
 
   return (
     <div>
-      <div className="download-btn-row">
-        <button className="btn btn-secondary" onClick={() => downloadCSV(data, displayColumns, isScored)}>
-          Download CSV
-        </button>
+      <div className="table-card-header">
+        <span className="table-card-title">Results</span>
+        <div className="download-links">
+          <button className="download-link" onClick={() => downloadCSV(data, displayColumns, isScored)}>
+            &#8659; Download CSV
+          </button>
+        </div>
       </div>
-      <div className="table-wrapper">
+      <div className="table-wrap">
         <table className="results-table">
           <colgroup>
             {isScored && <col style={{ width: '2rem' }} />}
@@ -102,3 +105,4 @@ export default function ResultsTable({ rows, displayColumns, scoredRows }) {
     </div>
   )
 }
+
