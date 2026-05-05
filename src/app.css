@@ -844,6 +844,13 @@ body {
   box-shadow: 0 0 0 3px var(--accent-bg);
 }
 
+.taxonomy-filter-group select:disabled {
+  background: var(--surface-2);
+  color: var(--text-2);
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
 @media (max-width: 768px) {
   .app-header    { padding: 0 16px; gap: 8px; }
   .app-main      { padding: 16px; }
