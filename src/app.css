@@ -637,6 +637,9 @@ body {
   font-family: var(--font);
   cursor: pointer;
   user-select: none;
+  position: sticky;
+  top: 0;
+  z-index: 4;
 }
 
 .results-table thead th:last-child {
