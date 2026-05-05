@@ -1,0 +1,442 @@
+CompanyName-fss,CompanyCode-fss,Sector,SubSector,Industry,Region,Ticker,Status,ListStatus,SPCIQ_ID,link_score,CompanyName-sp,Country
+ConneXionONE Corp.,CRESPM,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,CNNN,A,L,2036881,100.0,ConneXionONE Corp.,United States
+Solidion Technology Inc,WQZHEK,Manufacturing,Instruments & Electronics,Batteries,USA,STI,A,L,1826283671,100.0,"Solidion Technology, Inc.",United States
+"Intuitive Machines, Inc.",IPCJIR,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,LUNR,A,L,710155302,100.0,"Intuitive Machines, Inc.",United States
+Thunder Power Holdings Inc.,ZISNNE,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,AIEV,A,L,325651761,100.0,"Thunder Power Holdings, Inc.",United States
+SSHT S&T Group Ltd.,PSTCUS,Manufacturing,Automotive,Automotive Telematics,USA,SSHT,A,L,380608,100.0,SSHT S&T Group Ltd.,New Zealand
+"Curtiss Motorcycles Co., Inc.",FCHPRI,Manufacturing,Automotive,Motorcycles,USA,CMOT,A,L,53069194,100.0,"Curtiss Motorcycles Company, Inc.",United States
+ROSINBOMB,LNTPPK,Manufacturing,Industrial Machinery,Chemical Industry Machinery,USA,ROSN,A,L,426774242,100.0,Rosinbomb,United States
+"Elio Motors, Inc.",VYVSEL,Manufacturing,Automotive,Passenger Cars,USA,ELIO,A,L,141045816,100.0,"Elio Motors, Inc.",United States
+"Trutankless, Inc.",ACBRPK,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,TKLS,A,L,128308313,100.0,"Trutankless, Inc.",United States
+"AER Energy Resources, Inc.",AERES,Manufacturing,Instruments & Electronics,Batteries,USA,AERN,A,L,199867,100.0,"AER Energy Resources, Inc",United States
+"Beamz Interactive, Inc.",BEAMZI,Manufacturing,Other Manufacturing,Musical Instruments,USA,BZIC,A,L,106595296,100.0,"Beamz Interactive, Inc.",United States
+"AMMO, Inc.",RETSPE,Manufacturing,Aerospace & Defense,Firearms,USA,POWW,A,L,418572555,100.0,Outdoor Holding Company,United States
+"Axon Enterprise, Inc.",TASRIN,Manufacturing,Aerospace & Defense,Firearms,USA,AXON,A,L,885779,100.0,"Axon Enterprise, Inc.",United States
+"DAC Technologies Group International, Inc.",DCGRP,Manufacturing,Aerospace & Defense,Firearms,USA,DAAT,A,L,415022,100.0,"DAC Technologies Group International, Inc.",United States
+"SPO Networks, Inc.",WLLSLV,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,SPOI,A,L,7290202,100.0,"SPO Networks, Inc.",United States
+"JB&ZJMY Holding Co., Inc.",DOLVOB,Manufacturing,Instruments & Electronics,Batteries,USA,JBZY,A,L,100852888,100.0,"JB&ZJMY Holding Company, Inc.",China
+Sysorex International  Inc,SFTLED,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,XTIA,A,L,301042423,100.0,"XTI Aerospace, Inc.",United States
+Cermetek Microelectronics Inc.,CERML,Manufacturing,Other Manufacturing,Telecommunications Equipment,USA,CRMK,A,L,3103626,100.0,"Cermetek Microelectronics, Inc.",United States
+"indie Semiconductor, Inc.",EOOEEN,Manufacturing,Automotive,Autonomous Driving Technologies,USA,INDI,A,L,306114426,100.0,"indie Semiconductor, Inc.",United States
+"Willdan Group, Inc.",WGOCT,Manufacturing,Other Manufacturing,Engineering Services,USA,WLDN,A,L,4331586,100.0,"Willdan Group, Inc.",United States
+Aimrite Holdings Corp.,DRNKWL,Manufacturing,Automotive,Motor Vehicle Parts,USA,AIMH,A,L,2947444,100.0,Aimrite Holdings Corporation,United States
+"AmeraMex International, Inc.",AFFINC,Manufacturing,Other Manufacturing,Industrial Equipment Rental/Leasing,USA,AMMX,A,L,1039630,100.0,"AmeraMex International, Inc.",United States
+"Ducommun, Inc.",DCO,Manufacturing,Aerospace & Defense,Aircraft Engines,USA,DCO,A,L,267761,100.0,Ducommun Incorporated,United States
+Jacksam Corp.,TRDWAR,Manufacturing,Industrial Machinery,Handling Equipment,USA,JKSM,A,L,418637867,100.0,Jacksam Corporation,United States
+"Actelis Networks, Inc.",ACTENT,Manufacturing,Other Manufacturing,Broadband Equipment,USA,ASNS,A,L,108649,100.0,"Actelis Networks, Inc.",United States
+"Amprius Technologies, Inc.",EJOSAM,Manufacturing,Instruments & Electronics,Batteries,USA,AMPX,A,L,54509692,100.0,"Amprius Technologies, Inc.",United States
+Ichor Holdings Ltd.,ICHOSU,Manufacturing,Instruments & Electronics,LED Technologies,USA,ICHR,A,L,409540249,100.0,"Ichor Holdings, Ltd.",United States
+Enovix Corp.,IGVODR,Manufacturing,Instruments & Electronics,Batteries,USA,ENVX,A,L,33112010,100.0,Enovix Corporation,United States
+"Interlink Electronics, Inc.",ITLINK,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,LINK,A,L,327536,100.0,"Interlink Electronics, Inc.",United States
+"Carroll Shelby International, Inc.",GSNFR,Manufacturing,Automotive,Passenger Cars,USA,CSBI,A,L,5863391,100.0,"Carroll Shelby International, Inc.",United States
+"Ultra Clean Holdings, Inc.",UCLNHL,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,UCTT,A,L,3720301,100.0,"Ultra Clean Holdings, Inc.",United States
+"Pure Transit Technologies, Inc.",JURSTL,Manufacturing,Automotive,Buses/Coaches,USA,PTTL,A,L,5060169,100.0,"Pure Transit Technologies, Inc.",United States
+"Cartel Blue, Inc.",HTGMIN,Manufacturing,Automotive,Passenger Cars,USA,CRTL,A,L,28399147,100.0,"Cartel Blue, Inc.",United States
+"Ener-Core, Inc.",IVTTZC,Manufacturing,Industrial Machinery,Turbines,USA,ENCR,A,L,230452233,100.0,"Ener-Core, Inc.",United States
+"Aura Systems, Inc.",AUA,Manufacturing,Industrial Machinery,Turbines,USA,AUSI,A,L,252301,100.0,"Aura Systems, Inc.",United States
+"Rocket Lab USA, Inc.",BVUYJC,Manufacturing,Aerospace & Defense,Spacecraft,USA,RKLB,A,L,533835000,100.0,Rocket Lab Corporation,United States
+"Advanced Engine Technologies, Inc.",ADVENG,Manufacturing,Other Manufacturing,Industrial/Marine Engines,USA,AENG,A,L,403905,100.0,"Advanced Engine Technologies, Inc.",United States
+"Xos, Inc.",CAZUYJ,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,XOS,A,L,681090264,100.0,"Xos, Inc.",United States
+PMB Aerospace Corp.,MEICRP,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,PMBY,A,L,3168291,100.0,PMB Aerospace Corporation,United States
+"AERWINS Technologies, Inc.",QVNPYR,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,AWIN,A,L,1799859977,100.0,AERWINS Technologies Inc.,United States
+Trio-Tech International,TRITIN,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,TRT,A,L,309417,100.0,Trio-Tech International,United States
+"Cyngn, Inc.",YLIBOW,Manufacturing,Automotive,Autonomous Driving Technologies,USA,CYN,A,L,601254195,100.0,Cyngn Inc.,United States
+"Aeva Technologies, Inc.",SQPZLG,Manufacturing,Automotive,Automotive Telematics,USA,AEVA,A,L,418324431,100.0,"Aeva Technologies, Inc.",United States
+"Electronic Sensor Technology, Inc.",BLUVNT,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,ESNR,A,L,7828176,100.0,"Electronic Sensor Technology, Inc.",United States
+Bimergen Energy Corp.,DLTCAP,Manufacturing,Instruments & Electronics,Batteries,USA,BTTC,A,L,1822770698,100.0,Black Titan Corporation,Malaysia
+"M Line Holdings, Inc.",GOUGFT,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,MLHC,A,L,1424732,100.0,"M Line Holdings, Inc.",United States
+"iPower, Inc.",PFCIYT,Manufacturing,Industrial Machinery,Agricultural Machinery,USA,IPW,A,L,700335360,100.0,iPower Inc.,United States
+"Micro Imaging Technology, Inc.",HOHW,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,MMTC,A,L,3109867,100.0,"Micro Imaging Technology, Inc.",United States
+"Sonim Technologies, Inc.",SONITI,Manufacturing,Other Manufacturing,Telecommunications Equipment,USA,SONM,A,L,2908038,100.0,"DNA X, Inc.",United States
+"Archer Aviation, Inc.",BUUDIQ,Manufacturing,Aerospace & Defense,Civil Aircraft,USA,ACHR,A,L,681233855,100.0,Archer Aviation Inc.,United States
+QuantumScape Corp.,CUELSY,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,QS,A,L,204748122,100.0,QuantumScape Corporation,United States
+"Harmonic, Inc.",HMLIGH,Manufacturing,Other Manufacturing,Broadband Equipment,USA,HLIT,A,L,29282,100.0,Harmonic Inc.,United States
+"Energy Recovery, Inc.",ERCVRI,Manufacturing,Industrial Machinery,Pump Manufacturing,USA,ERII,A,L,42952210,100.0,"Energy Recovery, Inc.",United States
+"Greenkraft, Inc.",SNRSGI,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,GKIT,A,L,206578789,100.0,"Greenkraft, Inc.",United States
+"Keysight Technologies, Inc.",KYSGTI,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,KEYS,A,L,247017859,100.0,"Keysight Technologies, Inc.",United States
+"Teledyne Technologies, Inc.",TLDTCH,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,TDY,A,L,406526,100.0,Teledyne Technologies Incorporated,United States
+"Eco-Safe Systems USA, Inc.",CFGREN,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,ESFS,A,L,23711654,100.0,"Eco Safe Systems USA, Inc.",United States
+"Mundus Group, Inc.",IMPACE,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,MNDP,A,L,3159967,100.0,"Mundus Group, Inc.",United States
+"Motorcar Parts of America, Inc.",MOPART,Manufacturing,Automotive,Motor Vehicle Parts,USA,MPAA,A,L,340577,100.0,"Motorcar Parts of America, Inc.",United States
+Omnitek Engineering Corp.,OMENGC,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,OMTK,A,L,12218227,100.0,Omnitek Engineering Corp.,United States
+U.S. Energy Initiatives Corp.,ELFULC,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,USEI,A,L,1341923,100.0,U.S. Energy Initiatives Corporation Inc.,United States
+"Fusion Pharm, Inc.",SUNPRT,Manufacturing,Industrial Machinery,Agricultural Machinery,USA,FSPM,A,L,26608662,100.0,"FusionPharm, Inc.",United States
+Spruce Power Holding Corp.,NRQMWC,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,SPRU,A,L,95149437,100.0,Spruce Power Holding Corporation,United States
+EchoStar Corp.,ECSTR,Manufacturing,Instruments & Electronics,Radio/Television Equipment,USA,SATS,A,L,38893720,100.0,EchoStar Corporation,United States
+"Woodward, Inc.",WDWDG,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,WWD,A,L,314690,100.0,"Woodward, Inc.",United States
+"Mesa Laboratories, Inc.",MSMD,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,MLAB,A,L,287550,100.0,"Mesa Laboratories, Inc.",United States
+"Solid Power, Inc.",TTHYJD,Manufacturing,Automotive,Motor Vehicle Parts,USA,SLDP,A,L,532224303,100.0,"Solid Power, Inc.",United States
+"Lightning eMotors, Inc.",ZFBVIE,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,ZEVY,A,L,107488804,100.0,"Lightning eMotors, Inc.",United States
+Go Green Global Technologies Corp.,PHOTO,Manufacturing,Industrial Machinery,Waste Treatment/Disposal Machinery,USA,GOGR,A,L,144301296,100.0,Go Green Global Technologies Corp.,United States
+"FuelCell Energy, Inc.",ENRESC,Manufacturing,Instruments & Electronics,Batteries,USA,FCEL,A,L,332124,100.0,"FuelCell Energy, Inc.",United States
+Otis Worldwide Corp.,LSUQMB,Manufacturing,Industrial Machinery,Handling Equipment,USA,OTIS,A,L,159264,100.0,Otis Worldwide Corporation,United States
+Terex Corp.,TERKS,Manufacturing,Industrial Machinery,Construction Machinery,USA,TEX,A,L,307982,100.0,Terex Corporation,United States
+"Sturm, Ruger & Co., Inc.",STRUG,Manufacturing,Aerospace & Defense,Firearms,USA,RGR,A,L,305647,100.0,"Sturm, Ruger & Company, Inc.",United States
+"ITT, Inc.",ITTIN,Manufacturing,Other Manufacturing,Engineering Services,USA,ITT,A,L,280322,100.0,ITT Inc.,United States
+"United Rentals, Inc.",URENT,Manufacturing,Other Manufacturing,Construction Equipment Rental/Leasing,USA,URI,A,L,36005,100.0,"United Rentals, Inc.",United States
+"One World Universe, Inc.",CTTHRI,Manufacturing,Industrial Machinery,Waste Treatment/Disposal Machinery,USA,OWUV,A,L,1680576653,100.0,One World Universe Inc.,United States
+"Acorn Energy, Inc.",DSOF,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,ACFN,A,L,321882,100.0,"Acorn Energy, Inc.",United States
+"Xylem, Inc.",XYLEIN,Manufacturing,Industrial Machinery,Pump Manufacturing,USA,XYL,A,L,118218449,100.0,Xylem Inc.,United States
+USA Performance Products Inc.,UPPI,Manufacturing,Automotive,Motor Vehicle Parts,USA,UPRM,A,L,25985289,100.0,"USA Performance Products, Inc",United States
+"Smart Decision, Inc.",SVHVJV,Manufacturing,Instruments & Electronics,LED Technologies,USA,SDEC,A,L,586350157,100.0,"Smart Decision, Inc.",United States
+"WaterPure International, Inc.",WTPURE,Manufacturing,Industrial Machinery,Food Product Machinery,USA,WPUR,A,L,28033360,100.0,"WaterPure International, Inc.",United States
+"Herc Holdings, Inc.",HERTZ,Manufacturing,Other Manufacturing,Construction Equipment Rental/Leasing,USA,HRI,A,L,320141334,100.0,Herc Holdings Inc.,United States
+"Puradyn Filter Technologies, Inc.",TFPURI,Manufacturing,Automotive,Motor Vehicle Parts,USA,PFTI,A,L,3042040,100.0,"Puradyn Filter Technologies, Inc.",United States
+AerSale Corp.,ZQEWFP,Manufacturing,Aerospace & Defense,Aircraft Engines,USA,ASLE,A,L,84236826,100.0,AerSale Corporation,United States
+"Perla Group International, Inc.",ETGSKP,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,PERL,A,L,79653705,100.0,"Perla Group International, Inc.",United States
+"Prestige Cars International, Inc.",PRECPK,Manufacturing,Automotive,Automotive Repair/Maintenance,USA,PREC,A,L,33406557,100.0,"Prestige Cars International, Inc.",United States
+HEICO Corp.,HEIN,Manufacturing,Aerospace & Defense,Avionics,USA,HEI,A,L,278143,100.0,HEICO Corporation,United States
+Redwire Corp.,AVBGWB,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,RDW,A,L,408856966,100.0,Redwire Corporation,United States
+"Duos Technologies Group, Inc.",IFSAMB,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,DUOT,A,L,12828152,100.0,"Duos Technologies Group, Inc.",United States
+"mPhase Technologies, Inc.",LPTHTP,Manufacturing,Instruments & Electronics,Batteries,USA,XDSL,A,L,396992,100.0,"mPhase Technologies, Inc.",United States
+"L3Harris Technologies, Inc.",HARSCO,Manufacturing,Other Manufacturing,Telecommunications Equipment,USA,LHX,A,L,177934,100.0,"L3Harris Technologies, Inc.",United States
+"Eve Holding, Inc.",IRAWAD,Manufacturing,Aerospace & Defense,Civil Aircraft,USA,EVEX,A,L,1762187465,100.0,"Eve Holding, Inc.",United States
+"Sidus Space, Inc.",QQDYQM,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,SIDU,A,L,1682861838,100.0,"Sidus Space, Inc.",United States
+"4Cable TV International, Inc.",LBRTCG,Manufacturing,Other Manufacturing,Broadband Equipment,USA,CATV,A,L,235514759,100.0,"Opus Holdings, Inc.",United States
+"Watsco, Inc.",WSO,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,WSO,A,L,313461,100.0,"Watsco, Inc.",United States
+"Wrap Technologies, Inc.",WXXOOY,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,WRAP,A,L,428063811,100.0,"Wrap Technologies, Inc.",United States
+"LightPath Technologies, Inc.",LPTHAH,Manufacturing,Instruments & Electronics,Optical Instruments,USA,LPTH,A,L,351646,100.0,"LightPath Technologies, Inc.",United States
+"Gencor Industries, Inc.",MCHT,Manufacturing,Industrial Machinery,Construction Machinery,USA,GENC,A,L,274466,100.0,"Gencor Industries, Inc.",United States
+"Coda Octopus Group, Inc.",PANDAP,Manufacturing,Instruments & Electronics,Air/Nautical Navigational Instruments,USA,CODA,A,L,11355019,100.0,"Coda Octopus Group, Inc.",United States
+Carrier Global Corp.,KAAIOY,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,CARR,A,L,620281,100.0,Carrier Global Corporation,United States
+"Water Technologies International, Inc.",LATINU,Manufacturing,Industrial Machinery,Waste Treatment/Disposal Machinery,USA,WTII,A,L,132699175,100.0,"Water Technologies International, Inc.",United States
+"Roper Technologies, Inc.",ROPIND,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,ROP,A,L,22751,100.0,"Roper Technologies, Inc.",United States
+"Helios Technologies, Inc.",SUNHYD,Manufacturing,Industrial Machinery,Compressors/Hydraulic Equipment,USA,HLIO,A,L,354502,100.0,"Helios Technologies, Inc.",United States
+"GreenChek Technology, Inc.",GRCHEK,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,GCHK,A,L,34691952,100.0,GreenChek Technology Inc.,United States
+"Jabil, Inc.",JABCRC,Manufacturing,Other Manufacturing,Engineering Services,USA,JBL,A,L,96078,100.0,Jabil Inc.,United States
+Energy & Water Development Corp.,TDLNTL,Manufacturing,Industrial Machinery,Waste Treatment/Disposal Machinery,USA,EAWD,A,L,676269,100.0,Energy and Water Development Corp.,United States
+"Cool Technologies, Inc.",BIBBC,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,WARM,A,L,130646770,100.0,"Cool Technologies, Inc.",United States
+"Global Digital Solutions, Inc.",CRBEAU,Manufacturing,Automotive,Automotive Telematics,USA,GDSI,A,L,8418077,100.0,"Global Digital Solutions, Inc.",United States
+UAV Corp.,MRNCHN,Manufacturing,Aerospace & Defense,Drones,USA,UMAV,A,L,34792860,100.0,UAV Corp.,United States
+"Safe Pro Group, Inc.",SFPGIU,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,SPAI,A,L,1801114870,100.0,Safe Pro Group Inc.,United States
+"Deep Field Technologies, Inc.",DFLDTC,Manufacturing,Automotive,Automotive Repair/Maintenance,USA,DPFD,A,L,22263029,100.0,"Deep Field Technologies, Inc.",United States
+Genuine Parts Co.,GENPT,Manufacturing,Automotive,Motor Vehicle Parts,USA,GPC,A,L,275034,100.0,Genuine Parts Company,United States
+"Mueller Water Products, Inc.",MULR,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,MWA,A,L,10404838,100.0,"Mueller Water Products, Inc.",United States
+AGCO Corp.,AGCOCP,Manufacturing,Industrial Machinery,Agricultural Machinery,USA,AGCO,A,L,317519,100.0,AGCO Corporation,United States
+Fox Factory Holding Corp.,FXFI,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,FOXF,A,L,99357919,100.0,Fox Factory Holding Corp.,United States
+Blue Bird Corp.,HCACZZ,Manufacturing,Automotive,Buses/Coaches,USA,BLBD,A,L,272634010,100.0,Blue Bird Corporation,United States
+"Speedemissions, Inc.",SKTF,Manufacturing,Automotive,Automotive Repair/Maintenance,USA,SPMI,A,L,8352921,100.0,"Speedemissions, Inc.",United States
+Xcraft Enterprises  Inc.,XCRAEI,Manufacturing,Aerospace & Defense,Drones,USA,XCFT,A,L,329528865,100.0,"xCraft Enterprises, Inc",United States
+Primix Corporation,PRIMXC,Manufacturing,Industrial Machinery,Chemical Industry Machinery,USA,PMXX,A,L,3175930,100.0,Primix Corporation,United States
+"Westell Technologies, Inc.",WSTLIN,Manufacturing,Other Manufacturing,Broadband Equipment,USA,WSTL,A,L,346138,100.0,"Westell Technologies, Inc.",United States
+"Motorola Solutions, Inc.",MTROL,Manufacturing,Other Manufacturing,Telecommunications Equipment,USA,MSI,A,L,99186,100.0,"Motorola Solutions, Inc.",United States
+Dover Corp.,DVRCP,Manufacturing,Industrial Machinery,Compressors/Hydraulic Equipment,USA,DOV,A,L,174901,100.0,Dover Corporation,United States
+Federal Signal Corp.,FEDSC,Manufacturing,Automotive,Trucks/Lorries/Vans,USA,FSS,A,L,271329,100.0,Federal Signal Corporation,United States
+"UV Flu Technologies, Inc.",NWIOPK,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,UVFT,A,L,32338592,100.0,"UV Flu Technologies, Inc.",United States
+CTS Corp.,CTSCRP,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,CTS,A,L,258010,100.0,CTS Corporation,United States
+Deere & Co.,DEERE,Manufacturing,Industrial Machinery,Agricultural Machinery,USA,DE,A,L,266112,100.0,Deere & Company,United States
+Chicago Rivet & Machine Co.,CVR,Manufacturing,Other Manufacturing,Screws/Nuts/Bolts,USA,CVR,A,L,260816,100.0,Chicago Rivet & Machine Co.,United States
+IDEX Corp.,IDEXUS,Manufacturing,Industrial Machinery,Pump Manufacturing,USA,IEX,A,L,29728,100.0,IDEX Corporation,United States
+"Fuel Tech, Inc.",FUTC,Manufacturing,Industrial Machinery,Chemical Industry Machinery,USA,FTEK,A,L,407290,100.0,"Fuel Tech, Inc.",United States
+"Titan International, Inc.",TITWI,Manufacturing,Automotive,Tires,USA,TWI,A,L,35600,100.0,"Titan International, Inc.",United States
+Ameritek Ventures,ATVROC,Manufacturing,Automotive,Motor Vehicle Parts,USA,ATVK,A,L,140671858,100.0,"Ameritek Ventures, Inc.",United States
+AAR Corp.,AAR,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,AIR,A,L,168154,100.0,AAR Corp.,United States
+"Power Solutions International, Inc.",FRMTIN,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,PSIX,A,L,131731858,100.0,"Power Solutions International, Inc.",United States
+"Cummins, Inc.",CUMEI,Manufacturing,Automotive,Motor Vehicle Parts,USA,CMI,A,L,265253,100.0,Cummins Inc.,United States
+Thermwood Corp.,TWOOD,Manufacturing,Industrial Machinery,Sawmill/Woodworking Machines,USA,TOOD,A,L,308203,100.0,Thermwood Corporation,United States
+LCI Industries,DRWIND,Manufacturing,Automotive,Motor Vehicle Parts,USA,LCII,A,L,267368,100.0,LCI Industries,United States
+"Patrick Industries, Inc.",PATK,Manufacturing,Automotive,Motor Vehicle Parts,USA,PATK,A,L,295249,100.0,"Patrick Industries, Inc.",United States
+"Franklin Electric Co., Inc.",FELE,Manufacturing,Industrial Machinery,Turbines,USA,FELE,A,L,273729,100.0,"Franklin Electric Co., Inc.",United States
+"Allison Transmission Holdings, Inc.",ALLSNT,Manufacturing,Automotive,Motor Vehicle Parts,USA,ALSN,A,L,13529856,100.0,"Allison Transmission Holdings, Inc.",United States
+"Global Water Technologies, Inc.",GLBWTT,Manufacturing,Industrial Machinery,Waste Treatment/Disposal Machinery,USA,GWTR,A,L,395483,100.0,"Global Water Technologies, Inc.",United States
+"Hurco Cos., Inc.",HRCO,Manufacturing,Industrial Machinery,Metalworking Machinery,USA,HURC,A,L,278649,100.0,"Hurco Companies, Inc.",United States
+Wabash National Corp.,WBNAT,Manufacturing,Automotive,Trucks/Lorries/Vans,USA,WNC,A,L,320333,100.0,Wabash National Corporation,United States
+American Power Group Corp.,GRGMTV,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,APGI,A,L,351807,100.0,American Power Group Corporation,United States
+"Arts-Way Manufacturing Co., Inc.",ARTW,Manufacturing,Industrial Machinery,Agricultural Machinery,USA,ARTW,A,L,251792,100.0,"Art's-Way Manufacturing Co., Inc.",United States
+Butler National Corp.,BUTL,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,BUKS,A,L,256765,100.0,Butler National Corporation,United States
+"TX Rail Products, Inc.",HOMMCP,Manufacturing,Industrial Machinery,Mining Machinery,USA,TXRP,A,L,7682726,100.0,"TX Rail Products, Inc",United States
+"Holley, Inc.",IAGGBB,Manufacturing,Automotive,Motor Vehicle Parts,USA,HLLY,A,L,586061084,100.0,Holley Inc.,United States
+"Sypris Solutions, Inc.",GRPTC,Manufacturing,Automotive,Motor Vehicle Parts,USA,SYPR,A,L,334419,100.0,"Sypris Solutions, Inc.",United States
+Haber  Inc.,HABE,Manufacturing,Industrial Machinery,Chemical Industry Machinery,USA,ASPT,A,L,3156623,100.0,"Haber, Inc.",United States
+"Safer Shot, Inc.",MNUMMK,Manufacturing,Aerospace & Defense,Firearms,USA,SAFS,A,L,4717613,100.0,"Safer Shot, Inc.",United States
+Lockheed Martin Corp.,LCKHED,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,LMT,A,L,285827,100.0,Lockheed Martin Corporation,United States
+"TOMI Environmental Solutions, Inc.",OZOMPK,Manufacturing,Industrial Machinery,Chemical Industry Machinery,USA,TOMZ,A,L,40401543,100.0,"TOMI Environmental Solutions, Inc.",United States
+"Universal Security Instruments, Inc.",USEC,Manufacturing,Instruments & Electronics,Alarms/Signaling Equipment,USA,UUU,A,L,311021,100.0,"Universal Safety Products, Inc",United States
+"MKS Instruments, Inc.",MKSINS,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,MKSI,A,L,398351,100.0,MKS Inc.,United States
+"Mercury Systems, Inc.",MRCRY,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,MRCY,A,L,376921,100.0,"Mercury Systems, Inc.",United States
+"Byrna Technologies, Inc.",SEDINT,Manufacturing,Aerospace & Defense,Firearms,USA,BYRN,A,L,26378339,100.0,Byrna Technologies Inc.,United States
+"Novanta, Inc.",LUMO,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,NOVT,A,L,400280,100.0,Novanta Inc.,United States
+"908 Devices, Inc.",NZEDI,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,MASS,A,L,216496942,100.0,908 Devices Inc.,United States
+Dynasil Corp. of America,DYNSIL,Manufacturing,Instruments & Electronics,Optical Instruments,USA,DYSL,A,L,415118,100.0,Dynasil Corporation of America,United States
+Technical Communications Corp.,TCOM,Manufacturing,Instruments & Electronics,Air/Nautical Navigational Instruments,USA,TCCO,A,L,307326,100.0,Technical Communications Corporation,United States
+"Grow Solutions Holdings, Inc.",STRHNC,Manufacturing,Other Manufacturing,Industrial Equipment Rental/Leasing,USA,GRSO,A,L,264254605,100.0,"Grow Solutions Holdings, Inc.",United States
+"Precision Optics Corp., Inc.",PREOPT,Manufacturing,Instruments & Electronics,Optical Instruments,USA,POCI,A,L,344001,100.0,"Precision Optics Corporation, Inc.",United States
+Waters Corp.,WATUSA,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,WAT,A,L,36475,100.0,Waters Corporation,United States
+"Tecogen, Inc.",TECGEN,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,TGEN,A,L,862537,100.0,Tecogen Inc.,United States
+"Teradyne, Inc.",TRADYN,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,TER,A,L,94728,100.0,"Teradyne, Inc.",United States
+"Revvity, Inc.",EGG,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,RVTY,A,L,268363,100.0,"Revvity, Inc.",United States
+Veralto Corp.,PDWEPD,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,VLTO,A,L,1849334916,100.0,Veralto Corporation,United States
+"Mestek, Inc.",MESMAC,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,MCCK,A,L,288703,100.0,"Mestek, Inc.",United States
+Kadant Inc.,THMFIB,Manufacturing,Industrial Machinery,Paper Industry Machinery Manufacturing,USA,KAI,A,L,324610,100.0,Kadant Inc.,United States
+"Onto Innovation, Inc.",NANOM,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,ONTO,A,L,33946,100.0,Onto Innovation Inc.,United States
+Decker Manufacturing Corp.,DCKMFG,Manufacturing,Other Manufacturing,Screws/Nuts/Bolts,USA,DMFG,A,L,3109270,100.0,Decker Manufacturing Corporation,United States
+"BorgWarner, Inc.",BWAUT,Manufacturing,Automotive,Motor Vehicle Parts,USA,BWA,A,L,25708,100.0,BorgWarner Inc.,United States
+"PHINIA, Inc.",CZWEUG,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,PHIN,A,L,1818052351,100.0,PHINIA Inc.,United States
+"Midnight Holdings Group, Inc.",REDOXC,Manufacturing,Automotive,Automotive Repair/Maintenance,USA,MHGI,A,L,7645972,100.0,"Midnight Holdings Group, Inc.",United States
+Ford Motor Co.,FRDMO,Manufacturing,Automotive,Passenger Cars,USA,F,A,L,106335,100.0,Ford Motor Company,United States
+General Motors Co.,GNMOC,Manufacturing,Automotive,Passenger Cars,USA,GM,A,L,61206100,100.0,General Motors Company,United States
+Productivity Technologies Corp.,PRSQ,Manufacturing,Industrial Machinery,Metalworking Machinery,USA,PRAC,A,L,364726,100.0,Productivity Technologies Corp.,United States
+"Artificial Intelligence Technology Solutions, Inc.",OTMSVE,Manufacturing,Automotive,Motor Vehicle Parts,USA,AITX,A,L,430610785,100.0,Artificial Intelligence Technology Solutions Inc.,United States
+"Cooper-Standard Holdings, Inc.",COSTAA,Manufacturing,Automotive,Motor Vehicle Parts,USA,CPS,A,L,4235187,100.0,Cooper-Standard Holdings Inc.,United States
+Federal Screw Works,FSCR,Manufacturing,Other Manufacturing,Screws/Nuts/Bolts,USA,FSCR,A,L,270801,100.0,Federal Screw Works,United States
+Lear Corp.,LSEATC,Manufacturing,Automotive,Motor Vehicle Parts,USA,LEA,A,L,30727,100.0,Lear Corporation,United States
+"Viper Networks, Inc.",VIPNET,Manufacturing,Instruments & Electronics,LED Technologies,USA,VPER,A,L,3152312,100.0,"Viper Networks, Inc.",United States
+Visteon Corp.,VSTECP,Manufacturing,Automotive,Motor Vehicle Parts,USA,VC,A,L,33059010,100.0,VishalCompany,United States
+Gentex Corp.,GENTCO,Manufacturing,Automotive,Motor Vehicle Parts,USA,GNTX,A,L,274926,100.0,Gentex Corporation,United States
+The Toro Co.,TORO,Manufacturing,Industrial Machinery,Construction Machinery,USA,TTC,A,L,190268,100.0,The Toro Company,United States
+Winland Holdings Corp.,WNLE,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,WELX,A,L,372949,100.0,Winland Holdings Corporation,United States
+"Donaldson Co., Inc.",DOCI,Manufacturing,Industrial Machinery,Turbines,USA,DCI,A,L,174765,100.0,"Donaldson Company, Inc.",United States
+"Graco, Inc.",GRCO,Manufacturing,Industrial Machinery,Compressors/Hydraulic Equipment,USA,GGG,A,L,29113,100.0,Graco Inc.,United States
+"Delphax Technologies, Inc.",CHECT,Manufacturing,Industrial Machinery,Printing Machinery/Equipment,USA,DLPX,A,L,260103,100.0,Delphax Technologies Inc.,United States
+"Electro-Sensors, Inc.",ELSE,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,ELSE,A,L,268757,100.0,"Electro-Sensors, Inc.",United States
+Paul Mueller Co.,MUELP,Manufacturing,Industrial Machinery,Food Product Machinery,USA,MUEL,A,L,31775,100.0,Paul Mueller Company,United States
+Emerson Electric Co.,EMELC,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,EMR,A,L,269231,100.0,Emerson Electric Co.,United States
+"Energizer Holdings, Inc.",ENRGHD,Manufacturing,Instruments & Electronics,Batteries,USA,ENR,A,L,262857074,100.0,"Energizer Holdings, Inc.",United States
+AirJoule Technologies Corp.,MJRYGW,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,AIRJ,A,L,1843151935,100.0,AirJoule Technologies Corporation,United States
+Equitech Intl Corporation,EQTECI,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,EQTL,A,L,1006091,100.0,Equitech International Corporation,United States
+Ballistic Recovery Systems  Inc.,BRS,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,BRSI,A,L,253191,100.0,Ballistic Recovery Systems Inc.,United States
+Universal Mfg. Co.,UVMFG,Manufacturing,Automotive,Motor Vehicle Parts,USA,UFMG,A,L,311001,100.0,Universal Mfg. Co.,United States
+Tracker Financial Group Ltd,NVNXY,Manufacturing,Other Manufacturing,Engineering Services,USA,TFGL,A,L,47835122,100.0,Tracker Financial Group Ltd,United States
+Light Management Group Inc,TRSTMG,Manufacturing,Instruments & Electronics,Optical Instruments,USA,LMGR,A,L,7659222,100.0,"Light Management Group, Inc.",Canada
+Northfield Precision Instrument Corp.,NFPIC,Manufacturing,Other Manufacturing,Forging/Stamping,USA,NFPC,A,L,3173708,100.0,Northfield Precision Instrument Corp.,United States
+Lindsay Corp.,LNDSYM,Manufacturing,Industrial Machinery,Agricultural Machinery,USA,LNN,A,L,285016,100.0,Lindsay Corporation,United States
+Amerityre Corp.,AMETIR,Manufacturing,Automotive,Tires,USA,AMTY,A,L,374085,100.0,Amerityre Corporation,United States
+Cytta Corp.,CYTAPK,Manufacturing,Other Manufacturing,Telecommunications Equipment,USA,CYCA,A,L,30883392,100.0,Cytta Corp.,United States
+"Hallmark Venture Group, Inc.",HOMSMA,Manufacturing,Automotive,Trucks/Lorries/Vans,USA,HLLK,A,L,1010224,100.0,"Hallmark Venture Group, Inc.",United States
+"Peregrine Industries, Inc.",PEREGI,Manufacturing,Industrial Machinery,Compressors/Hydraulic Equipment,USA,PGID,A,L,1759842205,100.0,"Peregrine Industries, Inc.",United States
+"CIBL, Inc.",CIBLIC,Manufacturing,Other Manufacturing,Broadband Equipment,USA,CIBY,A,L,43174050,100.0,"CIBL, Inc.",United States
+Energy 1 Corp.,DAIFFI,Manufacturing,Industrial Machinery,Turbines,USA,EGOC,A,L,52806579,100.0,Energy 1 Corp.,United States
+Albany International Corp.,AIC,Manufacturing,Industrial Machinery,Textile/Leatherworking Machinery,USA,AIN,A,L,248608,100.0,Albany International Corp.,United States
+Standex International Corp.,STDXI,Manufacturing,Industrial Machinery,Food Product Machinery,USA,SXI,A,L,304857,100.0,Standex International Corporation,United States
+OPT-Sciences Corp.,OPTSC,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,OPST,A,L,3174003,100.0,OPT-Sciences Corporation,United States
+FGI Industries Ltd.,YYHESD,Manufacturing,Other Manufacturing,Plumbing Fittings/Fixtures,USA,FGI,A,L,1674018953,100.0,FGI Industries Ltd.,United States
+Tel-Instrument Electronics Corp.,TELINE,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,TIKK,A,L,2447238,100.0,Tel-Instrument Electronics Corp.,United States
+Alternative Energy Development Corp.,TRHOPO,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,ADEC,A,L,49387457,100.0,Alternative Energy Development Corp.,United States
+"Cenntro, Inc.",SEBHNS,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,CENN,A,L,577740360,100.0,Cenntro Inc.,United States
+"Bantec, Inc.",DLDVLP,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,BANT,A,L,550356411,100.0,"Bantec, Inc.",United States
+The Dewey Electronics Corp.,DEWEG,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,DEWY,A,L,413376,100.0,The Dewey Electronics Corporation,United States
+"Hudson Technologies, Inc.",HDSNTC,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,HDSN,A,L,340047,100.0,"Hudson Technologies, Inc.",United States
+"Soluna Holdings, Inc.",MECTEC,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,SLNH,A,L,287018,100.0,"Soluna Holdings, Inc.",United States
+Graham Corp.,GRAMAN,Manufacturing,Industrial Machinery,Compressors/Hydraulic Equipment,USA,GHM,A,L,177455,100.0,Graham Corporation,United States
+Air Industries Group,HTHNUT,Manufacturing,Aerospace & Defense,Aircraft Engines,USA,AIRI,A,L,4483423,100.0,Air Industries Group,United States
+"Renovare Environmental, Inc.",SWFSTZ,Manufacturing,Industrial Machinery,Waste Treatment/Disposal Machinery,USA,RENO,A,L,256499818,100.0,"Renovare Environmental, Inc.",United States
+Astronics Corp.,ATRO,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,ATRO,A,L,252033,100.0,Astronics Corporation,United States
+"Moog, Inc.",MOOGIN,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,MOG.A,A,L,289620,100.0,Moog Inc.,United States
+"Monro, Inc.",MONRMB,Manufacturing,Automotive,Automotive Repair/Maintenance,USA,MNRO,A,L,318869,100.0,"Monro, Inc.",United States
+"Cemtrex, Inc.",DVSFAM,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,CETX,A,L,1233961,100.0,"Cemtrex, Inc.",United States
+Orbit International Corp.,ORBIN,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,ORBT,A,L,294032,100.0,Orbit International Corp.,United States
+"Standard Motor Products, Inc.",SMPR,Manufacturing,Automotive,Motor Vehicle Parts,USA,SMP,A,L,304714,100.0,"Standard Motor Products, Inc.",United States
+Sono-Tek Corp.,SONOTE,Manufacturing,Industrial Machinery,Compressors/Hydraulic Equipment,USA,SOTK,A,L,304103,100.0,Sono-Tek Corporation,United States
+"Frequency Electronics, Inc.",FRQELC,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,FEIM,A,L,273673,100.0,"Frequency Electronics, Inc.",United States
+GD Culture Group Ltd.,EKBYRT,Manufacturing,Industrial Machinery,Waste Treatment/Disposal Machinery,USA,GDC,A,L,414726860,100.0,GD Culture Group Limited,United States
+"Evercel, Inc.",EVERCL,Manufacturing,Instruments & Electronics,Batteries,USA,EVRC,A,L,96431,100.0,"Evercel, Inc.",United States
+"FTAI Infrastructure, Inc.",OPNNHM,Manufacturing,Other Manufacturing,Construction Equipment Rental/Leasing,USA,FIP,A,L,1780969641,100.0,FTAI Infrastructure Inc.,United States
+"Nu Ride, Inc.",SUZEGQ,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,NRDE,A,L,643341063,100.0,Nu Ride Inc.,United States
+"Ubiquiti, Inc.",UBINET,Manufacturing,Other Manufacturing,Broadband Equipment,USA,UI,A,L,46084519,100.0,Ubiquiti Inc.,United States
+Ultralife Corp.,ULTLIF,Manufacturing,Instruments & Electronics,Batteries,USA,ULBI,A,L,322457,100.0,Ultralife Corporation,United States
+"Veeco Instruments, Inc.",VEEC,Manufacturing,Instruments & Electronics,LED Technologies,USA,VECO,A,L,338943,100.0,Veeco Instruments Inc.,United States
+"Syntec Optics Holdings, Inc.",SQGYVO,Manufacturing,Instruments & Electronics,Optical Instruments,USA,OPTX,A,L,222788340,100.0,"Syntec Optics Holdings, Inc.",United States
+"Transcat, Inc.",TRNS,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,TRNS,A,L,309251,100.0,"Transcat, Inc.",United States
+Sentry Technology Corp.,KNGNAM,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,SKVY,A,L,331458,100.0,Sentry Technology Corp.,United States
+Park Aerospace Corp.,PEL,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,PKE,A,L,295050,100.0,Park Aerospace Corp.,United States
+"Research Frontiers, Inc.",RESFR,Manufacturing,Instruments & Electronics,Optical Instruments,USA,REFR,A,L,300002,100.0,Research Frontiers Incorporated,United States
+alpha-En Corp.,CORTC,Manufacturing,Instruments & Electronics,Batteries,USA,ALPE,A,L,368723,100.0,alpha-En Corporation,United States
+"Turbodyne Technologies, Inc.",DUNDE,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,TRBD,A,L,376363,100.0,"Turbodyne Technologies, Inc.",United States
+"American Defense Systems, Inc.",ADFNSI,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,ADFS,A,L,24260444,100.0,"American Defense Systems, Inc.",United States
+Columbus McKinnon Corp.,COLMCK,Manufacturing,Industrial Machinery,Handling Equipment,USA,CMCO,A,L,346334,100.0,Columbus McKinnon Corporation,United States
+"Driven Brands Holdings, Inc.",EITMPP,Manufacturing,Automotive,Automotive Repair/Maintenance,USA,DRVN,A,L,699259690,100.0,Driven Brands Holdings Inc.,United States
+"Enpro, Inc.",ENPROI,Manufacturing,Industrial Machinery,Compressors/Hydraulic Equipment,USA,NPO,A,L,2312985,100.0,Enpro Inc.,United States
+"SPX Technologies, Inc.",GENSIG,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,SPXC,A,L,274818,100.0,"SPX Technologies, Inc.",United States
+"NN, Inc.",NNBALL,Manufacturing,Industrial Machinery,Turbines,USA,NNBR,A,L,645715,100.0,"NN, Inc.",United States
+"Ingersoll Rand, Inc.",GARDNN,Manufacturing,Industrial Machinery,Compressors/Hydraulic Equipment,USA,IR,A,L,334158,100.0,Ingersoll Rand Inc.,United States
+"Satellogic, Inc.",KHNVGU,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,SATL,A,L,289634641,100.0,Satellogic Inc.,United States
+Erickson Incorporated,ERKACR,Manufacturing,Aerospace & Defense,Helicopters,USA,EKSN,A,L,28212,100.0,Erickson Incorporated,United States
+"Babcock & Wilcox Enterprises, Inc.",BWNTPZ,Manufacturing,Industrial Machinery,Turbines,USA,BW,A,L,276172365,100.0,"Babcock & Wilcox Enterprises, Inc.",United States
+Goodyear Tire & Rubber Co.,GDYRR,Manufacturing,Automotive,Tires,USA,GT,A,L,275789,100.0,The Goodyear Tire & Rubber Company,United States
+"Concrete Leveling Systems, Inc.",CNCLVG,Manufacturing,Industrial Machinery,Construction Machinery,USA,CLEV,A,L,424619485,100.0,"Concrete Leveling Systems, Inc.",United States
+"Hyster-Yale, Inc.",HYMHI,Manufacturing,Industrial Machinery,Construction Machinery,USA,HY,A,L,2125636,100.0,"Hyster-Yale, Inc.",United States
+"Lincoln Electric Holdings, Inc.",LINEL,Manufacturing,Industrial Machinery,Metalworking Machinery,USA,LECO,A,L,338562,100.0,"Lincoln Electric Holdings, Inc.",United States
+Park-Ohio Holdings Corp.,PKOH,Manufacturing,Other Manufacturing,Forging/Stamping,USA,PKOH,A,L,294994,100.0,Park-Ohio Holdings Corp.,United States
+Parker-Hannifin Corp.,PRKHNF,Manufacturing,Industrial Machinery,Metalworking Machinery,USA,PH,A,L,295170,100.0,Parker-Hannifin Corporation,United States
+"TransDigm Group, Inc.",TRANSD,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,TDG,A,L,22800180,100.0,TransDigm Group Incorporated,United States
+GE Aerospace,GNELC,Manufacturing,Aerospace & Defense,Aircraft Engines,USA,GE,A,L,177031,100.0,General Electric Company,United States
+The Gorman-Rupp Co.,GRCP,Manufacturing,Industrial Machinery,Pump Manufacturing,USA,GRC,A,L,275858,100.0,The Gorman-Rupp Company,United States
+"Dana, Inc.",DANA,Manufacturing,Automotive,Motor Vehicle Parts,USA,DAN,A,L,174336,100.0,Dana Incorporated,United States
+"Commercial Vehicle Group, Inc.",CMMVHL,Manufacturing,Automotive,Trucks/Lorries/Vans,USA,CVGI,A,L,10028455,100.0,"Commercial Vehicle Group, Inc.",United States
+The Timken Co.,BRTIM,Manufacturing,Industrial Machinery,Turbines,USA,TKR,A,L,308582,100.0,The Timken Company,United States
+"Workhorse Group, Inc.",TTLSOI,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,WKHS,A,L,107083408,100.0,"Workhorse Group, Inc.",United States
+"AAON, Inc.",AAONI,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,AAON,A,L,320500,100.0,"AAON, Inc.",United States
+ClearSign Technologies Corp.,CSIGCC,Manufacturing,Industrial Machinery,Turbines,USA,CLIR,A,L,119118786,100.0,ClearSign Technologies Corporation,United States
+"CeCors, Inc.",EXPESY,Manufacturing,Other Manufacturing,Telecommunications Equipment,USA,CEOS,A,L,25912422,100.0,"Psykey, Inc.",Canada
+New Horizon Aircraft Ltd.,CPCVVC,Manufacturing,Aerospace & Defense,Alternative Fuel Aircraft,USA,HOVR,A,L,705265053,100.0,New Horizon Aircraft Ltd.,Canada
+"Arcimoto, Inc.",WTPIN,Manufacturing,Automotive,Passenger Cars,USA,FUVV,A,L,127868737,100.0,"Arcimoto, Inc.",United States
+"Schmitt Industries, Inc.",SCHMI,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,SMIT,A,L,359525,100.0,"Schmitt Industries, Inc.",United States
+"Expion360, Inc.",CJQSJW,Manufacturing,Instruments & Electronics,Batteries,USA,XPON,A,L,1759988183,100.0,Expion360 Inc.,United States
+Reunion Industries  Inc.,BUTTES,Manufacturing,Industrial Machinery,Compressors/Hydraulic Equipment,USA,RUNI,A,L,385358,100.0,"Reunion Industries, Inc.",United States
+"AMETEK, Inc.",AMTAEP,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,AME,A,L,31860,100.0,"AMETEK, Inc.",United States
+"MSA Safety, Inc.",MSAP,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,MSA,A,L,288318,100.0,MSA Safety Incorporated,United States
+"Dorman Products, Inc.",RBINC,Manufacturing,Automotive,Motor Vehicle Parts,USA,DORM,A,L,299160,100.0,"Dorman Products, Inc.",United States
+"Paragon Technologies, Inc.",SIMS,Manufacturing,Industrial Machinery,Handling Equipment,USA,PGNT,A,L,301478,100.0,"Paragon Technologies, Inc.",United States
+"Innovative Solutions & Support, Inc.",INOSOL,Manufacturing,Aerospace & Defense,Avionics,USA,ISSC,A,L,29957,100.0,"Innovative Aerosystems, Inc.",United States
+"Vishay Precision Group, Inc.",VPRCGI,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,VPG,A,L,78966924,100.0,"Vishay Precision Group, Inc.",United States
+"Environmental Solutions Worldwide, Inc.",BBSTKM,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,ESWW,A,L,635858,100.0,"Environmental Solutions Worldwide, Inc.",United States
+"Howmet Aerospace, Inc.",ALMAM,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,HWM,A,L,416264458,100.0,Howmet Aerospace Inc.,United States
+"Kennametal, Inc.",KMETAL,Manufacturing,Industrial Machinery,Metalworking Machinery,USA,KMT,A,L,283484,100.0,Kennametal Inc.,United States
+EnerSys,ENERSY,Manufacturing,Instruments & Electronics,Batteries,USA,ENS,A,L,617490,100.0,EnerSys,United States
+Environmental Tectonics Corp.,ENVT,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,ETCC,A,L,28149,100.0,Environmental Tectonics Corporation,United States
+"Drone Services USA, Inc.",PRNMNG,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,DSUS,A,L,142625476,100.0,"Drone Services USA, Inc.",United States
+"KVH Industries, Inc. (Delaware)",KVHIND,Manufacturing,Instruments & Electronics,Air/Nautical Navigational Instruments,USA,KVHI,A,L,353460,100.0,"KVH Industries, Inc.",United States
+"Textron, Inc.",TEXTR,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,TXT,A,L,35303,100.0,Textron Inc.,United States
+Antelope Enterprise Holdings Ltd.,CHOACH,Manufacturing,Other Manufacturing,Plumbing Fittings/Fixtures,USA,AEHL,A,L,61801608,100.0,Antelope Enterprise Holdings Limited,China
+PCT Ltd.,BGHMP,Manufacturing,Industrial Machinery,Waste Treatment/Disposal Machinery,USA,PCTL,A,L,382860185,100.0,PCT Ltd,United States
+Innoviz Technologies Ltd.,EYZBSJ,Manufacturing,Automotive,Autonomous Driving Technologies,USA,INVZ,A,L,379333903,100.0,Innoviz Technologies Ltd.,Israel
+"Charging Robotics, Inc.",SVHMGS,Manufacturing,Automotive,Motor Vehicle Parts,USA,CHEV,A,L,1774163430,100.0,Charging Robotics Inc.,Israel
+MW Investment Holding Group Inc.,OVCP,Manufacturing,Industrial Machinery,Handling Equipment,USA,MEGH,A,L,375413,100.0,"MW Investment Holding Group, Inc.",United States
+Atec  Inc.,ATECI,Manufacturing,Aerospace & Defense,Aircraft Engines,USA,ATCN,A,L,4634944,100.0,"Atec, Inc.",United States
+LKQ Corp.,LKQCRP,Manufacturing,Automotive,Motor Vehicle Parts,USA,LKQ,A,L,4303924,100.0,LKQ Corporation,United States
+"American Rebel Holdings, Inc.",CSCPXZ,Manufacturing,Instruments & Electronics,Alarms/Signaling Equipment,USA,AREB,A,L,365351876,100.0,"American Rebel Holdings, Inc.",United States
+"Astec Industries, Inc.",ASTII,Manufacturing,Industrial Machinery,Construction Machinery,USA,ASTE,A,L,251951,100.0,"Astec Industries, Inc.",United States
+"Mueller Industries, Inc.",SHARS,Manufacturing,Other Manufacturing,Plumbing Fittings/Fixtures,USA,MLI,A,L,316367,100.0,"Mueller Industries, Inc.",United States
+"Hydrogen Engine Center, Inc.",GRNMTL,Manufacturing,Industrial Machinery,Turbines,USA,HYEG,A,L,23459590,100.0,"Hydrogen Engine Center, Inc.",United States
+"Smith & Wesson Brands, Inc.",DOROMI,Manufacturing,Aerospace & Defense,Firearms,USA,SWBI,A,L,414079,100.0,"Smith & Wesson Brands, Inc.",United States
+"Miller Industries, Inc. (Tennessee)",MLND,Manufacturing,Automotive,Trucks/Lorries/Vans,USA,MLR,A,L,337812,100.0,"Miller Industries, Inc.",United States
+CECO Environmental Corp.,ALRMP,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,CECO,A,L,247170,100.0,CECO Environmental Corp.,United States
+Astrotech Corp.,SPCHB,Manufacturing,Aerospace & Defense,Spacecraft,USA,ASTC,A,L,34592,100.0,Astrotech Corporation,United States
+"Tesla, Inc.",TESLMI,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,TSLA,A,L,27444752,100.0,"Tesla, Inc.",United States
+Hyliion Holdings Corp.,LNEERA,Manufacturing,Automotive,Motor Vehicle Parts,USA,HYLN,A,L,381114489,100.0,Hyliion Holdings Corp.,United States
+"Ecoloclean Industries, Inc.",ARGONT,Manufacturing,Industrial Machinery,Waste Treatment/Disposal Machinery,USA,ECCI,A,L,3178255,100.0,"Ecoloclean Industries, Inc.",United States
+"Vydrotech, Inc.",CRDFIN,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,VYDR,A,L,3170161,100.0,"Vydrotech, Inc.",United States
+"Utilicraft Aerospace Industries, Inc.",UTAIND,Manufacturing,Aerospace & Defense,Civil Aircraft,USA,UITA,A,L,13225886,100.0,"Utilicraft Aerospace Industries, Inc.",United States
+Curtis Mathes Corp.,MRTACQ,Manufacturing,Instruments & Electronics,LED Technologies,USA,CMCZ,A,L,372835575,100.0,Curtis Mathes Corporation,United States
+"Electric & Gas Technology, Inc.",EGTI,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,ELGT,A,L,268615,100.0,"Electric & Gas Technology, Inc.",United States
+"Envirotech Vehicles, Inc.",YPHKPT,Manufacturing,Automotive,Motor Vehicle Parts,USA,EVTV,A,L,699517198,100.0,"Envirotech Vehicles, Inc.",United States
+"Caterpillar, Inc.",CATRA,Manufacturing,Industrial Machinery,Construction Machinery,USA,CAT,A,L,259378,100.0,Caterpillar Inc.,United States
+Flowserve Corp.,DUR,Manufacturing,Industrial Machinery,Pump Manufacturing,USA,FLS,A,L,267555,100.0,Flowserve Corporation,United States
+"Wolf Energy Services, Inc.",IDASIL,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,WOEN,A,L,661613030,100.0,Wolf Energy Services Inc.,United States
+"Ribbon Communications, Inc.",SNUSN,Manufacturing,Other Manufacturing,Telecommunications Equipment,USA,RBBN,A,L,34555,100.0,Ribbon Communications Inc.,United States
+"Lennox International, Inc.",LENIND,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,LII,A,L,401541,100.0,Lennox International Inc.,United States
+"Optex Systems Holdings, Inc.",STUXSE,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,OPXS,A,L,20953994,100.0,"Optex Systems Holdings, Inc",United States
+"Kratos Defense & Security Solutions, Inc.",WIRFAC,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,KTOS,A,L,36652,100.0,"Kratos Defense & Security Solutions, Inc.",United States
+"Alamo Group, Inc.",ALAMG,Manufacturing,Industrial Machinery,Agricultural Machinery,USA,ALG,A,L,24533,100.0,Alamo Group Inc.,United States
+"Microvast Holdings, Inc.",KKMCCF,Manufacturing,Instruments & Electronics,Batteries,USA,MVST,A,L,128864639,100.0,"Microvast Holdings, Inc.",United States
+Marketing Worldwide Corp.,MARKWC,Manufacturing,Automotive,Motor Vehicle Parts,USA,MWWC,A,L,20611768,100.0,Marketing Worldwide Corp,United States
+"Perma-Pipe International Holdings, Inc.",MIDWFT,Manufacturing,Other Manufacturing,Plumbing Fittings/Fixtures,USA,PPIH,A,L,288097,100.0,"Perma-Pipe International Holdings, Inc.",United States
+"Infrax Systems, Inc.",OPCNSY,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,IFXY,A,L,32988036,100.0,"Infrax Systems, Inc.",United States
+Atmus Filtration Technologies Inc.,VJQCET,Manufacturing,Automotive,Motor Vehicle Parts,USA,ATMU,A,L,1826805803,100.0,Atmus Filtration Technologies Inc.,United States
+"Reflect Scientific, Inc.",COLEIC,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,RSCF,A,L,8286931,100.0,"Reflect Scientific, Inc.",United States
+"ClearOne, Inc.",GENEC,Manufacturing,Other Manufacturing,Telecommunications Equipment,USA,CLRO,A,L,274944,100.0,"ClearOne, Inc.",United States
+"Flexpoint Sensor Systems, Inc.",MCPNTT,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,FLXT,A,L,393434,100.0,"Flexpoint Sensor Systems, Inc.",United States
+"EnviroTechnologies International, Inc.",HNST,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,ETII,A,L,246176385,100.0,"EnviroTechnologies International, Inc",United States
+"AeroVironment, Inc.",AERVNT,Manufacturing,Aerospace & Defense,Military Aircraft,USA,AVAV,A,L,1674636,100.0,"AeroVironment, Inc.",United States
+The Boeing Co.,BOEING,Manufacturing,Aerospace & Defense,Civil Aircraft,USA,BA,A,L,370857,100.0,The Boeing Company,United States
+"Leonardo DRS, Inc.",DRSI,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,DRS,A,L,144258,100.0,"Leonardo DRS, Inc.",United States
+RTX Corp.,UTC,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,RTX,A,L,159230,100.0,RTX Corporation,United States
+"Kaiser Group Holdings, Inc.",AMCARP,Manufacturing,Other Manufacturing,Engineering Services,USA,KGHI,A,L,249525,100.0,"Kaiser Group Holdings, Inc.",United States
+Northrop Grumman Corp.,NRTHRP,Manufacturing,Aerospace & Defense,Military Aircraft,USA,NOC,A,L,97199,100.0,Northrop Grumman Corporation,United States
+"BWX Technologies, Inc.",BAWCT,Manufacturing,Industrial Machinery,Turbines,USA,BWXT,A,L,33424519,100.0,"BWX Technologies, Inc.",United States
+"Huntington Ingalls Industries, Inc.",HGTONI,Manufacturing,Aerospace & Defense,Military Watercraft,USA,HII,A,L,363263,100.0,"Huntington Ingalls Industries, Inc.",United States
+"V2X, Inc.",EXLSMI,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,VVX,A,L,262353065,100.0,"V2X, Inc.",United States
+General Dynamics Corp.,GENDYM,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,GD,A,L,274561,100.0,General Dynamics Corporation,United States
+"Luna Innovations, Inc.",LUNNOV,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,LUNA,A,L,5645849,100.0,Luna Innovations Incorporated,United States
+"PACCAR, Inc.",PACAR,Manufacturing,Automotive,Commercial Vehicles,USA,PCAR,A,L,294721,100.0,PACCAR Inc,United States
+ConectiSys Corp.,CSTDL,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,CONC,A,L,791005,100.0,ConectiSys Corporation,United States
+Fortive Corp.,FTVCZZ,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,FTV,A,L,318505463,100.0,Fortive Corporation,United States
+"Itron, Inc.",ITRN,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,ITRI,A,L,30323,100.0,"Itron, Inc.",United States
+"REGI U.S., Inc.",RGUSA,Manufacturing,Industrial Machinery,Compressors/Hydraulic Equipment,USA,RGUS,A,L,401943747,100.0,"REGI U.S., Inc.",United States
+"Tytan Holdings, Inc.",UNFC,Manufacturing,Industrial Machinery,Construction Machinery,USA,TYTN,A,L,3177607,100.0,"Tytan Holdings, Inc.",United States
+Energy Services of America Corp.,ENSEAC,Manufacturing,Other Manufacturing,Industrial Building Construction,USA,ESOA,A,L,26645375,100.0,Energy Services of America Corporation,United States
+"Kronos Advanced Technologies, Inc.",TECSEL,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,KNOS,A,L,688587,100.0,Kronos Advanced Technologies Inc.,United States
+Enerpac Tool Group Corp.,APLDPW,Manufacturing,Other Manufacturing,Engineering Services,USA,EPAC,A,L,251258,100.0,Enerpac Tool Group Corp.,United States
+"EnSync, Inc.",ZBBEC,Manufacturing,Instruments & Electronics,Batteries,USA,ESNC,A,L,13652939,100.0,"EnSync, Inc.",United States
+"Badger Meter, Inc.",BMTR,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,BMI,A,L,253478,100.0,"Badger Meter, Inc.",United States
+"Douglas Dynamics, Inc.",DOUGDL,Manufacturing,Industrial Machinery,Construction Machinery,USA,PLOW,A,L,4277141,100.0,"Douglas Dynamics, Inc.",United States
+"Harley-Davidson, Inc.",HDAV,Manufacturing,Automotive,Motorcycles,USA,HOG,A,L,277444,100.0,"Harley-Davidson, Inc.",United States
+"The Manitowoc Co., Inc.",MANT,Manufacturing,Industrial Machinery,Construction Machinery,USA,MTW,A,L,286163,100.0,"The Manitowoc Company, Inc.",United States
+"Mayville Engineering Co., Inc.",MYVECI,Manufacturing,Other Manufacturing,Forging/Stamping,USA,MEC,A,L,4277414,100.0,"Mayville Engineering Company, Inc.",United States
+"LiveWire Group, Inc.",RDJFAS,Manufacturing,Automotive,Motorcycles,USA,LVWR,A,L,1761375087,100.0,"LiveWire Group, Inc.",United States
+Oshkosh Corp.,OTRUK,Manufacturing,Automotive,Trucks/Lorries/Vans,USA,OSK,A,L,294167,100.0,Oshkosh Corporation,United States
+Odyne Corporation,THINTG,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,ODYC,A,L,29731008,100.0,Odyne Corporation,United States
+Modine Manufacturing Co.,MOD,Manufacturing,Automotive,Motor Vehicle Parts,USA,MOD,A,L,288838,100.0,Modine Manufacturing Company,United States
+"Generac Holdings, Inc.",GNRCPS,Manufacturing,Industrial Machinery,Heating/Cooling/Air Treatment Equipment,USA,GNRC,A,L,78749412,100.0,Generac Holdings Inc.,United States
+"Giga-tronics, Inc.",GTRNCS,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,GIGA,A,L,3103536,100.0,Giga Metals Corporation,Canada
+"Cannabix Technologies, Inc.",WPNRSI,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,BLO,A,L,134232420,100.0,Bloober Team SA,Poland
+"Somero Enterprises, Inc.",SMRENI,Manufacturing,Industrial Machinery,Construction Machinery,USA,SOM,A,L,20986436,100.0,Somec S.p.A.,Italy
+MyCelx Technologies Corp.,MYCETC,Manufacturing,Industrial Machinery,Waste Treatment/Disposal Machinery,USA,MYX,A,L,28606250,100.0,Mayne Pharma Group Limited,Australia
+"Hillenbrand, Inc.",HININH,Manufacturing,Industrial Machinery,Metalworking Machinery,USA,HI,A,L,28813289,100.0,Highland Copper Company Inc.,Canada
+"Spirit AeroSystems Holdings, Inc.",SARSYI,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,SPR,A,L,640848132,100.0,Spyrosoft Spólka Akcyjna,Poland
+"American Axle & Manufacturing Holdings, Inc.",AMXLE,Manufacturing,Automotive,Motor Vehicle Parts,USA,AXL,A,L,569756446,100.0,Arrow Exploration Corp.,Canada
+"Superior Industries International, Inc.",SUP,Manufacturing,Automotive,Motor Vehicle Parts,USA,SUP,A,L,562171664,100.0,Supreme Plc,United Kingdom
+"Triumph Group, Inc.",TRIIND,Manufacturing,Aerospace & Defense,Aircraft Cabin Equipment,USA,TGI,A,L,953543,100.0,Tgi Infrastructures Ltd,Israel
+Spectra Systems Corp.,SPCSCI,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,SPSY,A,L,3240785,100.0,Spectra Systems Corporation,United States
+"Brighton-Best International (Taiwan), Inc.",BBSASM,Manufacturing,Other Manufacturing,Screws/Nuts/Bolts,USA,8415,A,L,106519998,100.0,Brighton-Best International (Taiwan) Inc.,Taiwan
+"Volcon, Inc.",MKGVGT,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,VLCN,A,L,24210204,100.0,Velcan Holdings,Luxembourg
+Reliance Worldwide Corp. Ltd.,RELIWC,Manufacturing,Other Manufacturing,Plumbing Fittings/Fixtures,USA,RWC,A,L,330654700,100.0,Reliance Worldwide Corporation Limited,United States
+"Faraday Future Intelligent Electric, Inc.",DDNTYP,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,FFIE,A,L,317005729,99.96,Faraday Future Intelligent Electric Inc.,United States
+JBT Marel Corp.,JOBETC,Manufacturing,Industrial Machinery,Food Product Machinery,USA,JBT,A,L,4259332,99.96,JBT Marel Corporation,United States
+"H&E Equipment Services, Inc.",HEQUIP,Manufacturing,Other Manufacturing,Construction Equipment Rental/Leasing,USA,HEES,A,L,129318,99.96,"H&E Equipment Services, Inc.",United States
+Evans & Sutherland Computer Corporation,EAS,Manufacturing,Other Manufacturing,Simulators,USA,,A,L,28280,99.96,Evans & Sutherland Computer Corporation,United States
+"FARO Technologies, Inc.",FRTCNG,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,FARO,A,L,365602,99.95,"FARO Technologies, Inc.",United States
+"Spectaire Holdings, Inc.",BOHIFP,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,,A,L,1822389849,99.95,Spectaire Holdings Inc.,United States
+"Unique Fabricating, Inc.",UNIQFI,Manufacturing,Automotive,Vehicle Engine/Engine Parts,USA,UFABQ,A,L,4205366,99.95,"Unique Fabricating, Inc.",United States
+"Loar Holdings, Inc.",LOARH,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,,A,L,1876857378,99.95,Loar Holdings Inc.,United States
+"SIFCO Industries, Inc.",SIFI,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,,A,L,301192,99.95,"SIFCO Industries, Inc.",United States
+"Amentum Holdings, Inc.",AMNTMH,Manufacturing,Other Manufacturing,Engineering Services,USA,,A,L,145132373,99.95,"Amentum Holdings, Inc.",United States
+"Movella Holdings, Inc.",HTTUYI,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,,A,L,138186591,99.94,Movella Holdings Inc.,United States
+"Luminar Technologies, Inc.",AUUMBW,Manufacturing,Automotive,Autonomous Driving Technologies,USA,LAZR,A,L,429108594,99.93,"Luminar Technologies, Inc.",United States
+"Mirion Technologies, Inc.",MGPIN,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,,A,L,836768,99.93,"Mirion Technologies, Inc.",United States
+"AIRO Group Holdings, Inc.",AIGHIU,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,,A,L,1932425608,99.93,"AIRO Group Holdings, Inc.",United States
+"Servotronics, Inc.",SVT,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,,A,L,302848,99.93,"Servotronics, Inc.",United States
+EZRaider Co.,EWSTCP,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,EZRG,A,L,717020733,99.93,EZRaider Co.,United States
+"Capstone Green Energy Holdings, Inc.",CAPTRB,Manufacturing,Industrial Machinery,Turbines,USA,,A,L,26058,99.92,"Capstone Green Energy Holdings, Inc.",United States
+"Lucid Group, Inc.",ATIEVI,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,,A,L,83747444,99.91,"Lucid Group, Inc.",United States
+"REV Group, Inc.",AEOHI,Manufacturing,Automotive,Commercial Vehicles,USA,REVG,A,L,113541117,99.9,"REV Group, Inc.",United States
+Gacw Incorporated,GACWIU,Manufacturing,Automotive,Motor Vehicle Parts,USA,GACW,A,L,545696963,99.89,GACW Incorporated,United States
+"Nxu, Inc.",AMVHCI,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,NXU,A,L,556353116,99.89,"Nxu, Inc.",United States
+"Momentus, Inc.",ZUAUPA,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,,A,L,578410936,99.88,Momentus Inc.,United States
+Nikola Corp.,WRPJAN,Manufacturing,Automotive,Commercial Vehicles,USA,NKLA,A,L,590935798,99.87,Nikola Corporation,United States
+BrewBilt Brewing Co.,SBRTBO,Manufacturing,Industrial Machinery,Food Product Machinery,USA,,A,L,588508331,99.87,BrewBilt Brewing Company,United States
+Crawford United Corp.,HELCI,Manufacturing,Instruments & Electronics,Environmental Control Systems,USA,CRAWA,A,L,349774,99.87,Crawford United Corporation,United States
+Cdex Inc.,CDEXIN,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,,A,L,5027940,99.86,CDEX Inc.,United States
+"Rivian Automotive, Inc.",OYQPNI,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,,A,L,144746614,99.86,"Rivian Automotive, Inc.",United States
+"CPI Aerostructures, Inc.",CPIAR,Manufacturing,Aerospace & Defense,Aircraft Engines,USA,,A,L,327868,99.86,"CPI Aerostructures, Inc.",United States
+"AEye, Inc.",ULADAI,Manufacturing,Automotive,Autonomous Driving Technologies,USA,,A,L,418282297,99.85,"AEye, Inc.",United States
+"NV5 Global, Inc.",VERTLV,Manufacturing,Other Manufacturing,Engineering Services,USA,NVEE,A,L,206492532,99.85,"NV5 Global, Inc.",United States
+"XPEL, Inc.",XPLTCH,Manufacturing,Automotive,Motor Vehicle Parts,USA,XPLT,A,L,10945567,99.85,"XPEL, Inc.",United States
+"Canoo, Inc.",BWHBTQ,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,GOEV,A,L,684202944,99.84,Canoo Inc.,United States
+"Electronic Tele Communications, Inc.",ETCT,Manufacturing,Other Manufacturing,Telecommunications Equipment,USA,ETCIA,A,L,268912,99.83,"Electronic Tele-Communications, Inc.",United States
+Proliance International Inc,TRSPRO,Manufacturing,Automotive,Motor Vehicle Parts,USA,PLNTQ,A,L,122969,99.81,"Proliance International, Inc.",United States
+Agrify Corp.,GSOPNK,Manufacturing,Industrial Machinery,Agricultural Machinery,USA,,A,L,647707953,99.81,"RYTHM, Inc.",United States
+"Electric Last Mile Solutions, Inc.",YQVHUG,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,,A,L,697835242,99.79,"Electric Last Mile Solutions, Inc.",United States
+"Millennium Cell, Inc.",MLENGY,Manufacturing,Instruments & Electronics,Batteries,USA,MCELQ,A,L,527435,99.79,"Millennium Cell, Inc.",United States
+"Axion Power International, Inc.",IDLEAD,Manufacturing,Instruments & Electronics,Batteries,USA,AXPWQ,A,L,8292781,99.79,"Axion Power International, Inc.",United States
+Karman Holdings Inc.,LCGWDQ,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,,A,L,1787101270,99.77,Karman Holdings Inc.,United States
+COMSovereign Holding Corp.,NBKLKH,Manufacturing,Aerospace & Defense,Drones,USA,,A,L,630539332,99.76,COMSovereign Holding Corp.,United States
+"BrewBilt Manufacturing, Inc.",WMQESK,Manufacturing,Industrial Machinery,Food Product Machinery,USA,,A,L,645496677,99.76,BrewBilt Manufacturing Inc.,United States
+"Aurora Innovation, Inc.",CMQMMS,Manufacturing,Automotive,Autonomous Driving Technologies,USA,,A,L,424226705,99.74,"Aurora Innovation, Inc.",United States
+"FiEE, Inc.",ZMTPPK,Manufacturing,Other Manufacturing,Telecommunications Equipment,USA,MINM,A,L,7672496,99.73,"FiEE, Inc.",Hong Kong
+"The Shyft Group, Inc.",SPTMT,Manufacturing,Automotive,Commercial Vehicles,USA,SHYF,A,L,304778,99.73,"The Shyft Group, Inc.",United States
+Dragonfly Energy Holdings Corp.,QQJFZK,Manufacturing,Instruments & Electronics,Batteries,USA,,A,L,369871283,99.73,Dragonfly Energy Holdings Corp.,United States
+PGD Eco Solutions Inc.,VRSWKP,Manufacturing,Instruments & Electronics,Batteries,USA,PGDE,A,L,1777149504,99.72,"Intelithrive, Inc.",United States
+"Hawkeye Systems, Inc.",OORTIG,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,,A,L,578941934,99.67,"Hawkeye Systems, Inc.",United States
+Lithium Technology Corp.,HOPTEC,Manufacturing,Instruments & Electronics,Batteries,USA,LTHUQ,A,L,30881,99.66,Lithium Technology Corporation,United States
+Xenonics  Inc.,DGTHTS,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,XNNHQ,A,L,5534580,99.65,"Xenonics Holdings, Inc.",United States
+Duke Robotics Corp.,UWSDRD,Manufacturing,Aerospace & Defense,Drones,USA,USDR,A,L,421936404,99.62,DUKE Robotics Corp.,Israel
+"Vyre Network, Inc.",CIMBIC,Manufacturing,Industrial Machinery,Turbines,USA,CAPV,A,L,1759961178,99.61,Vyre Network,United States
+"Phoenix Motor, Inc.",PHMOCA,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,PEV,A,L,1760013428,99.54,Phoenix Motor Inc.,United States
+Orbital Infrastructure Group Inc,PGRMLR,Manufacturing,Instruments & Electronics,Measuring/Precision Instruments,USA,,A,L,676196,99.48,"Orbital Infrastructure Group, Inc.",United States
+"Pharmagreen Biotech, Inc.",AZRINT,Manufacturing,Aerospace & Defense,Aerospace Products/Parts,USA,AITG,A,L,572907885,99.47,Pharmagreen Biotech Inc.,Canada
+RONN Inc.,VPQZYU,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,,A,L,416071039,99.46,Aimwell Partners Inc.,United States
+Federal-Mogul Holdings Corporation,FEDMGL,Manufacturing,Automotive,Motor Vehicle Parts,USA,,A,L,271077,99.43,Federal-Mogul LLC,United States
+"AYRO, Inc.",PRASRV,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,AYRO,A,L,648761565,99.35,"Fabric.AI, Inc.",United States
+Ameridge Corp.,NWDRRP,Manufacturing,Automotive,Tires,USA,900100,A,L,254117754,99.15,Ambridge Partners LLC,United States
+Galaxy Enterprises Inc.,GLXYE,Manufacturing,Industrial Machinery,Machinery,USA,,A,L,1674016757,99.11,Galaxy Enterprises Inc.,United States
+Osiris Corp.,MXMMTG,Manufacturing,Industrial Machinery,Construction Machinery,USA,OSRS,A,L,4468010,99.11,Osiris Corporation,United States
+"Mullen Automotive, Inc.",SPLTEC,Manufacturing,Automotive,Passenger Cars,USA,MULN,A,L,302789480,98.59,"Bollinger Innovations, Inc.",United States
+Bravo Enterprises Ltd.,ASDRC,Manufacturing,Industrial Machinery,Pump Manufacturing,USA,,A,L,53886303,98.5,Bravo Enterprises Ltd.,United States
+Wabco Holdings Inc.,WBCWI,Manufacturing,Automotive,Automotive Telematics,USA,,A,L,32872064,96.6,WABCO Holdings Inc.,Switzerland
+"Alternet Systems, Inc.",AESYCN,Manufacturing,Instruments & Electronics,Batteries,USA,ALYI,A,L,4942182,96.43,MBAK Energy Solutions Inc.,United States
+"Next Dynamics, Inc.",EVPHPK,Manufacturing,Aerospace & Defense,Defense Equipment/Products,USA,EVPH,A,L,601725261,93.86,Next Dynamics Inc.,Canada
+"Damon, Inc.",NEPDRM,Manufacturing,Automotive,Motorcycles,USA,,A,L,25744569,85.49,"Damon Industries, Inc.",United States
+World Scan Project Corporation,WSCNPK,Manufacturing,Aerospace & Defense,Drones,USA,WDSP,A,L,672100844,82.32,"World Scan Project, Inc.",Japan
+Ai Pony Inc,APNYIN,Manufacturing,Automotive,Autonomous Driving Technologies,USA,,A,L,430906711,77.92,"Pony.ai, Inc.",United States
+Arrival Vault Us  Inc.,ZJGTWP,Manufacturing,Automotive,Alternative Fuel Vehicles,USA,ARVLF,A,L,324348557,10.63,"Atlas Vault, Inc.",United States

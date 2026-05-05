@@ -1,6 +1,7 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { parseCSVText } from './utils/parseSheet.js'
 import { computeScores } from './utils/scoringModel.js'
+import TaxonomyFilter from './components/TaxonomyFilter.jsx'
 import WeightSliders from './components/WeightSliders.jsx'
 import ResultsTable from './components/ResultsTable.jsx'
 import IndustryChart from './components/IndustryChart.jsx'
@@ -11,16 +12,16 @@ const WEIGHT_COLUMNS = [
   'Z-Score',
   'Quick Ratio',
   'Receivables to Revenue',
-  'FSS Score',
+  'Debt to EBITDA',
   'FSS Weekly Change',
 ]
 
 const DEFAULT_WEIGHTS = {
-  'Z-Score': 35,
+  'Z-Score': 30,
   'Quick Ratio': 25,
-  'Receivables to Revenue': 15,
-  'FSS Score': 10,
-  'FSS Weekly Change': 15,
+  'Receivables to Revenue': 20,
+  'Debt to EBITDA': 15,
+  'FSS Weekly Change': 10,
 }
 
 export default function App() {
@@ -29,6 +30,7 @@ export default function App() {
   const [optionalColumns, setOptionalColumns] = useState([])
   const [scoredRows, setScoredRows] = useState(null)
   const [scoresStale, setScoresStale] = useState(false)
+  const [filters, setFilters] = useState({ sector: '', subSector: '', industry: '' })
   const [error, setError] = useState(null)
 
   useEffect(() => {
@@ -73,10 +75,20 @@ export default function App() {
   }
 
   const availableOptionalColumns = (parsedData?.numericColumns ?? []).filter(
-    (col) => !WEIGHT_COLUMNS.includes(col)
+    (col) => !WEIGHT_COLUMNS.includes(col) && !col.startsWith('_')
   )
 
-  const displayColumns = parsedData?.headers ?? []
+  const filteredRows = useMemo(() => {
+    if (!scoredRows) return null
+    return scoredRows.filter(row => {
+      if (filters.sector && row.Sector !== filters.sector) return false
+      if (filters.subSector && row.SubSector !== filters.subSector) return false
+      if (filters.industry && row.Industry !== filters.industry) return false
+      return true
+    })
+  }, [scoredRows, filters])
+
+  const displayColumns = (parsedData?.headers ?? []).filter(h => !h.startsWith('_'))
 
   return (
     <div className="app">
@@ -122,7 +134,16 @@ export default function App() {
               </p>
             </div>
 
-            {/* 2. Sliders + Histogram side by side */}
+            {/* 2. Taxonomy filter */}
+            <div className="controls-card">
+              <TaxonomyFilter
+                rows={scoredRows}
+                filters={filters}
+                onFiltersChange={setFilters}
+              />
+            </div>
+
+            {/* 3. Sliders + Histogram side by side */}
             <div className="sliders-histogram-row">
               <div className="controls-card">
                 <WeightSliders
@@ -138,13 +159,13 @@ export default function App() {
                 />
               </div>
               <div className={`chart-card${scoresStale ? ' stale' : ''}`}>
-                <ScoreHistogram scoredRows={scoredRows} />
+                <ScoreHistogram scoredRows={filteredRows} />
               </div>
             </div>
 
             {/* 4. Industry averages */}
             <div className={`chart-card${scoresStale ? ' stale' : ''}`}>
-              <IndustryChart scoredRows={scoredRows} />
+              <IndustryChart scoredRows={filteredRows} filters={filters} onFiltersChange={setFilters} />
             </div>
 
             {/* 5. Full table */}
@@ -152,7 +173,7 @@ export default function App() {
               <ResultsTable
                 rows={parsedData.rows}
                 displayColumns={displayColumns}
-                scoredRows={scoredRows}
+                scoredRows={filteredRows}
               />
             </div>
           </>

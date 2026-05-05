@@ -8,31 +8,89 @@ const INVERTED_COLUMNS = new Set([
   '52-Week Low Price',
 ])
 
+function percentile(sortedValues, p) {
+  if (sortedValues.length === 0) return 0
+  const idx = (p / 100) * (sortedValues.length - 1)
+  const lower = Math.floor(idx)
+  const upper = Math.ceil(idx)
+  if (lower === upper) return sortedValues[lower]
+  return sortedValues[lower] + (idx - lower) * (sortedValues[upper] - sortedValues[lower])
+}
+
+function getDebtEbitdaNormalized(row) {
+  const ebitda = row['_ebitda']
+  const debt = row['_totalDebt']
+  if (ebitda !== undefined && ebitda < 0) return 1
+  if (debt !== undefined && debt < 0) return 0
+  return null
+}
+
 export function computeScores(rows, weights, weightColumns) {
-  // Compute min and max for each weighted column across all rows
   const stats = {}
   for (const col of weightColumns) {
-    const values = rows
+    let filtered = rows
+    if (col === 'Debt to EBITDA') {
+      filtered = rows.filter((r) => {
+        const ebitda = r['_ebitda']
+        const debt = r['_totalDebt']
+        return !(typeof ebitda === 'number' && ebitda < 0) && !(typeof debt === 'number' && debt < 0)
+      })
+    }
+    const values = filtered
       .map((r) => r[col])
       .filter((v) => typeof v === 'number' && isFinite(v))
-    stats[col] = {
-      min: values.length ? Math.min(...values) : 0,
-      max: values.length ? Math.max(...values) : 0,
-    }
+      .sort((a, b) => a - b)
+
+    const p5 = percentile(values, 5)
+    const p95 = percentile(values, 95)
+
+    stats[col] = { min: p5, max: p95 }
   }
 
   const scored = rows.map((row) => {
     let score = 0
+    let activeWeightTotal = 0
+
+    // First pass: determine which columns have valid data
     for (const col of weightColumns) {
-      const { min, max } = stats[col]
-      const value = row[col]
-      let normalized = 0
-      if (max !== min && typeof value === 'number' && isFinite(value)) {
-        const raw = (value - min) / (max - min)
-        normalized = INVERTED_COLUMNS.has(col) ? 1 - raw : raw
+      if (col === 'Debt to EBITDA') {
+        const override = getDebtEbitdaNormalized(row)
+        const value = row[col]
+        if (override !== null || (typeof value === 'number' && isFinite(value))) {
+          if (weights[col] > 0) activeWeightTotal += weights[col]
+        }
+        continue
       }
-      score += (weights[col] / 100) * normalized
+      const value = row[col]
+      if (typeof value === 'number' && isFinite(value) && weights[col] > 0) {
+        activeWeightTotal += weights[col]
+      }
     }
+
+    // Second pass: compute normalized score with rescaled weights
+    if (activeWeightTotal > 0) {
+      for (const col of weightColumns) {
+        if (col === 'Debt to EBITDA') {
+          const override = getDebtEbitdaNormalized(row)
+          if (override !== null) {
+            score += (weights[col] / activeWeightTotal) * override
+            continue
+          }
+        }
+
+        const { min, max } = stats[col]
+        const value = row[col]
+        if (max === min || typeof value !== 'number' || !isFinite(value)) continue
+
+        const clipped = Math.max(min, Math.min(max, value))
+        const raw = (clipped - min) / (max - min)
+        const normalized = INVERTED_COLUMNS.has(col) ? 1 - raw : raw
+
+        // Rescale: this column's weight relative to the active total
+        score += (weights[col] / activeWeightTotal) * normalized
+      }
+    }
+
     return {
       ...row,
       _score: Math.round(score * 10000) / 100, // 0–100 scale, 2 decimal places

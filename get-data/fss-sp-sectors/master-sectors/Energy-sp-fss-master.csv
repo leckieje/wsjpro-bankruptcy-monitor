@@ -1,0 +1,765 @@
+CompanyName-fss,CompanyCode-fss,Sector,SubSector,Industry,Region,Ticker,Status,ListStatus,SPCIQ_ID,link_score,CompanyName-sp,Country
+Allenergy Inc,ALNRYG,Energy,Oil & Gas,Oil Extraction,USA,ALRY,A,L,1086083,100.0,"Allenergy, Inc.",United States
+"3Power Energy Group, Inc.",ATMFNC,Energy,Renewables,Renewable Energy Generation,USA,PSPW,A,L,40153081,100.0,"3Power Energy Group, Inc.",United Arab Emirates
+GeoSolar Technologies Inc.,CGMBFN,Energy,Renewables,Renewable Energy Generation,USA,GSLR,A,L,702963885,100.0,"GeoSolar Technologies, Inc.",United States
+Okmin Resources Inc.,TVIIOS,Energy,Oil & Gas,Oil/Gas Exploration,USA,OKMN,A,L,709234668,100.0,"Okmin Resources, Inc.",United States
+"DH Enchantment, Inc.",AMIRAM,Energy,Oil & Gas,Oil/Gas Exploration,USA,ENMI,A,L,11286868,100.0,"DH Enchantment, Inc.",Hong Kong
+Novagant Corp.,KEDSYS,Energy,Electrical,Electric Lighting Equipment,USA,NVGT,A,L,1759350033,100.0,Novagant Corp.,Hong Kong
+"King Resources, Inc.",MJRLGN,Energy,Oil & Gas,Oil/Gas Exploration,USA,KRFG,A,L,372609,100.0,"King Resources, Inc",Hong Kong
+Sino Bioenergy Corp.,SINFC,Energy,Renewables,Biofuels,USA,SFBE,A,L,30120684,100.0,Sino Bioenergy Corp.,Hong Kong
+"Warrior Met Coal, Inc.",WWRCOA,Energy,Fuel & Mining,Coal Mining,USA,HCC,A,L,380779777,100.0,"Warrior Met Coal, Inc.",United States
+Polar Petroleum Corp.,PODAIC,Energy,Oil & Gas,Oil/Gas Extraction,USA,POLR,A,L,133308247,100.0,Polar Petroleum Corp.,United States
+Alaska Power & Telephone Co.,ALASP,Energy,Renewables,Renewable Energy Generation,USA,APTL,A,L,2954765,100.0,Alaska Power & Telephone Company,United States
+Graphene & Solar Technologies Ltd.,AAAEEY,Energy,Renewables,Renewable Energy Equipment,USA,GSTX,A,L,539699387,100.0,Graphene & Solar Technologies Limited,United States
+"Global Water Resources, Inc.",GWARI,Energy,Utilities,Water Utilities,USA,GWRS,A,L,44732344,100.0,"Global Water Resources, Inc.",United States
+Global Water Resources Inc,GWRGW,Energy,Utilities,Water Utilities,USA,GWRS,A,L,44732344,100.0,"Global Water Resources, Inc.",United States
+"Centuri Holdings, Inc.",JEBUTH,Energy,Oil & Gas,Gas Utilities,USA,CTRI,A,L,311215774,100.0,"Centuri Holdings, Inc.",United States
+"EVO Transportation & Energy Services, Inc.",MINNSH,Energy,Oil & Gas,Gasoline/Service Stations,USA,EVOA,A,L,411411121,100.0,"EVO Transportation & Energy Services, Inc.",United States
+Pinnacle West Capital Corp.,PCLWC,Energy,Utilities,Electric Utilities,USA,PNW,A,L,296957,100.0,Pinnacle West Capital Corporation,United States
+"Green Planet Group, Inc.",PRMMRK,Energy,Fuel & Mining,Fuel Additives,USA,GNPG,A,L,26629773,100.0,"Green Planet Group, Inc.",United States
+"PetroSun, Inc.",PTRSND,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,PSUD,A,L,25214116,100.0,"PetroSun, Inc.",United States
+"Saxon Capital Group, Inc.",COMLKC,Energy,Oil & Gas,Oil/Gas Exploration,USA,SCGX,A,L,30197023,100.0,"Saxon Capital Group, Inc.",United States
+"BlaqClouds, Inc.",MEWTXT,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,BCDS,A,L,131865880,100.0,"BLAQclouds, Inc.",United States
+"Mondial Ventures, Inc.",MNDVIN,Energy,Oil & Gas,Oil/Gas Exploration,USA,MNVN,A,L,117846582,100.0,"Mondial Ventures, Inc.",United States
+"SolarWindow Technologies, Inc.",OCTION,Energy,Renewables,Renewable Energy Equipment,USA,WNDW,A,L,3174098,100.0,"SolarWindow Technologies, Inc.",United States
+"First Solar, Inc.",FSOLAR,Energy,Renewables,Renewable Energy Equipment,USA,FSLR,A,L,4593731,100.0,"First Solar, Inc.",United States
+"AuraSource, Inc.",INTDIR,Energy,Fuel & Mining,Coal Mining,USA,ARAO,A,L,9197927,100.0,"AuraSource, Inc.",United States
+"Titan NRG, Inc.",VKINT,Energy,Renewables,Renewable Energy Equipment,USA,TTNN,A,L,84200383,100.0,Titan NRG Inc.,United States
+"Murphy USA, Inc.",MRPHUA,Energy,Oil & Gas,Gasoline/Service Stations,USA,MUSA,A,L,240460878,100.0,Murphy USA Inc.,United States
+White River Energy Corp.,XTABAC,Energy,Oil & Gas,Oil/Gas Exploration,USA,WTRV,A,L,1837715063,100.0,White River Energy Corp.,United States
+Black Rock Petroleum Co.,BLRPCU,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,BKRP,A,L,242629788,100.0,Black Rock Petroleum Company,United States
+Spectrum Oil Corp,SLCTTC,Energy,Oil & Gas,Oil/Gas Extraction,USA,SPOC,A,L,1528210,100.0,Spectrum Technology Corporation,United States
+Fidelis Energy  Inc.,EGSTEN,Energy,Oil & Gas,Oil/Gas Exploration,USA,FDEI,A,L,7691744,100.0,"Fidelis Energy, Inc.",United States
+Synergie Wellness Products,HHCLBS,Energy,Oil & Gas,Cosmetics/Toiletries,USA,SYHO,A,L,412344,100.0,"Synergie Wellness Products, Inc.",United States
+Go Solar Usa  Inc.,FRSCPK,Energy,Renewables,Renewable Energy Equipment,USA,GSLO,A,L,51616874,100.0,"Go Solar USA, Inc.",United States
+Silver Star Energy Inc,MOTHLD,Energy,Oil & Gas,Oil/Gas Exploration,USA,SVSE,A,L,4449067,100.0,"Silver Star Energy, Inc.",United States
+Medra Corporation,CONSPO,Energy,Fuel & Mining,Fuel Cells,USA,MDRA,A,L,408221,100.0,Medra Corporation,United States
+Cheyenne Resources Corp.,INTHLL,Energy,Oil & Gas,Oil/Gas Exploration,USA,CYRS,A,L,31368478,100.0,Cheyenne Resources Corporation,United States
+Ojai Oil Co.,OJAIOC,Energy,Oil & Gas,Oil/Gas Extraction,USA,OJOC,A,L,3174209,100.0,Ojai Oil Company,United States
+"ChargePoint Holdings, Inc.",MIONPY,Energy,Oil & Gas,Gasoline/Service Stations,USA,CHPT,A,L,51174327,100.0,"ChargePoint Holdings, Inc.",United States
+"Tigo Energy, Inc.",RNPTGC,Energy,Renewables,Renewable Energy Equipment,USA,TYGO,A,L,45536841,100.0,"Tigo Energy, Inc.",United States
+"GreenGro Technologies, Inc.",STRACQ,Energy,Renewables,Renewable Energy Equipment,USA,GRNH,A,L,527890,100.0,"GreenGro Technologies, Inc.",United States
+"Cavitation Technologies, Inc.",BIONRG,Energy,Electrical,Industrial Electrical Equipment,USA,CVAT,A,L,49503198,100.0,"Cavitation Technologies, Inc.",United States
+"Allied Energy, Inc.",TECFUE,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,AGGI,A,L,22847738,100.0,"Allied Energy, Inc.",United States
+"Commerce Energy Group, Inc.",COENGR,Energy,Utilities,Multiutilities,USA,CMNR,A,L,10725007,100.0,"Commerce Energy Group, Inc.",United States
+"Aemetis, Inc.",MRWCH,Energy,Renewables,Biofuels,USA,AMTX,A,L,27792863,100.0,"Aemetis, Inc.",United States
+Agentix Corp.,FRWENI,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,AGTX,A,L,669854590,100.0,Agentix Corp.,United States
+"Royale Energy, Inc.",RYLENF,Energy,Oil & Gas,Oil/Gas Exploration,USA,ROYL,A,L,341309,100.0,"Royale Energy, Inc.",United States
+"EVgo, Inc.",FBADQB,Energy,Oil & Gas,Gasoline/Service Stations,USA,EVGO,A,L,573757461,100.0,"EVgo, Inc.",United States
+"Enphase Energy, Inc.",ENPHEI,Energy,Electrical,Electrical Components/Equipment,USA,ENPH,A,L,40485464,100.0,"Enphase Energy, Inc.",United States
+"Nextracker, Inc.",KNGWUO,Energy,Renewables,Solar Energy,USA,NXT,A,L,257530966,100.0,Nextpower Inc.,United States
+"Polar Power, Inc.",POLPOI,Energy,Electrical,Electrical Components/Equipment,USA,POLA,A,L,51582326,100.0,"Polar Power, Inc.",United States
+"Clean Energy Technologies, Inc.",PRBMII,Energy,Renewables,Renewable Energy Equipment,USA,CETY,A,L,6761236,100.0,"Clean Energy Technologies, Inc.",United States
+"Toughbuilt Industries, Inc.",TOUGII,Energy,Electrical,Portable Power Tools,USA,TBLT,A,L,329668209,100.0,"ToughBuilt Industries, Inc.",United States
+"Rock Ridge Resources, Inc.",SRRGLD,Energy,Oil & Gas,Oil/Gas Extraction,USA,RRRI,A,L,121106,100.0,"Rock Ridge Resources, Inc.",United States
+California Resources Corp.,YIOUBM,Energy,Oil & Gas,Oil Extraction,USA,CRC,A,L,263774786,100.0,California Resources Corporation,United States
+"Foothills Exploration, Inc.",KLASZZ,Energy,Oil & Gas,Oil/Gas Exploration,USA,FTXP,A,L,344248398,100.0,"Foothills Exploration, Inc.",United States
+"Alpha Technologies Group, Inc.",SYNCOM,Energy,Electrical,Electrical Components/Equipment,USA,AHAG,A,L,306722,100.0,"Alpha Technologies Group, Inc.",United States
+"TurnOnGreen, Inc.",CLREDI,Energy,Electrical,Electrical Components/Equipment,USA,TOGI,A,L,552738572,100.0,"TurnOnGreen, Inc",United States
+"HNO International, Inc.",AMRBRC,Energy,Renewables,Renewable Energy Generation,USA,HNOI,A,L,66138435,100.0,"HNO International, Inc.",United States
+Clean Energy Fuels Corp.,CLEEFC,Energy,Oil & Gas,Gasoline/Service Stations,USA,CLNE,A,L,1543272,100.0,Clean Energy Fuels Corp.,United States
+"e.l.f. Beauty, Inc.",JACOC,Energy,Oil & Gas,Cosmetics/Toiletries,USA,ELF,A,L,104554559,100.0,"e.l.f. Beauty, Inc.",United States
+PG&E Corp.,PGASEL,Energy,Utilities,Electric Utilities,USA,PCG,A,L,139813,100.0,PG&E Corporation,United States
+"CDTi Advanced Materials, Inc.",CDTECH,Energy,Fuel & Mining,Fuel Additives,USA,CDTI,A,L,1477040,100.0,"CDTi Advanced Materials, Inc.",United States
+ReoStar Energy Corp.,GLDRGE,Energy,Oil & Gas,Oil/Gas Exploration,USA,REOS,A,L,32583695,100.0,ReoStar Energy Corp.,United States
+"NeoVolta, Inc.",TVWDLI,Energy,Renewables,Renewable Energy Equipment,USA,NEOV,A,L,575303910,100.0,NeoVolta Inc.,United States
+"SolarMax Technology, Inc.",SLRMXT,Energy,Renewables,Renewable Energy Equipment,USA,SMXT,A,L,59029754,100.0,"SolarMax Technology, Inc.",United States
+Solar Enertech Corp,SFRRSD,Energy,Renewables,Renewable Energy Equipment,USA,SOEN,A,L,12903126,100.0,Solar Enertech Corp.,United States
+"Genasys, Inc.",AMERT,Energy,Electrical,Electrical Components/Equipment,USA,GNSS,A,L,372933,100.0,Genasys Inc.,United States
+Beam Global,CASIEN,Energy,Renewables,Renewable Energy Equipment,USA,BEEM,A,L,34792193,100.0,Beam Global,United States
+RF Industries Ltd.,CELLNS,Energy,Electrical,Electrical Components/Equipment,USA,RFIL,A,L,359302,100.0,"RF Industries, Ltd.",United States
+Sempra,SMPEGY,Energy,Utilities,Multiutilities,USA,SRE,A,L,120622,100.0,Sempra,United States
+American States Water Co.,SWTR,Energy,Utilities,Water Utilities,USA,AWR,A,L,304353,100.0,American States Water Company,United States
+"Colombia Energy Resources, Inc.",FREDMR,Energy,Fuel & Mining,Coal Mining,USA,CERX,A,L,3763813,100.0,"Colombia Energy Resources, Inc.",United States
+"Sunrun, Inc.",SNRUNC,Energy,Renewables,Solar Panels,USA,RUN,A,L,44576381,100.0,Sunrun Inc.,United States
+California Water Service Group,CWTR,Energy,Utilities,Water Utilities,USA,CWT,A,L,257568,100.0,California Water Service Group,United States
+Bloom Energy Corp.,IONAC,Energy,Renewables,Renewable Energy Equipment,USA,BE,A,L,28543927,100.0,Bloom Energy Corporation,United States
+"GPL Holdings, Inc.",OPSYHD,Energy,Renewables,Biofuels,USA,GPLL,A,L,54876318,100.0,"GPL Holdings, Inc.",United States
+County Line Energy Corp.,NBIOV,Energy,Oil & Gas,Oil/Gas Exploration,USA,CYLC,A,L,4018525,100.0,County Line Energy Corp.,Canada
+"Global Warming Solutions, Inc.",STINVT,Energy,Renewables,Renewable Energy Equipment,USA,GWSO,A,L,21842257,100.0,"Global Warming Solutions, Inc.",United States
+"Abby, Inc.",ABBZYZ,Energy,Oil & Gas,Oil/Gas Exploration,USA,ABBY,A,L,83422001,100.0,"Abby, Inc.",United States
+"Terminus Energy, Inc.",BKNKMT,Energy,Fuel & Mining,Fuel Cells,USA,TMGY,A,L,414153,100.0,"Terminus Energy, Inc.",United States
+"Mountain Energy, Inc.",BKRSTG,Energy,Oil & Gas,Oil/Gas Extraction,USA,MTEI,A,L,948862,100.0,Mountain Energy Inc,United States
+"Generation Alpha, Inc.",CNJTI,Energy,Electrical,Electric Lighting Equipment,USA,GNAL,A,L,266698449,100.0,"Generation Alpha, Inc.",United States
+"Optec International, Inc.",GMPZP,Energy,Fuel & Mining,Fuel Additives,USA,OPTI,A,L,231779673,100.0,"Optec International, Inc.",United States
+"Origin Materials, Inc.",JMWNKQ,Energy,Renewables,Carbon Capture/Storage,USA,ORGN,A,L,100704533,100.0,"Origin Materials, Inc.",United States
+"Energy Vault Holdings, Inc.",ZJUPYQ,Energy,Renewables,Renewable Energy Equipment,USA,NRGV,A,L,606278429,100.0,"Energy Vault Holdings, Inc.",United States
+"Columbine Valley Resources, Inc.",MTLXRS,Energy,Oil & Gas,Oil/Gas Exploration,USA,TRXO,A,L,270743945,100.0,"Columbine Valley Resources, Inc.",United States
+"Strategic Environmental & Energy Resources, Inc.",SATOSI,Energy,Renewables,Alternative Fuels,USA,SENR,A,L,30239076,100.0,"Strategic Environmental & Energy Resources, Inc.",United States
+"Arrow Electronics, Inc.",ARREL,Energy,Electrical,Electrical Components/Equipment,USA,ARW,A,L,252150,100.0,"Arrow Electronics, Inc.",United States
+Antero Resources Corp.,ANTERC,Energy,Oil & Gas,Oil/Gas Exploration,USA,AR,A,L,4544094,100.0,Antero Resources Corporation,United States
+"Altex Industries, Inc.",AOC,Energy,Oil & Gas,Oil Extraction,USA,ALTX,A,L,249168,100.0,"Altex Industries, Inc.",United States
+Antero Midstream Corp.,FHAJHU,Energy,Oil & Gas,Oil/Gas Midstream Operations,USA,AM,A,L,276417619,100.0,Antero Midstream Corporation,United States
+"Liberty Energy, Inc.",LOLFLS,Energy,Oil & Gas,Fracking Services,USA,LBRT,A,L,228809907,100.0,Liberty Energy Inc.,United States
+1st NRG Corp.,NPTGLD,Energy,Oil & Gas,Natural Gas Exploration,USA,FNRC,A,L,414634,100.0,1st NRG Corp.,United States
+SM Energy Co.,STMARL,Energy,Oil & Gas,Natural Gas Exploration,USA,SM,A,L,323532,100.0,SM Energy Company,United States
+"Gevo, Inc.",GEVOU,Energy,Renewables,Biofuels,USA,GEVO,A,L,33143266,100.0,"Gevo, Inc.",United States
+"Truleum, Inc.",VMNSNG,Energy,Oil & Gas,Oil/Gas Exploration,USA,TRLM,A,L,269206189,100.0,"Truleum, Inc.",United States
+"Arq, Inc.",ADAESC,Energy,Fuel & Mining,Coke Products,USA,ARQ,A,L,1797371350,100.0,"Arq, Inc.",United States
+"Umbra Cos., Inc.",RYEQPK,Energy,Renewables,Renewable Energy Equipment,USA,UCIX,A,L,30822556,100.0,Umbra Companies Inc.,United States
+Carbon Energy Corp.,STLAWC,Energy,Oil & Gas,Oil/Gas Exploration,USA,CRBO,A,L,23751656,100.0,Carbon Energy Corporation,United States
+"Vector 21 Holdings, Inc.",TONGA,Energy,Renewables,Biofuels,USA,VHLD,A,L,27480976,100.0,"Vector 21 Holdings, Inc.",United States
+Enservco Corp.,AEXPL,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,ENSV,A,L,108547461,100.0,Enservco Corporation,United States
+"Ascent Solar Technologies, Inc.",ASLAR,Energy,Renewables,Renewable Energy Equipment,USA,ASTI,A,L,25599554,100.0,"Ascent Solar Technologies, Inc.",United States
+"MYR Group, Inc.",MYRSLE,Energy,Electrical,Electrical Contractors,USA,MYRG,A,L,290202,100.0,MYR Group Inc.,United States
+Pure Cycle Corp.,PURCYC,Energy,Utilities,Water Utilities,USA,PCYO,A,L,416326,100.0,Pure Cycle Corporation,United States
+"Trimble, Inc.",TRMBL,Energy,Electrical,Industrial Electrical Equipment,USA,TRMB,A,L,126411,100.0,Trimble Inc.,United States
+"GASE Energy, Inc.",EILCRP,Energy,Oil & Gas,Oil/Gas Exploration,USA,GASE,A,L,243994066,100.0,"GASE Energy, Inc.",United States
+Crane Co.,CRANE,Energy,Electrical,Industrial Electrical Equipment,USA,CR,A,L,173927,100.0,Crane Company,United States
+Star Group LP,STRGAS,Energy,Oil & Gas,Gas Utilities,USA,SGU,A,L,344489,100.0,"Star Group, L.P.",United States
+Amphenol Corp.,AMPHNL,Energy,Electrical,Electrical Components/Equipment,USA,APH,A,L,24827,100.0,Amphenol Corporation,United States
+"Stratex Oil & Gas Holdings, Inc.",POWMAB,Energy,Oil & Gas,Oil/Gas Extraction,USA,STTX,A,L,214155626,100.0,"Stratex Oil & Gas Holdings, Inc.",United States
+"GSV, Inc.",CYBERS,Energy,Oil & Gas,Oil/Gas Exploration,USA,GSVI,A,L,120307,100.0,"GSV, Inc.",United States
+Chesapeake Utilities Corp.,CHPK,Energy,Oil & Gas,Gas Utilities,USA,CPK,A,L,260346,100.0,Chesapeake Utilities Corporation,United States
+"Hero Technologies, Inc.",DUJOU,Energy,Oil & Gas,Oil Exploration,USA,HENC,A,L,34073489,100.0,Hero Technologies Inc.,United States
+"Pacific Green Technologies, Inc.",INSPTS,Energy,Renewables,Renewable Energy Equipment,USA,PGTK,A,L,213914326,100.0,Pacific Green Technologies Inc.,United States
+Fusion Fuel Green Plc,CZPMPT,Energy,Renewables,Alternative Fuels,USA,HTOO,A,L,671566176,100.0,Fusion Fuel Green PLC,Ireland
+Intrienergy  Inc.,JCXKWN,Energy,Renewables,Renewable Energy Equipment,USA,ITRE,A,L,714767217,100.0,"IntriEnergy, Inc.",United States
+Iahl Corporation,BCCRPN,Energy,Oil & Gas,Natural Gas Processing,USA,IAHL,A,L,37510199,100.0,IAHL Corp.,United States
+BioPower Operations Corp.,BWROXS,Energy,Renewables,Biofuels,USA,BOPO,A,L,126941768,100.0,BioPower Operations Corporation,United States
+"World Health Energy Holdings, Inc.",ADPLPH,Energy,Renewables,Biofuels,USA,WHEN,A,L,666103780,100.0,"World Health Energy Holdings, Inc.",Israel
+"Alternative Energy Partners, Inc.",ALENPI,Energy,Renewables,Alternative Fuels,USA,AEGY,A,L,49971137,100.0,"Alternative Energy Partners, Inc.",United States
+"Q.E.P. Co., Inc.",QEP,Energy,Electrical,Portable Power Tools,USA,QEPC,A,L,228737,100.0,"Q.E.P. Co., Inc.",United States
+"Recreatives Industries, Inc.",GRNDVP,Energy,Renewables,Biofuels,USA,RECX,A,L,32584412,100.0,"Recreatives Industries, Inc.",United States
+"Capstone Cos., Inc.",FREFND,Energy,Electrical,Electric Lighting Equipment,USA,CAPC,A,L,8063760,100.0,"Capstone Companies, Inc.",United States
+Moon Equity Holdings Corp.,DYLIMO,Energy,Oil & Gas,Oil/Gas Extraction,USA,MONI,A,L,1890445491,100.0,Moon Equity Holdings Corp.,United States
+Golden Grail Technology Corp.,ARMFCO,Energy,Oil & Gas,Oil/Gas Exploration,USA,GOGY,A,L,866900,100.0,Golden Grail Technology Corp.,United States
+"Bayport International Holdings, Inc.",EXONLY,Energy,Oil & Gas,Oil/Gas Exploration,USA,BAYP,A,L,137307792,100.0,"Bayport International Holdings, Inc.",United States
+"Empire Diversified Energy, Inc.",PANMO,Energy,Renewables,Alternative Fuels,USA,MPIR,A,L,22001069,100.0,"Empire Diversified Energy, Inc.",United States
+"HydroGenetics, Inc.",PSTARZ,Energy,Fuel & Mining,Fuel Cells,USA,HYGN,A,L,12739930,100.0,"Hydrogenetics, Inc.",United States
+"NextEra Energy, Inc.",FPL,Energy,Power Generation,Electric Power Generation,USA,NEE,A,L,270586,100.0,"NextEra Energy, Inc.",United States
+"Transportation & Logistics Systems, Inc.",LRNXNN,Energy,Oil & Gas,Oil/Gas Exploration,USA,TLSS,A,L,426560753,100.0,"Transportation and Logistics Systems, Inc.",United States
+Renewable Corp.,INBITC,Energy,Renewables,Alternative Fuels,USA,RNWB,A,L,23505966,100.0,The Renewable Corporation,United States
+United American Petroleum Corp.,MBTLCD,Energy,Oil & Gas,Oil/Gas Exploration,USA,UAPC,A,L,118163484,100.0,"UAPC, Inc.",United States
+"Mogul Energy International, Inc.",MGLENI,Energy,Oil & Gas,Oil/Gas Exploration,USA,MGUY,A,L,30252221,100.0,"Mogul Energy International, Inc.",United States
+Laser Photonics Corp.,LPHOCU,Energy,Electrical,Industrial Electrical Equipment,USA,LASE,A,L,666215108,100.0,Laser Photonics Corporation,United States
+"New Frontier Energy, Inc.",NWFRNT,Energy,Oil & Gas,Oil/Gas Exploration,USA,NFEI,A,L,6222733,100.0,"New Frontier Energy, Inc.",United States
+"Blue Biofuels, Inc.",AMGHDG,Energy,Renewables,Alternative Fuels,USA,BIOF,A,L,207349666,100.0,"Blue Biofuels, Inc.",United States
+SKYX Platforms Corp.,SQLAFC,Energy,Electrical,Electric Lighting Equipment,USA,SKYX,A,L,252085068,100.0,SKYX Platforms Corp.,United States
+North Springs Resources Corp.,AURURC,Energy,Oil & Gas,Oil/Gas Exploration,USA,NSRS,A,L,106784345,100.0,"Medcann Industries, Inc.",United States
+"EDD Helms Group, Inc.",HOTCOP,Energy,Electrical,Electrical Contractors,USA,EDHD,A,L,278558,100.0,"EDD Helms Group, Inc.",United States
+Maverick Energy Group Ltd.,PNCLGP,Energy,Oil & Gas,Oil/Gas Exploration,USA,MKGP,A,L,32750020,100.0,"Maverick Energy Group, Ltd.",United States
+Icahn Enterprises LP,AMREP,Energy,Oil & Gas,Petroleum Refining,USA,IEP,A,L,250592,100.0,Icahn Enterprises L.P.,United States
+Nacel Energy Corp.,NCENGY,Energy,Renewables,Wind Energy,USA,NCEN,A,L,34322270,100.0,Nacel Energy Corporation,United States
+"Sixty Six Oilfield Services, Inc.",TRVLMT,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,SSOF,A,L,423961942,100.0,"Sixty Six Oilfield Services, Inc.",United States
+Fabrinet,FABNET,Energy,Electrical,Electrical Components/Equipment,USA,FN,A,L,3352516,100.0,Fabrinet,Cayman Islands
+"Providence Resources, Inc.",WRLSTF,Energy,Oil & Gas,Oil/Gas Exploration,USA,PVRS,A,L,24886691,100.0,"Providence Resources, Inc.",United States
+Legend Oil & Gas Ltd.,SINHI,Energy,Oil & Gas,Oil/Gas Exploration,USA,LOGL,A,L,4999205,100.0,"Legend Oil and Gas, Ltd.",United States
+"Trophy Resources, Inc.",XGAGLF,Energy,Oil & Gas,Oil/Gas Exploration,USA,TRSI,A,L,415206,100.0,"Trophy Resources, Inc.",United States
+"Acuity, Inc.",ACUITY,Energy,Electrical,Electric Lighting Equipment,USA,AYI,A,L,1413208,100.0,Acuity Inc.,United States
+"RPC, Inc.",RPCS,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,RES,A,L,188005,100.0,"RPC, Inc.",United States
+The Southern Co.,SOTHCO,Energy,Utilities,Electric Utilities,USA,SO,A,L,120623,100.0,The Southern Company,United States
+"Chart Industries, Inc.",CHRTI,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,GTLS,A,L,322735,100.0,"Chart Industries, Inc.",United States
+GeckoSystems International Corp.,GEKOSY,Energy,Electrical,Industrial Electrical Equipment,USA,GOSY,A,L,40845670,100.0,GeckoSystems International Corporation,United States
+"NewGen Technologies, Inc.",MKTDAT,Energy,Renewables,Biofuels,USA,NWGN,A,L,23500318,100.0,NewGen Technologies Inc.,United States
+"Janus International Group, Inc.",TDQMNK,Energy,Renewables,Metal Doors/Windows,USA,JBI,A,L,6613086,100.0,"Janus International Group, Inc.",United States
+ReNew Energy Global Plc,UHLSQK,Energy,Renewables,Renewable Energy Generation,USA,RNW,A,L,209953775,100.0,ReNew Energy Global Plc,United Kingdom
+"Barnwell Industries, Inc.",BRN,Energy,Oil & Gas,Oil Extraction,USA,BRN,A,L,254271,100.0,"Barnwell Industries, Inc.",United States
+"Hawaiian Electric Industries, Inc.",HWNELC,Energy,Utilities,Electric Utilities,USA,HE,A,L,277854,100.0,"Hawaiian Electric Industries, Inc.",United States
+"Green Energy Live, Inc.",GELVPK,Energy,Renewables,Renewable Energy Equipment,USA,GELV,A,L,40124966,100.0,"Green Energy Live, Inc.",United States
+Tritent International Corp,GOBABY,Energy,Renewables,Alternative Fuels,USA,TICJ,A,L,11237496,100.0,Tritent International Corp.,United States
+Mt. Carmel Public Utility Co.,MNTCAR,Energy,Utilities,Multiutilities,USA,MCPB,A,L,4577124,100.0,Mt. Carmel Public Utility Co.,United States
+Astro Communications  Inc.,ASCOMM,Energy,Electrical,Electric Lighting Equipment,USA,ASTO,A,L,348679,100.0,"Astro Communications, Inc.",United States
+"IDACORP, Inc.",IPOW,Energy,Utilities,Electric Utilities,USA,IDA,A,L,280458,100.0,"IDACORP, Inc.",United States
+Correlate Energy Corp.,TBXRES,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,CIPI,A,L,651365169,100.0,Correlate Energy Corp.,United States
+"Extreme Biodiesel, Inc.",BIGWEI,Energy,Renewables,Biofuels,USA,XTRM,A,L,46610563,100.0,"Extreme Biodiesel, Inc.",United States
+"US Wind Farming, Inc.",ARESON,Energy,Renewables,Renewable Energy Generation,USA,USWF,A,L,958093,100.0,"U.S. Wind Farming, Inc.",United States
+Consolidated Biofuels Inc,NEWALD,Energy,Renewables,Biofuels,USA,CSBF,A,L,907890,100.0,"Consolidated Biofuels, Inc.",United States
+Exelon Corp.,PHELC,Energy,Utilities,Multiutilities,USA,EXC,A,L,296181,100.0,Exelon Corporation,United States
+"Broadwind, Inc.",BLKFT,Energy,Renewables,Renewable Energy Facility Construction,USA,BWEN,A,L,25537309,100.0,"Broadwind, Inc.",United States
+"Terra Energy & Resource Technologies, Inc.",CMPUPT,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,TEGR,A,L,22531700,100.0,"Terra Energy & Resource Technologies, Inc.",United States
+Richardson Electronics Ltd.,RCHELC,Energy,Electrical,Electrical Components/Equipment,USA,RELL,A,L,300246,100.0,"Richardson Electronics, Ltd.",United States
+"SunCoke Energy, Inc.",SNCKEI,Energy,Fuel & Mining,Coke Products,USA,SXC,A,L,42757816,100.0,"SunCoke Energy, Inc.",United States
+"Alto Ingredients, Inc.",PCFETH,Energy,Renewables,Biofuels,USA,ALTO,A,L,10039433,100.0,"Alto Ingredients, Inc.",United States
+"Littelfuse, Inc.",LITTFU,Energy,Electrical,Electrical Components/Equipment,USA,LFUS,A,L,327381,100.0,"Littelfuse, Inc.",United States
+American Resources Corp. (Indiana),NGFCZZ,Energy,Fuel & Mining,Coal Mining,USA,AREC,A,L,228580381,100.0,American Resources Corporation,United States
+"NiSource, Inc.",NINPUB,Energy,Oil & Gas,Gas Utilities,USA,NI,A,L,292092,100.0,NiSource Inc.,United States
+Hallador Energy Co.,KIMB,Energy,Fuel & Mining,Coal Mining,USA,HNRG,A,L,29256,100.0,Hallador Energy Company,United States
+Cardinal Ethanol LLC,CETHAN,Energy,Renewables,Biofuels,USA,CRDE,A,L,25866428,100.0,"Cardinal Ethanol, LLC",United States
+"SunHydrogen, Inc.",HYPSLR,Energy,Renewables,Renewable Energy Equipment,USA,HYSR,A,L,60951583,100.0,"SunHydrogen, Inc.",United States
+Palladium Communications  Inc.,CRVLLS,Energy,Renewables,Biofuels,USA,ENCS,A,L,1004781,100.0,"Encore Energy Systems, Inc.",United States
+"American Noble Gas, Inc.",INFTY,Energy,Oil & Gas,Oil/Gas Exploration,USA,AMNI,A,L,212964,100.0,"American Noble Gas, Inc.",United States
+"Ramaco Resources, Inc.",WFKMLM,Energy,Fuel & Mining,Coal Mining,USA,METC,A,L,384479410,100.0,"Ramaco Resources, Inc.",United States
+"Puissant Industries, Inc.",PUXXTR,Energy,Oil & Gas,Oil Extraction,USA,PSSS,A,L,129520368,100.0,"Puissant Industries, Inc.",United States
+Justiss Oil Company  Inc.,JUSOIL,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,JSTS,A,L,962201,100.0,Justiss Oil Co,United States
+"CKX Lands, Inc.",CALREA,Energy,Oil & Gas,Oil/Gas Exploration,USA,CKX,A,L,3103512,100.0,"CKX Lands, Inc.",United States
+Biloxi Marsh Lands Corp.,BLOXML,Energy,Oil & Gas,Oil Exploration,USA,BLMC,A,L,3103357,100.0,Biloxi Marsh Lands Corporation,United States
+Avoca LLC,AVOC,Energy,Oil & Gas,Oil/Gas Exploration,USA,AVOA,A,L,3272055,100.0,Avoca LLC,United States
+Entergy Corp.,MIDSU,Energy,Utilities,Electric Utilities,USA,ETR,A,L,269764,100.0,Entergy Corporation,United States
+CoJax Oil & Gas Corp.,HUKLCW,Energy,Oil & Gas,Oil/Gas Upstream Operations,USA,CJAX,A,L,600906323,100.0,CoJax Oil and Gas Corporation,United States
+Alkane Inc,LNTNSC,Energy,Fuel & Mining,Fuel Additives,USA,ALKN,A,L,52326909,100.0,"Alkane, Inc.",United States
+Wall Box Chargers SL,FYGVVU,Energy,Electrical,Electrical Components/Equipment,USA,WBX,A,L,408283958,100.0,Wallbox N.V.,Spain
+Constellation Energy Corp.,BALGS,Energy,Utilities,Electric Utilities,USA,CEG,A,L,3136719,100.0,Constellation Energy Corporation,United States
+"Hinto Energy, Inc.",GZINV,Energy,Oil & Gas,Oil/Gas Exploration,USA,HENI,A,L,139020730,100.0,"HINTO Energy, Inc.",United States
+Blink Charging Co.,NIMCPK,Energy,Renewables,Renewable Energy Equipment,USA,BLNK,A,L,83115902,100.0,Blink Charging Co.,United States
+ESAB Corp.,LLRIBW,Energy,Electrical,Industrial Electrical Equipment,USA,ESAB,A,L,708077828,100.0,ESAB Corporation,United States
+Vicor Corp.,VICCRP,Energy,Electrical,Electrical Components/Equipment,USA,VICR,A,L,311959,100.0,Vicor Corporation,United States
+"GE Vernova, Inc.",SLQPAB,Energy,Renewables,Renewable Energy Generation,USA,GEV,A,L,1818848396,100.0,GE Vernova Inc.,United States
+"Ameresco, Inc.",AEMRES,Energy,Renewables,Renewable Energy Facility Construction,USA,AMRC,A,L,1795267,100.0,"Ameresco, Inc.",United States
+IPG Photonics Corp.,IPGPH,Energy,Electrical,Industrial Electrical Equipment,USA,IPGP,A,L,427949,100.0,IPG Photonics Corporation,United States
+Cognex Corp.,CGNXC,Energy,Electrical,Industrial Electrical Equipment,USA,CGNX,A,L,26658,100.0,Cognex Corporation,United States
+"Powerdyne International, Inc.",OEYIIC,Energy,Renewables,Renewable Energy Equipment,USA,PWDY,A,L,23196845,100.0,"Powerdyne International, Inc.",United States
+"Mass Megawatts Wind Power, Inc.",MASMGA,Energy,Renewables,Wind Energy,USA,MMMW,A,L,3168368,100.0,"Mass Megawatts Wind Power, Inc.",United States
+Global Partners LP,GLOBZ,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,GLP,A,L,22298592,100.0,Global Partners LP,United States
+Crane NXT Co.,PSKDZT,Energy,Electrical,Industrial Electrical Equipment,USA,CXT,A,L,1776508306,100.0,"Crane NXT, Co.",United States
+"The Coretec Group, Inc.",FKEAT,Energy,Electrical,Industrial Electrical Equipment,USA,CRTG,A,L,1873676744,100.0,The Coretec Group Inc.,United States
+"CGE Energy, Inc.",MKEN,Energy,Renewables,Renewable Energy Generation,USA,CGEI,A,L,253932429,100.0,CGE Energy Inc.,United States
+DTE Energy Co.,DTEENG,Energy,Utilities,Electric Utilities,USA,DTE,A,L,266598,100.0,DTE Energy Company,United States
+"DT Midstream, Inc.",PPVIMC,Energy,Energy Equipment,Pipeline Transportation,USA,DTM,A,L,710475650,100.0,"DT Midstream, Inc.",United States
+CMS Energy Corp.,CONPOW,Energy,Utilities,Electric Utilities,USA,CMS,A,L,257682,100.0,CMS Energy Corporation,United States
+"Bonal International, Inc.",BONALT,Energy,Electrical,Electrical Components/Equipment,USA,BONL,A,L,3103387,100.0,"Bonal International, Inc.",United States
+"Axis Technologies Group, Inc.",CICOLU,Energy,Electrical,Electric Lighting Equipment,USA,AXTG,A,L,36734537,100.0,"Axis Technologies Group, Inc.",United States
+NVE Corp.,PREMIS,Energy,Electrical,Industrial Electrical Equipment,USA,NVEC,A,L,32205,100.0,NVE Corporation,United States
+Otter Tail Corp.,OTTR,Energy,Utilities,Electric Utilities,USA,OTTR,A,L,294269,100.0,Otter Tail Corporation,United States
+Granite Falls Energy LLC,GFALEL,Energy,Renewables,Biofuels,USA,GFGY,A,L,3606457,100.0,"Granite Falls Energy, LLC",United States
+Highwater Ethanol LLC,HIGHWZ,Energy,Renewables,Alternative Fuels,USA,HEOL,A,L,29202572,100.0,"Highwater Ethanol, LLC",United States
+"Xcel Energy, Inc.",NORSPW,Energy,Utilities,Electric Power Distribution,USA,XEL,A,L,527542,100.0,Xcel Energy Inc.,United States
+"Northern Oil & Gas, Inc.",KNTXPL,Energy,Oil & Gas,Oil/Gas Exploration,USA,NOG,A,L,30822601,100.0,"Northern Oil and Gas, Inc.",United States
+"Industry Source Consulting, Inc.",VLDRTD,Energy,Renewables,Biofuels,USA,INSO,A,L,51330812,100.0,"Industry Source Consulting, Inc.",United States
+"Central Natural Resources, Inc.",CCCKC,Energy,Oil & Gas,Natural Gas Extraction,USA,CTNR,A,L,259044,100.0,"Central Natural Resources, Inc.",United States
+Spire Inc.,LG,Energy,Oil & Gas,Gas Utilities,USA,SR,A,L,284847,100.0,Spire Inc.,United States
+"CleanTech Biofuels, Inc.",LRENTI,Energy,Renewables,Biofuels,USA,CLTH,A,L,36808765,100.0,"Cleantech Biofuels, Inc.",United States
+Peabody Energy Corp.,PBDY,Energy,Fuel & Mining,Coal Mining,USA,BTU,A,L,32792,100.0,Peabody Energy Corporation,United States
+FutureFuel Corp.,VCROYA,Energy,Renewables,Alternative Fuels,USA,FF,A,L,23769985,100.0,FutureFuel Corp.,United States
+"Green Star Products, Inc.",BTUT,Energy,Renewables,Alternative Fuels,USA,GSPI,A,L,2733588,100.0,"Green Star Products, Inc.",United States
+Ww Energy Inc.,ALYAIN,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,WWNG,A,L,3102662,100.0,"WW Energy, Inc.",United States
+Greenway Technology,NOXINC,Energy,Renewables,Biofuels,USA,GWYT,A,L,26080463,100.0,Greenway Technology,United States
+Hybrid Energy Holdings  Inc.,NANIN,Energy,Renewables,Alternative Fuels,USA,HYBE,A,L,290783,100.0,"Hybrid Energy Holdings, Inc.",United States
+"Green Plains, Inc.",GRNPNW,Energy,Renewables,Alternative Fuels,USA,GPRE,A,L,39558105,100.0,Green Plains Inc.,United States
+"Tiger Oil & Energy, Inc.",BNBETP,Energy,Oil & Gas,Oil/Gas Extraction,USA,TGRO,A,L,25599973,100.0,"Tiger Oil and Energy, Inc.",United States
+ParaFin Corp.,ETETN,Energy,Oil & Gas,Oil Exploration,USA,PFNO,A,L,3109507,100.0,ParaFin Corporation,United States
+Stratos Renewables Corp.,NDSGCB,Energy,Renewables,Alternative Fuels,USA,SRNW,A,L,39061304,100.0,Stratos Renewables Corporation,United States
+"Echo Defense Projects, Inc.",ECDPT,Energy,Renewables,Renewable Energy Equipment,USA,ECDP,A,L,105767088,100.0,Echo Defense Projects Inc.,United States
+"Richtech Robotics, Inc.",IXNURZ,Energy,Electrical,Industrial Electrical Equipment,USA,RR,A,L,1827558906,100.0,Richtech Robotics Inc.,United States
+Methes Energies International Ltd.,MTHNGZ,Energy,Renewables,Biofuels,USA,MEIL,A,L,60506664,100.0,Methes Energies International Ltd.,United States
+Greenbelt Resources Corp.,ORIGNY,Energy,Renewables,Biofuels,USA,GRCO,A,L,9179320,100.0,Greenbelt Resources Corporation,United States
+"Hemp, Inc.",PRCICJ,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,HEMP,A,L,60224039,100.0,"Hemp, Inc",United States
+"Southwest Gas Holdings, Inc.",SWXC,Energy,Oil & Gas,Gas Utilities,USA,SWX,A,L,304227,100.0,"Southwest Gas Holdings, Inc.",United States
+"EXLA Resources, Inc.",EXLAP,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,EXLA,A,L,225326013,100.0,EXLA Resources Inc.,United States
+"AI Technology Group, Inc.",ENGXIN,Energy,Electrical,Electrical Components/Equipment,USA,AIPG,A,L,22172609,100.0,AI Technology Group Inc.,United States
+"Ormat Technologies, Inc.",ORMATT,Energy,Power Generation,Geothermal Energy,USA,ORA,A,L,4306112,100.0,"Ormat Technologies, Inc.",United States
+Pacific Energy & Mining Corp.,PEMC,Energy,Oil & Gas,Oil/Gas Midstream Operations,USA,PEMC,A,L,3175101,100.0,Pacific Energy & Mining Company,United States
+UNITIL Corp.,UNTLC,Energy,Power Generation,Electric Power Generation,USA,UTL,A,L,311144,100.0,Unitil Corporation,United States
+North European Oil Royalty Trust,NEORT,Energy,Oil & Gas,Oil Extraction,USA,NRT,A,L,292460,100.0,North European Oil Royalty Trust,United States
+Primegen Energy Corp.,MAYIRE,Energy,Oil & Gas,Oil/Gas Exploration,USA,PGNE,A,L,23210854,100.0,PrimeGen Energy Corp.,Russia
+"American Water Works Co., Inc.",AWK,Energy,Utilities,Water Utilities,USA,AWK,A,L,250885,100.0,"American Water Works Company, Inc.",United States
+Kimberly Parry Organics Corp.,EZCDPK,Energy,Oil & Gas,Cosmetics/Toiletries,USA,KPOC,A,L,107794753,100.0,Kimberly Parry Organics Inc.,United States
+"Pioneer Power Solutions, Inc.",SIRRCN,Energy,Electrical,Electrical Components/Equipment,USA,PPSI,A,L,4516703,100.0,"Pioneer Power Solutions, Inc.",United States
+Middlesex Water Co.,MSEXW,Energy,Utilities,Water Utilities,USA,MSEX,A,L,288070,100.0,Middlesex Water Company,United States
+"CCA Industries, Inc.",CCAMI,Energy,Oil & Gas,Cosmetics/Toiletries,USA,CAWW,A,L,256872,100.0,"CCA Industries, Inc.",United States
+"Ocean Power Technologies, Inc.",OCPWT,Energy,Renewables,Renewable Energy Equipment,USA,OPTT,A,L,912997,100.0,"Ocean Power Technologies, Inc.",United States
+Genie Energy Ltd.,GZENGI,Energy,Utilities,Electric Utilities,USA,GNE,A,L,113359359,100.0,Genie Energy Ltd.,United States
+"Public Service Enterprise Group, Inc.",PUBSEL,Energy,Utilities,Multiutilities,USA,PEG,A,L,298482,100.0,Public Service Enterprise Group Incorporated,United States
+"PBF Energy, Inc.",PBEPAL,Energy,Oil & Gas,Petroleum Refining,USA,PBF,A,L,142892259,100.0,PBF Energy Inc.,United States
+"Propellus, Inc.",WRMIPK,Energy,Renewables,Renewable Energy Facility Construction,USA,PRPS,A,L,61415821,100.0,Propellus Inc.,United States
+"Kenvue, Inc.",KENVUI,Energy,Oil & Gas,Cosmetics/Toiletries,USA,KVUE,A,L,1820759186,100.0,Kenvue Inc.,United States
+New Jersey Resources Corp.,NJRE,Energy,Oil & Gas,Gas Utilities,USA,NJR,A,L,291335,100.0,New Jersey Resources Corporation,United States
+Suburban Propane Partners LP,SUBPG,Energy,Oil & Gas,Gasoline/Service Stations,USA,SPH,A,L,350318,100.0,"Suburban Propane Partners, L.P.",United States
+"Laser Energetics, Inc.",LASENE,Energy,Electrical,Industrial Electrical Equipment,USA,LNGT,A,L,3156677,100.0,"Laser Energetics, Inc.",United States
+"TXNM Energy, Inc.",PNM,Energy,Utilities,Electric Power Distribution,USA,TXNM,A,L,298441,100.0,"TXNM Energy, Inc.",United States
+"Allient, Inc.",HATH,Energy,Electrical,Electrical Components/Equipment,USA,ALNT,A,L,177779,100.0,Allient Inc.,United States
+"Renewable Energy & Power, Inc.",REEAPO,Energy,Electrical,Electric Lighting Equipment,USA,RBNW,A,L,248744755,100.0,"Renewable Energy and Power, Inc.",United States
+SUIC Worldwide Holdings Ltd.,GATECE,Energy,Renewables,Alternative Fuels,USA,SUIC,A,L,82020867,100.0,SUIC Worldwide Holdings Ltd.,United States
+Alamo Energy Corp.,GRINCP,Energy,Oil & Gas,Oil/Gas Exploration,USA,ALME,A,L,81848946,100.0,Alamo Energy Corp.,United States
+Petro River Oil Corp.,BRCKCP,Energy,Oil & Gas,Oil/Gas Exploration,USA,PTRC,A,L,318794673,100.0,Petro River Oil Corp.,United States
+Colgate-Palmolive Co.,COLPA,Energy,Oil & Gas,Cosmetics/Toiletries,USA,CL,A,L,262247,100.0,Colgate-Palmolive Company,United States
+"Consolidated Edison, Inc.",CONSED,Energy,Utilities,Multiutilities,USA,ED,A,L,263295,100.0,"Consolidated Edison, Inc.",United States
+"Energtek, Inc.",ELDRWT,Energy,Oil & Gas,Oil/Gas Midstream Operations,USA,EGTK,A,L,29571932,100.0,"Energtek, Inc.",United States
+"New Fortress Energy, Inc.",EYKNWE,Energy,Oil & Gas,Gas Utilities,USA,NFE,A,L,547804145,100.0,New Fortress Energy Inc.,United States
+"Newstream Energy Technologies Group, Inc.",GBLALT,Energy,Fuel & Mining,Coal Mining Support/Exploration,USA,NSGP,A,L,1035231,100.0,"NewStream Energy Technologies Group, Inc.",United States
+"Motomova, Inc.",GDCEOI,Energy,Oil & Gas,Oil/Gas Exploration,USA,MTMV,A,L,33734521,100.0,Motomova Inc.,United States
+Brookfield Infrastructure Corp.,ITSDQI,Energy,Utilities,Multiutilities,USA,BIPC,A,L,132234994,100.0,Brookfield Infrastructure Corporation,United States
+American Energy Development Corp.,LJMRNG,Energy,Oil & Gas,Oil/Gas Exploration,USA,AEDC,A,L,112255212,100.0,American Energy Development Corp.,United States
+"Golden Royal Development, Inc.",LMQYHZ,Energy,Oil & Gas,Oil/Gas Downstream Operations,USA,GRDV,A,L,598607681,100.0,Golden Royal Development Inc.,United States
+SC Holdings Corp.,MDSWPR,Energy,Renewables,Biofuels,USA,SCNG,A,L,20672439,100.0,Strattner Financial Group Corp.,United States
+Brookfield Renewable Corp.,MGKJNQ,Energy,Power Generation,Hydropower Energy,USA,BEPC,A,L,643699340,100.0,Brookfield Renewable Corporation,United States
+"NANO Nuclear Energy, Inc.",NNUCEI,Energy,Power Generation,Nuclear Power Generation,USA,NNE,A,L,1780798021,100.0,NANO Nuclear Energy Inc.,United States
+"Humble Energy, Inc.",NTRMIC,Energy,Oil & Gas,Oil/Gas Exploration,USA,HUML,A,L,327130785,100.0,"Humble Energy, Inc.",United States
+"Global Tech Industries Group, Inc.",NUGEXP,Energy,Oil & Gas,Oil/Gas Exploration,USA,GTII,A,L,38556812,100.0,"Global Tech Industries Group, Inc.",United States
+"Green Energy Resources, Inc.",NYLOG,Energy,Renewables,Renewable Energy Generation,USA,GRGR,A,L,9834249,100.0,"Green Energy Resources, Inc.",United States
+"Paradigm Oil & Gas, Inc.",PGDMEN,Energy,Oil & Gas,Oil Exploration,USA,PDGO,A,L,90035340,100.0,"Paradigm Oil and Gas, Inc.",United States
+"Plastic2Oil, Inc.",TRTNKP,Energy,Renewables,Alternative Fuels,USA,PTOI,A,L,30608870,100.0,"Plastic2Oil, Inc.",United States
+"Supernova Energy, Inc.",NHUROB,Energy,Oil & Gas,Oil/Gas Exploration,USA,SPRN,A,L,99260788,100.0,"Supernova Energy, Inc.",United States
+Espey Manufacturing & Electronics Corp.,ESPEY,Energy,Electrical,Electrical Components/Equipment,USA,ESP,A,L,270111,100.0,Espey Mfg. & Electronics Corp.,United States
+Cannonau Corp.,DSAYKP,Energy,Renewables,Wind Energy,USA,CNNC,A,L,36687336,100.0,Cannonau Corp.,United States
+"Plug Power, Inc.",PPOWER,Energy,Fuel & Mining,Fuel Cells,USA,PLUG,A,L,405483,100.0,Plug Power Inc.,United States
+"Ozop Energy Solutions, Inc.",NMRKCT,Energy,Electrical,Electrical Components/Equipment,USA,OZSC,A,L,648752665,100.0,"Ozop Energy Solutions, Inc.",United States
+"OPAL Fuels, Inc.",EMFOYS,Energy,Renewables,Renewable Energy Generation,USA,OPAL,A,L,226080908,100.0,OPAL Fuels Inc.,United States
+National Fuel Gas Co.,NFG,Energy,Oil & Gas,Gas Utilities,USA,NFG,A,L,290898,100.0,National Fuel Gas Company,United States
+NEPI Rockcastle NV,NTRPLP,Energy,Fuel & Mining,Coal Mining,USA,NRP,A,L,2102034,100.0,Natural Resource Partners L.P.,United States
+Duke Energy Corp.,DUKPOW,Energy,Utilities,Multiutilities,USA,DUK,A,L,267850,100.0,Duke Energy Corporation,United States
+Blue Sphere Corp.,JINJIE,Energy,Renewables,Renewable Energy Generation,USA,BLSP,A,L,39217842,100.0,Blue Sphere Corporation,United States
+"CAVU Resources, Inc.",MAGLAN,Energy,Oil & Gas,Oil/Gas Exploration,USA,CAVR,A,L,1066477,100.0,"ParagonX Holdings, Inc.",United States
+Next Generation Management Corp.,PCRCHT,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,NGMC,A,L,701980,100.0,Next Generation Management Corp.,United States
+Cyberlux Corp.,CYBLU,Energy,Electrical,Electric Lighting Equipment,USA,CYBL,A,L,5104176,100.0,Cyberlux Corporation,United States
+"NET Power, Inc.",WMYVFV,Energy,Renewables,Renewable Energy Generation,USA,NPWR,A,L,208444566,100.0,NET Power Inc.,United States
+Harris Exploration Inc,HRSEXP,Energy,Oil & Gas,Oil/Gas Exploration,USA,HXPN,A,L,3478201,100.0,"Harris Exploration, Inc.",United States
+Bedford Energy  Inc.,STUFFS,Energy,Oil & Gas,Oil/Gas Exploration,USA,BFDE,A,L,10659472,100.0,Bedford Holdings Corp,United States
+FirstEnergy Corp.,FRSNGY,Energy,Power Generation,Electric Power Generation,USA,FE,A,L,293515,100.0,FirstEnergy Corp.,United States
+GrafTech International Ltd.,UCCARB,Energy,Electrical,Electrical Components/Equipment,USA,EAF,A,L,35922,100.0,GrafTech International Ltd.,United States
+"LSI Industries, Inc.",LSILS,Energy,Electrical,Electric Lighting Equipment,USA,LYTS,A,L,283721,100.0,LSI Industries Inc.,United States
+Procter & Gamble Co.,PRGML,Energy,Oil & Gas,Cosmetics/Toiletries,USA,PG,A,L,33328,100.0,The Procter & Gamble Company,United States
+"American Electric Power Co., Inc.",AMELP,Energy,Power Generation,Electric Power Generation,USA,AEP,A,L,135470,100.0,"American Electric Power Company, Inc.",United States
+"NovAccess Global, Inc.",SNRVRM,Energy,Renewables,Renewable Energy Equipment,USA,XSNX,A,L,3184113,100.0,NovAccess Global Inc.,United States
+REX American Resources Corp.,AUVID,Energy,Renewables,Alternative Fuels,USA,REX,A,L,252771,100.0,REX American Resources Corporation,United States
+"US Lighting Group, Inc.",XLUXLU,Energy,Electrical,Electric Lighting Equipment,USA,USLG,A,L,144069122,100.0,"US Lighting Group, Inc.",United States
+Marathon Petroleum Corp.,MARATA,Energy,Oil & Gas,Petroleum Refining,USA,MPC,A,L,118315802,100.0,Marathon Petroleum Corporation,United States
+MPLX LP,MPLXLP,Energy,Energy Equipment,Pipeline Transportation,USA,MPLX,A,L,212766522,100.0,MPLX LP,United States
+"Energy Focus, Inc.",FBSTRS,Energy,Electrical,Electric Lighting Equipment,USA,EFOI,A,L,335698,100.0,"Energy Focus, Inc.",United States
+Devon Energy Corp.,DEVEN,Energy,Oil & Gas,Oil Extraction,USA,DVN,A,L,266510,100.0,Devon Energy Corporation,United States
+Mach Natural Resources LP,EHHKHV,Energy,Oil & Gas,Oil/Gas Exploration,USA,MNR,A,L,1856773365,100.0,Mach Natural Resources LP,United States
+"Energy & Environmental Services, Inc.",ENEGAS,Energy,Oil & Gas,Oil/Gas Exploration,USA,EESE,A,L,3109895,100.0,"Energy and Environmental Services, Inc.",United States
+GreenShift Corp.,KBFPOL,Energy,Renewables,Biofuels,USA,GERS,A,L,379805,100.0,CleanTech Alpha Corporation,United States
+"Mammoth Energy Services, Inc.",MMMENP,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,TUSK,A,L,272761441,100.0,"Mammoth Energy Services, Inc.",United States
+OGE Energy Corp.,OKLHMG,Energy,Power Generation,Electric Power Generation,USA,OGE,A,L,293569,100.0,OGE Energy Corp.,United States
+"SandRidge Energy, Inc.",RIATEI,Energy,Oil & Gas,Oil/Gas Extraction,USA,SD,A,L,4368532,100.0,"SandRidge Energy, Inc.",United States
+The Reserve Petroleum Co.,RSVPET,Energy,Oil & Gas,Oil Exploration,USA,RSRV,A,L,3177646,100.0,The Reserve Petroleum Company,United States
+Gulfport Energy Corp.,WRTEN,Energy,Oil & Gas,Oil/Gas Exploration,USA,GPOR,A,L,331476,100.0,Gulfport Energy Corporation,United States
+Alliance Resource Partners LP,ALLRPT,Energy,Fuel & Mining,Coal Mining,USA,ARLP,A,L,404105,100.0,"Alliance Resource Partners, L.P.",United States
+"Helmerich & Payne, Inc.",HLMPYN,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,HP,A,L,278341,100.0,"Helmerich & Payne, Inc.",United States
+Matrix Service Co.,MTRSER,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,MTRX,A,L,31193,100.0,Matrix Service Company,United States
+NGL Energy Partners LP,NGLEP,Energy,Oil & Gas,Gasoline/Service Stations,USA,NGL,A,L,114823784,100.0,NGL Energy Partners LP,United States
+"ONEOK, Inc.",OKE,Energy,Oil & Gas,Gas Utilities,USA,OKE,A,L,293889,100.0,"ONEOK, Inc.",United States
+"ONE Gas, Inc.",ONGKI,Energy,Oil & Gas,Gas Utilities,USA,OGS,A,L,243685856,100.0,"ONE Gas, Inc.",United States
+Unit Corp.,UDE,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,UNTC,A,L,191013,100.0,Unit Corporation,United States
+"The Williams Cos., Inc.",WLMSCO,Energy,Energy Equipment,Pipeline Transportation,USA,WMB,A,L,390225,100.0,"The Williams Companies, Inc.",United States
+First National Energy Corp.,CCINTC,Energy,Renewables,Wind Energy,USA,FNEC,A,L,3563545,100.0,First National Energy Corporation,Canada
+Bluefire Equipment Corp.,BLFIOB,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,BLFR,A,L,206865229,100.0,BlueFire Equipment Corporation,United States
+Northwest Natural Holding Co.,NWNG,Energy,Oil & Gas,Gas Utilities,USA,NWN,A,L,292047,100.0,Northwest Natural Holding Company,United States
+Portland General Electric Co.,PRTGEL,Energy,Utilities,Electric Utilities,USA,POR,A,L,297526,100.0,Portland General Electric Company,United States
+"Earth Gen-Biofuel, Inc.",CBDHGR,Energy,Renewables,Biofuels,USA,EGBB,A,L,8286767,100.0,"Earth Gen-Biofuel, Inc.",United States
+"Air Products & Chemicals, Inc.",AIRPRO,Energy,Oil & Gas,Industrial Gases,USA,APD,A,L,248356,100.0,"Air Products and Chemicals, Inc.",United States
+CrossAmerica Partners LP,LHGGAS,Energy,Oil & Gas,Gasoline/Service Stations,USA,CAPL,A,L,22848913,100.0,CrossAmerica Partners LP,United States
+PPL Corp.,PPLRES,Energy,Utilities,Electric Power Distribution,USA,PPL,A,L,185508,100.0,PPL Corporation,United States
+"Essential Utilities, Inc.",PHSC,Energy,Utilities,Water Utilities,USA,WTRG,A,L,296276,100.0,"Essential Utilities, Inc.",United States
+CNX Resources Corp.,CONCOL,Energy,Oil & Gas,Natural Gas Exploration,USA,CNX,A,L,399117,100.0,CNX Resources Corporation,United States
+"Fortitude Group, Inc.",TELVCE,Energy,Renewables,Biofuels,USA,FRTD,A,L,141275029,100.0,"Fortitude Group, Inc.",United States
+UGI Corp.,UGI,Energy,Oil & Gas,Gas Utilities,USA,UGI,A,L,190756,100.0,UGI Corporation,United States
+Ocean Thermal Energy Corp.,TETSOI,Energy,Renewables,Renewable Energy Generation,USA,CPWR,A,L,141256570,100.0,Ocean Thermal Energy Corporation,United States
+EQT Corp.,EQT,Energy,Oil & Gas,Oil/Gas Exploration,USA,EQT,A,L,269924,100.0,EQT Corporation,United States
+Matthews International Corp.,MATTHI,Energy,Electrical,Industrial Electrical Equipment,USA,MATW,A,L,335798,100.0,Matthews International Corporation,United States
+"Montauk Renewables, Inc.",OBWCDB,Energy,Renewables,Renewable Energy Generation,USA,MNTK,A,L,697893901,100.0,"Montauk Renewables, Inc.",United States
+"WESCO International, Inc.",WSCINT,Energy,Electrical,Electrical Components/Equipment,USA,WCC,A,L,398674,100.0,"WESCO International, Inc.",United States
+"Smart Sand, Inc.",EEUZAN,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,SND,A,L,141046767,100.0,"Smart Sand, Inc.",United States
+The York Water Co.,YORWAT,Energy,Utilities,Water Utilities,USA,YORW,A,L,315370,100.0,The York Water Company,United States
+Lighting Science Group Corp.,GRACCO,Energy,Electrical,Electric Lighting Equipment,USA,LSCG,A,L,37803339,100.0,Lighting Science Group Corporation,United States
+Redfield Energy  Llc,RDFLEN,Energy,Renewables,Alternative Fuels,USA,RDFD,A,L,26258461,100.0,"Redfield Energy, LLC",United States
+"Puda Coal, Inc.",PURGRP,Energy,Fuel & Mining,Coal Mining,USA,PUDA,A,L,23109938,100.0,"Puda Coal, Inc.",China
+Alliance Recovery Corp.,ALNREC,Energy,Renewables,Alternative Fuels,USA,ARVY,A,L,13404613,100.0,Alliance Recovery Corporation,United States
+AlumiFuel Power Corp.,ORSONC,Energy,Fuel & Mining,Fuel Cells,USA,AFPW,A,L,51714786,100.0,AlumiFuel Power Corporation,United States
+"Royal Energy Resources, Inc.",WORMAI,Energy,Oil & Gas,Oil/Gas Exploration,USA,ROYE,A,L,24386397,100.0,"Royal Energy Resources, Inc.",United States
+"Solar Park Initiatives, Inc.",CDIGDI,Energy,Renewables,Solar Energy,USA,SOPV,A,L,72954955,100.0,"Solar Park Initiatives, Inc.",United States
+Black Hills Corp.,BHPL,Energy,Utilities,Multiutilities,USA,BKH,A,L,255902,100.0,Black Hills Corporation,United States
+"NorthWestern Energy Group, Inc.",NWPS,Energy,Utilities,Electric Utilities,USA,NWE,A,L,184841,100.0,"NorthWestern Energy Group, Inc.",United States
+Windrock Land Company,CCREM,Energy,Oil & Gas,Oil Extraction,USA,WRLC,A,L,3103740,100.0,Windrock Land Company,United States
+"Namliong SkyCosmos, Inc.",GMWDP,Energy,Renewables,Alternative Fuels,USA,NLSC,A,L,136648,100.0,"Namliong SkyCosmos, Inc.",Taiwan
+"Forbes Energy Services, Limited",FRBENS,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,FLSS,A,L,43528098,100.0,Forbes Energy Services Ltd.,United States
+Tradestar Resources Corporation,TRADS,Energy,Oil & Gas,Oil/Gas Exploration,USA,TSRR,A,L,6305718,100.0,Tradestar Resources Corporation,United States
+Tidelands Oil & Gas Corp,CTNLGN,Energy,Oil & Gas,Natural Gas Processing,USA,TIDE,A,L,997622,100.0,Tidelands Oil & Gas Corporation,United States
+Transcoastal Corporation,CLAMNT,Energy,Oil & Gas,Oil/Gas Exploration,USA,TCEC,A,L,207023874,100.0,TransCoastal Corporation,United States
+Trek Resources  Inc.,MCGOWE,Energy,Oil & Gas,Oil/Gas Extraction,USA,TRKX,A,L,3185454,100.0,"Trek Resources, Inc.",United States
+Energy Revenue America  Llc,NATENC,Energy,Oil & Gas,Oil/Gas Exploration,USA,ERAO,A,L,39201191,100.0,"Energy Resource Abundance, Inc.",United States
+Affiliated Resources Corp,BASNAT,Energy,Fuel & Mining,Fuel Additives,USA,AFFL,A,L,407316,100.0,Affiliated Resources Corp,United States
+Zeons Corporation,CLBNET,Energy,Renewables,Biofuels,USA,ZEON,A,L,27129841,100.0,Zeons Corporation,United States
+Gulf Alternative Energy Corporation,LDINVT,Energy,Renewables,Biofuels,USA,GAEC,A,L,8974083,100.0,Gulf Alternative Energy Corp.,United States
+Sonterra Resources  Inc.,RICAGR,Energy,Oil & Gas,Oil/Gas Exploration,USA,VCYE,A,L,36272987,100.0,Velocity Energy Inc.,United States
+Toreador Resources Corporation,TRGL,Energy,Oil & Gas,Oil Extraction,USA,ZAZA,A,L,139146550,100.0,ZaZa Energy Corporation,United States
+CW Petroleum Corp,CWPCR,Energy,Oil & Gas,Oil/Gas Downstream Operations,USA,CWPE,A,L,570074975,100.0,CW Petroleum Corp,United States
+Gambit Energy Inc.,SLVRTG,Energy,Oil & Gas,Oil/Gas Exploration,USA,GMEI,A,L,118327205,100.0,"Gambit Energy, Inc.",United States
+Evolution Solar Corp,EVLSOL,Energy,Renewables,Solar Energy,USA,EVSO,A,L,45306014,100.0,Evolution Solar Corp,United States
+Excelerate Energy  Llc,EXCE,Energy,Oil & Gas,Liquefied/Compressed Gas,USA,EE,A,L,1763672656,100.0,"Excelerate Energy, Inc.",United States
+"Delek US Holdings, Inc.",DELUHI,Energy,Oil & Gas,Petroleum Refining,USA,DK,A,L,25836053,100.0,"Delek US Holdings, Inc.",United States
+Delek Logistics Partners LP,DLKLOG,Energy,Energy Equipment,Pipeline Transportation,USA,DKL,A,L,214103601,100.0,"Delek Logistics Partners, LP",United States
+"Blue Earth Resources, Inc.",CENTCN,Energy,Oil & Gas,Oil/Gas Exploration,USA,BERI,A,L,3466087,100.0,"Blue Earth Resources, Inc.",United States
+"Shoals Technologies Group, Inc.",OQTHMA,Energy,Renewables,Renewable Energy Equipment,USA,SHLS,A,L,133833909,100.0,"Shoals Technologies Group, Inc.",United States
+Pilgrim Petroleum Corp.,BMPETE,Energy,Oil & Gas,Oil Extraction,USA,PGPM,A,L,13220192,100.0,Pilgrim Petroleum Corporation,United States
+"Chancellor Group, Inc.",NGHHWK,Energy,Oil & Gas,Oil Exploration,USA,CHAG,A,L,639243,100.0,"Chancellor Group, Inc.",United States
+Arkanova Energy Corp.,ALTVNT,Energy,Oil & Gas,Oil/Gas Exploration,USA,AKVA,A,L,29789713,100.0,Arkanova Energy Corporation,United States
+Xtra Energy Corp.,AUBEQU,Energy,Oil & Gas,Oil/Gas Exploration,USA,XTPT,A,L,3103173,100.0,Xtra Energy Corp.,United States
+Fieldpoint Petroleum Corp.,FLDPTL,Energy,Oil & Gas,Natural Gas Exploration,USA,FPPP,A,L,383339,100.0,FieldPoint Petroleum Corporation,United States
+"Ideal Power, Inc.",IDPCIN,Energy,Electrical,Electrical Components/Equipment,USA,IPWR,A,L,244182766,100.0,Ideal Power Inc.,United States
+"Imperial Resources, Inc.",IRESNV,Energy,Oil & Gas,Natural Gas Exploration,USA,IPRC,A,L,46537070,100.0,"Imperial Resources, Inc.",United States
+"Laredo Oil, Inc.",LRDMI,Energy,Oil & Gas,Natural Gas Extraction,USA,LRDC,A,L,47684311,100.0,"Laredo Oil, Inc.",United States
+"Turner Valley Oil & Gas, Inc.",NTPRTS,Energy,Oil & Gas,Oil/Gas Exploration,USA,TVOG,A,L,3171699,100.0,"Turner Valley Oil & Gas, Inc.",United States
+"Victory Clean Energy, Inc.",NWENTC,Energy,Oil & Gas,Oil/Gas Exploration,USA,VYEY,A,L,1764932089,100.0,"Victory Oilfield Tech, Inc.",United States
+"Atlas Energy Solutions, Inc.",WVBOYY,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,AESI,A,L,1823874952,100.0,Atlas Energy Solutions Inc.,United States
+"Xfuels, Inc.",AMAZCB,Energy,Renewables,Alternative Fuels,USA,XFLS,A,L,671539621,100.0,Cycle Energy Industries Inc.,Canada
+"MDM Permian, Inc.",PEQRSC,Energy,Oil & Gas,Oil Exploration,USA,MDMP,A,L,558842766,100.0,"MDM Permian, Inc.",United States
+Xcanapetroleum.Com,GCORES,Energy,Oil & Gas,Natural Gas Exploration,USA,XCPT,A,L,407214,100.0,XCana Petroleum Corporation,United States
+True North Energy Corp.,AMEILI,Energy,Oil & Gas,Oil/Gas Exploration,USA,TNEN,A,L,10199952,100.0,True North Energy Corp.,United States
+"Bald Eagle Energy, Inc.",CLMBVN,Energy,Oil & Gas,Oil/Gas Exploration,USA,BEEI,A,L,30321933,100.0,"Bald Eagle Energy, Inc.",United States
+"Vivakor, Inc.",CQENFH,Energy,Oil & Gas,Oil/Gas Extraction,USA,VIVK,A,L,51146962,100.0,"Vivakor, Inc.",United States
+Dorchester Minerals LP,DHULZ,Energy,Oil & Gas,Natural Gas Extraction,USA,DMLP,A,L,3589891,100.0,"Dorchester Minerals, L.P.",United States
+"EGPI Firecreek, Inc.",EGPI,Energy,Oil & Gas,Oil/Gas Extraction,USA,EFIR,A,L,59372543,100.0,"EGPI Firecreek, Inc.",United States
+Atmos Energy Corp.,ENGAS,Energy,Oil & Gas,Gas Utilities,USA,ATO,A,L,252684,100.0,Atmos Energy Corporation,United States
+Energy Transfer LP,ETELP,Energy,Energy Equipment,Pipeline Transportation,USA,ET,A,L,23812789,100.0,Energy Transfer LP,United States
+"Arcosa, Inc.",EYOTAZ,Energy,Renewables,Renewable Energy Equipment,USA,ACA,A,L,546410010,100.0,"Arcosa, Inc.",United States
+HF Sinclair Corp.,HOLCO,Energy,Oil & Gas,Petroleum Refining,USA,DINO,A,L,178254,100.0,HF Sinclair Corporation,United States
+Kosmos Energy Ltd.,KSMENG,Energy,Oil & Gas,Oil Exploration,USA,KOS,A,L,8955572,100.0,Kosmos Energy Ltd.,United States
+"Cross Border Resources, Inc.",LNGEPC,Energy,Oil & Gas,Oil/Gas Exploration,USA,XBOR,A,L,113332213,100.0,"Cross Border Resources, Inc.",United States
+Matador Resources Co.,MATARC,Energy,Oil & Gas,Oil/Gas Exploration,USA,MTDR,A,L,11888172,100.0,Matador Resources Company,United States
+"EXCO Resources, Inc.",MNRL,Energy,Oil & Gas,Oil/Gas Exploration,USA,EXCE,A,L,391396,100.0,"EXCO Resources, Inc.",United States
+"Granite Ridge Resources, Inc.",PHRKGC,Energy,Oil & Gas,Oil/Gas Exploration,USA,GRNT,A,L,1821640161,100.0,"Granite Ridge Resources, Inc.",United States
+PermRock Royalty Trust,QBUFDR,Energy,Oil & Gas,Oil/Gas Exploration,USA,PRT,A,L,558432803,100.0,PermRock Royalty Trust,United States
+"Terax Energy, Inc.",RYLPHN,Energy,Oil & Gas,Oil/Gas Exploration,USA,TEXG,A,L,34215208,100.0,"Terax Energy, Inc.",United States
+Spindletop Oil & Gas Co.,SPNDLT,Energy,Oil & Gas,Oil/Gas Extraction,USA,SPND,A,L,3182364,100.0,Spindletop Oil & Gas Co.,United States
+Texas Pacific Land Corp.,TPL,Energy,Oil & Gas,Oil Extraction,USA,TPL,A,L,308037,100.0,Texas Pacific Land Corporation,United States
+USA Compression Partners LP,USACPL,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,USAC,A,L,549735521,100.0,"USA Compression Partners, LP",United States
+"Zion Oil & Gas, Inc.",ZIONOG,Energy,Oil & Gas,Oil Extraction,USA,ZNOG,A,L,1276200,100.0,"Zion Oil & Gas, Inc.",United States
+"Topaz Resources, Inc.",KIDGDC,Energy,Oil & Gas,Oil/Gas Exploration,USA,TOPZ,A,L,58201464,100.0,"Topaz Resources, Inc.",United States
+American International Holdings Corp.,MACARD,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,AMIH,A,L,618907423,100.0,American International Holdings Corp.,United States
+MMEX Resources Corp.,QTUMOB,Energy,Oil & Gas,Petroleum Refining,USA,MMEX,A,L,82517009,100.0,MMEX Resources Corporation,United States
+"AZZ, Inc.",AZMAN,Energy,Electrical,Electrical Components/Equipment,USA,AZZ,A,L,252588,100.0,AZZ Inc.,United States
+TXO Partners LP,FCQMDN,Energy,Oil & Gas,Oil/Gas Extraction,USA,TXO,A,L,214034447,100.0,"TXO Partners, L.P.",United States
+"HighPeak Energy, Inc.",HJAWHB,Energy,Oil & Gas,Oil/Gas Extraction,USA,HPK,A,L,645795910,100.0,"HighPeak Energy, Inc.",United States
+Range Resources Corp.,LOMK,Energy,Oil & Gas,Oil/Gas Exploration,USA,RRC,A,L,93030,100.0,Range Resources Corporation,United States
+Kimbell Royalty Partners LP,WOGRJL,Energy,Oil & Gas,Oil/Gas Exploration,USA,KRP,A,L,262264756,100.0,"Kimbell Royalty Partners, LP",United States
+"Daybreak Oil & Gas, Inc.",DYBRKM,Energy,Oil & Gas,Oil/Gas Exploration,USA,DBRM,A,L,3109265,100.0,"Daybreak Oil and Gas, Inc.",United States
+"Comstock Resources, Inc.",COMOCK,Energy,Oil & Gas,Oil Extraction,USA,CRK,A,L,560592817,100.0,"Comstock Resources, Inc.",United States
+"Sky Petroleum, Inc.",FLWRVT,Energy,Oil & Gas,Oil/Gas Exploration,USA,SKPI,A,L,3606532,100.0,"Sky Petroleum, Inc.",United States
+"West Texas Resources, Inc.",WTTXSR,Energy,Oil & Gas,Oil/Gas Exploration,USA,WTXR,A,L,181972599,100.0,"West Texas Resources, Inc.",United States
+Cheniere Energy Partners LP,AAANRG,Energy,Energy Equipment,Pipeline Transportation,USA,CQP,A,L,715547071,100.0,"Cheniere Energy Partners, L.P.",(Invalid Identifier)
+Savoy Energy Corp.,AKPNOB,Energy,Oil & Gas,Oil/Gas Extraction,USA,SNVP,A,L,54914558,100.0,Savoy Energy Corporation,United States
+PetroGas Co.,ALZZEC,Energy,Oil & Gas,Oil/Gas Exploration,USA,PTCO,A,L,264996765,100.0,PetroGas Company,United States
+APA Corp.,APCHE,Energy,Oil & Gas,Oil Extraction,USA,APA,A,L,169838,100.0,APA Corporation,United States
+Baker Hughes Co.,BAKINT,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,BKR,A,L,425005479,100.0,Baker Hughes Company,United States
+"Cheniere Energy, Inc.",BEXYC,Energy,Oil & Gas,Liquefied/Compressed Gas,USA,LNG,A,L,374377,100.0,"Cheniere Energy, Inc.",United States
+"Kinetik Holdings, Inc.",BHPMPA,Energy,Oil & Gas,Oil/Gas Midstream Operations,USA,KNTK,A,L,583915035,100.0,Kinetik Holdings Inc.,United States
+Crescent Energy Co.,BIBZMN,Energy,Oil & Gas,Oil Exploration,USA,CRGY,A,L,564714137,100.0,Crescent Energy Company,United States
+Drilling Tools International Corp. (US),BMPJPN,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,DTI,A,L,170187749,100.0,Drilling Tools International Corporation,United States
+"Coterra Energy, Inc.",CBOTOL,Energy,Oil & Gas,Oil Extraction,USA,CTRA,A,L,258181,100.0,Coterra Energy Inc.,United States
+"Helix Energy Solutions Group, Inc.",CDIVE,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,HLX,A,L,93027,100.0,"Helix Energy Solutions Group, Inc.",United States
+Chesapeake Granite Wash Trust,CHEGWT,Energy,Oil & Gas,Oil Extraction,USA,CHKR,A,L,137138150,100.0,Chesapeake Granite Wash Trust,United States
+Sionix Corp.,COCACP,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,SINX,A,L,1502111,100.0,Sionix Corp.,United States
+"Summer Energy Holdings, Inc.",CSTWPC,Energy,Power Generation,Electric Power Generation,USA,SUME,A,L,146192112,100.0,"Summer Energy Holdings, Inc.",United States
+"Par Pacific Holdings, Inc.",DLPET,Energy,Oil & Gas,Petroleum Refining,USA,PARR,A,L,98924,100.0,"Par Pacific Holdings, Inc.",United States
+"Dril-Quip, Inc.",DRLQP,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,INVX,A,L,413892254,100.0,"Innovex International, Inc.",United States
+Energy & Technology Corp.,ENGTPK,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,ENGT,A,L,44004726,100.0,"Energy & Technology, Corp.",United States
+Weatherford International plc,ENGY,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,WFRD,A,L,553033,100.0,Weatherford International plc,United States
+"EOG Resources, Inc.",ENOG,Energy,Oil & Gas,Oil/Gas Exploration,USA,EOG,A,L,269660,100.0,"EOG Resources, Inc.",United States
+Enterprise Products Partners LP,ENTPRD,Energy,Energy Equipment,Pipeline Transportation,USA,EPD,A,L,388763,100.0,Enterprise Products Partners L.P.,United States
+Harvest Oil & Gas Corp.,EVNRGY,Energy,Oil & Gas,Oil/Gas Extraction,USA,HRST,A,L,27222327,100.0,Harvest Oil & Gas Corp.,United States
+TechnipFMC plc,FMCTEC,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,FTI,A,L,1342651,100.0,TechnipFMC plc,United States
+"Forum Energy Technologies, Inc.",FOILTI,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,FET,A,L,26470411,100.0,"Forum Energy Technologies, Inc.",United States
+Expro Group Holdings NV,FRAIIN,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,XPRO,A,L,127583,100.0,Expro Group Holdings N.V.,United States
+First Seismic Corp.,FSTSEI,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,FSEI,A,L,315882,100.0,First Seismic Corp.,United States
+"VAALCO Energy, Inc.",GAOV,Energy,Oil & Gas,Oil Extraction,USA,EGY,A,L,416628,100.0,"VAALCO Energy, Inc.",United States
+Genesis Energy LP,GNESIS,Energy,Energy Equipment,Pipeline Transportation,USA,GEL,A,L,352674,100.0,"Genesis Energy, L.P.",United States
+Hess Midstream LP,HESSMZ,Energy,Energy Equipment,Pipeline Transportation,USA,HESM,A,L,272761870,100.0,Hess Midstream LP,United States
+Halliburton Co.,HLLBT,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,HAL,A,L,177698,100.0,Halliburton Company,United States
+"NCS Multistage Holdings, Inc.",HOMEER,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,NCSM,A,L,418413999,100.0,"NCS Multistage Holdings, Inc.",United States
+"CenterPoint Energy, Inc.",HOUIND,Energy,Utilities,Multiutilities,USA,CNP,A,L,279513,100.0,"CenterPoint Energy, Inc.",United States
+"DNOW, Inc.",HRPQNN,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,DNOW,A,L,247252999,100.0,DNOW Inc.,United States
+"IES Holdings, Inc.",IEEN,Energy,Electrical,Electrical Contractors,USA,IESC,A,L,377023,100.0,"IES Holdings, Inc.",United States
+"Kinder Morgan, Inc.",KNNG,Energy,Energy Equipment,Pipeline Transportation,USA,KMI,A,L,34952431,100.0,"Kinder Morgan, Inc.",United States
+PrimeEnergy Resources Corp.,KRMC,Energy,Oil & Gas,Oil Extraction,USA,PNRG,A,L,298040,100.0,PrimeEnergy Resources Corporation,United States
+"Verde Clean Fuels, Inc.",LDQCYB,Energy,Renewables,Alternative Fuels,USA,VGAS,A,L,129478306,100.0,"Verde Clean Fuels, Inc.",United States
+NextDecade Corp.,LKEBYW,Energy,Oil & Gas,Liquefied/Compressed Gas,USA,NEXT,A,L,137351668,100.0,NextDecade Corporation,United States
+"Ranger Energy Services, Inc.",LWKWYP,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,RNGR,A,L,431781010,100.0,"Ranger Energy Services, Inc.",United States
+"Stabilis Solutions, Inc.",MAIEII,Energy,Oil & Gas,Liquefied/Compressed Gas,USA,SLNG,A,L,244806282,100.0,"Stabilis Solutions, Inc.",United States
+Mesa Royalty Trust,MESRY,Energy,Oil & Gas,Oil/Gas Exploration,USA,MTR,A,L,288775,100.0,Mesa Royalty Trust,United States
+Amplify Energy Corp.,MPTRLC,Energy,Oil & Gas,Oil/Gas Exploration,USA,AMPY,A,L,134724049,100.0,Amplify Energy Corp.,United States
+Murphy Oil Corp.,MURP,Energy,Oil & Gas,Integrated Oil/Gas,USA,MUR,A,L,290060,100.0,Murphy Oil Corporation,United States
+MV Oil Trust,MVOIL,Energy,Oil & Gas,Oil Extraction,USA,MVO,A,L,30947875,100.0,MV Oil Trust,United States
+"NOV, Inc.",NATOL,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,NOV,A,L,31900,100.0,NOV Inc.,United States
+"Nine Energy Service, Inc.",NNESRV,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,NINE,A,L,232311079,100.0,"Nine Energy Service, Inc.",United States
+"NRG Energy, Inc.",NRGENG,Energy,Utilities,Multiutilities,USA,NRG,A,L,413857,100.0,"NRG Energy, Inc.",United States
+"Flotek Industries, Inc.",NTWV,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,FTK,A,L,415352,100.0,"Flotek Industries, Inc.",United States
+Occidental Petroleum Corp.,OCCID,Energy,Oil & Gas,Oil Extraction,USA,OXY,A,L,293286,100.0,Occidental Petroleum Corporation,United States
+"Oceaneering International, Inc.",OCEINT,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,OII,A,L,94799,100.0,"Oceaneering International, Inc.",United States
+"Oil States International, Inc.",OILSTS,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,OIS,A,L,94197,100.0,"Oil States International, Inc.",United States
+Eagle Ford Oil & Gas Corp.,OPTEXP,Energy,Oil & Gas,Oil/Gas Exploration,USA,ECCE,A,L,134582920,100.0,Eagle Ford Oil & Gas Corp.,United States
+Chord Energy Corp,OSSPET,Energy,Oil & Gas,Oil/Gas Exploration,USA,CHRD,A,L,37644463,100.0,Chord Energy Corporation,United States
+Geospace Technologies Corp.,OYOGEO,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,GEOS,A,L,374066,100.0,Geospace Technologies Corporation,United States
+"Patterson-UTI Energy, Inc.",PATTNG,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,PTEN,A,L,337694,100.0,"Patterson-UTI Energy, Inc.",United States
+Talen Energy Corp.,PESLLC,Energy,Power Generation,Electric Power Generation,USA,TLN,A,L,276190901,100.0,Talen Energy Corporation,United States
+ConocoPhillips,PHILP,Energy,Oil & Gas,Integrated Oil/Gas,USA,COP,A,L,296527,100.0,ConocoPhillips,United States
+Phillips 66,PHLCAP,Energy,Energy Equipment,Pipeline Transportation,USA,PSX,A,L,27306532,100.0,Phillips 66,United States
+LandBridge Co. LLC,PLEWEJ,Energy,Oil & Gas,Oil/Gas Exploration,USA,LB,A,L,1883415892,100.0,LandBridge Company LLC,United States
+Plains GP Holdings LP,PLGPHZ,Energy,Energy Equipment,Pipeline Transportation,USA,PAGP,A,L,22143565,100.0,"Plains GP Holdings, L.P.",United States
+"GulfSlope Energy, Inc.",PLNPMT,Energy,Oil & Gas,Oil/Gas Exploration,USA,GSPE,A,L,29979145,100.0,"GulfSlope Energy, Inc",United States
+Plains All American Pipeline LP,PLNSAL,Energy,Energy Equipment,Pipeline Transportation,USA,PAA,A,L,393940,100.0,"Plains All American Pipeline, L.P.",United States
+"Coil Tubing Technology, Inc.",PLVNTR,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,CTBG,A,L,43032450,100.0,"Coil Tubing Technology, Inc.",United States
+"Camber Energy, Inc.",PNRMCP,Energy,Oil & Gas,Oil/Gas Exploration,USA,CEIN,A,L,413426,100.0,"Camber Energy, Inc.",United States
+"Powell Industries, Inc.",POWLI,Energy,Electrical,Electrical Components/Equipment,USA,POWL,A,L,297711,100.0,"Powell Industries, Inc.",United States
+National Energy Services Reunited Corp.,QROSKG,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,NESR,A,L,421015703,100.0,National Energy Services Reunited Corp.,United States
+"KLX Energy Services Holdings, Inc.",QTJNYO,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,KLXE,A,L,561218649,100.0,"KLX Energy Services Holdings, Inc.",United States
+Evolution Petroleum Corp.,REAINC,Energy,Oil & Gas,Oil/Gas Extraction,USA,EPM,A,L,355553,100.0,Evolution Petroleum Corporation,United States
+PEDEVCO Corp.,REDAGP,Energy,Oil & Gas,Oil/Gas Exploration,USA,PED,A,L,142460419,100.0,PEDEVCO Corp.,United States
+"ERHC Energy, Inc.",REGAG,Energy,Oil & Gas,Oil/Gas Exploration,USA,ERHE,A,L,374651,100.0,ERHC Energy Inc.,United States
+"Seacor Marine Holdings, Inc.",RWIWIJ,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,SMHI,A,L,318154367,100.0,SEACOR Marine Holdings Inc.,United States
+"Solaris Energy Infrastructure, Inc.",SLROLF,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,SEI,A,L,273546076,100.0,"Solaris Energy Infrastructure, Inc.",United States
+Schlumberger Ltd.,SLUMB,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,SLB,A,L,301966,100.0,SLB N.V.,United States
+Summit Midstream Partners LP,SMDSTP,Energy,Energy Equipment,Pipeline Transportation,USA,SMC,A,L,62670872,100.0,Summit Midstream Corporation,United States
+"SMG Industries, Inc.",SMETGI,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,SMGI,A,L,382058327,100.0,SMG Industries Inc.,United States
+Chevron Corp.,SOCAL,Energy,Oil & Gas,Integrated Oil/Gas,USA,CVX,A,L,98506,100.0,Chevron Corporation,United States
+Aziel Corp.,STLHRS,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,AZIL,A,L,46053334,100.0,Aziel Corporation,United States
+"Talos Energy, Inc.",STONEN,Energy,Oil & Gas,Oil/Gas Extraction,USA,TALO,A,L,183786013,100.0,Talos Energy Inc.,United States
+Targa Resources Corp.,TARGRI,Energy,Energy Equipment,Pipeline Transportation,USA,TRGP,A,L,39153321,100.0,Targa Resources Corp.,United States
+"Tidewater, Inc.",TIDWAT,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,TDW,A,L,35572,100.0,Tidewater Inc.,United States
+Magnolia Oil & Gas Corp.,TPGAJH,Energy,Oil & Gas,Oil/Gas Extraction,USA,MGY,A,L,428015788,100.0,Magnolia Oil & Gas Corporation,United States
+"Trulite, Inc.",TRULTE,Energy,Electrical,Electrical Components/Equipment,USA,TRUL,A,L,10842366,100.0,"Trulite, Inc.",United States
+"Archrock, Inc.",UCOMPH,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,AROC,A,L,362798,100.0,"Archrock, Inc.",United States
+US Energy Corp.,USENCO,Energy,Oil & Gas,Oil Extraction,USA,USEG,A,L,310778,100.0,U.S. Energy Corp.,United States
+VOC Energy Trust,VOCNY,Energy,Oil & Gas,Oil Extraction,USA,VOC,A,L,117733177,100.0,VOC Energy Trust,United States
+"W&T Offshore, Inc.",WATOI,Energy,Oil & Gas,Oil Extraction,USA,WTI,A,L,4640784,100.0,"W&T Offshore, Inc.",United States
+"Cactus, Inc.",WYLWC,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,WHD,A,L,429432837,100.0,"Cactus, Inc.",United States
+Blue Dolphin Energy Co.,ZIMEN,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,BDCO,A,L,42431568,100.0,Blue Dolphin Energy Company,United States
+"Global Clean Energy, Inc.",GCEIPK,Energy,Renewables,Biofuels,USA,GCEI,A,L,3706737,100.0,"Global Clean Energy, Inc.",United States
+"Darling Ingredients, Inc.",DLINGI,Energy,Oil & Gas,Vegetable Oils,USA,DAR,A,L,341990,100.0,Darling Ingredients Inc.,United States
+Vistra Corp.,TXUECL,Energy,Power Generation,Electric Power Generation,USA,VST,A,L,7959935,100.0,Vistra Corp.,United States
+Qoilcorp.Com,LNAMDC,Energy,Oil & Gas,Oil/Gas Exploration,USA,QOIL,A,L,3557128,100.0,Quest Oil Corporation,United States
+Arkose Energy Corp.,CNTXEG,Energy,Oil & Gas,Oil/Gas Exploration,USA,RKOS,A,L,24251662,100.0,Arkose Energy Corp.,United States
+Martin Midstream Partners LP,MRTMID,Energy,Energy Equipment,Pipeline Transportation,USA,MMLP,A,L,2557643,100.0,Martin Midstream Partners L.P.,United States
+"Texas Gulf Energy, Inc.",NOFBEU,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,TXGE,A,L,49187628,100.0,"Texas Gulf Energy, Incorporated",United States
+"Financial Gravity Cos., Inc.",KTRCOB,Energy,Oil & Gas,Oil/Gas Exploration,USA,FGCO,A,L,280013291,100.0,"Financial Gravity Companies, Inc.",United States
+"Diamondback Energy, Inc.",DMDFNG,Energy,Oil & Gas,Oil/Gas Exploration,USA,FANG,A,L,170245760,100.0,"Diamondback Energy, Inc.",United States
+Mexco Energy Corp.,MEXEN,Energy,Oil & Gas,Oil/Gas Exploration,USA,MXC,A,L,3170112,100.0,Mexco Energy Corporation,United States
+"Natural Gas Services Group, Inc.",NGSGRP,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,NGS,A,L,812576,100.0,"Natural Gas Services Group, Inc.",United States
+ProPetro Holding Corp.,PRPTRH,Energy,Oil & Gas,Fracking Services,USA,PUMP,A,L,337454005,100.0,ProPetro Holding Corp.,United States
+Permian Resources Corp.,SLRACQ,Energy,Oil & Gas,Oil/Gas Exploration,USA,PR,A,L,323581924,100.0,Permian Resources Corporation,United States
+"Viper Energy, Inc.",SNAKEZ,Energy,Oil & Gas,Oil/Gas Extraction,USA,VNOM,A,L,249853894,100.0,"Viper Energy, Inc.",United States
+Dawson Geophysical Co.,TGCINC,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,DWSN,A,L,265858,100.0,Dawson Geophysical Company,United States
+"Kodiak Gas Services, Inc.",KOGSIN,Energy,Oil & Gas,Gas Utilities,USA,KGS,A,L,601541655,100.0,"Kodiak Gas Services, Inc.",United States
+"Ignis Petroleum Group, Inc.",SHRVNT,Energy,Oil & Gas,Oil/Gas Exploration,USA,IGPG,A,L,23052463,100.0,"Ignis Petroleum Group, Inc.",United States
+Valero Energy Corp.,VLRNGY,Energy,Oil & Gas,Petroleum Refining,USA,VLO,A,L,311679,100.0,Valero Energy Corporation,United States
+"Norstra Energy, Inc.",NRSTEY,Energy,Oil & Gas,Oil/Gas Exploration,USA,NORX,A,L,205073340,100.0,"Norstra Energy, Inc.",United States
+Exxon Mobil Corp.,EXXN,Energy,Oil & Gas,Integrated Oil/Gas,USA,XOM,A,L,406338,100.0,Exxon Mobil Corporation,United States
+"Texhoma Energy, Inc.",MYMINC,Energy,Oil & Gas,Oil/Gas Exploration,USA,TXHE,A,L,3467273,100.0,"Texhoma Energy, Inc.",United States
+"CVR Energy, Inc.",CVRRGY,Energy,Oil & Gas,Petroleum Refining,USA,CVI,A,L,5092377,100.0,"CVR Energy, Inc.",United States
+"Skye Petroleum, Inc.",NATEQT,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,SKPO,A,L,3171651,100.0,"Skye Petroleum, Inc.",United States
+"Solar Energy Initiatives, Inc.",NPCXPK,Energy,Renewables,Renewable Energy Equipment,USA,SNRY,A,L,39576504,100.0,"Solar Energy Initiatives, Inc.",United States
+"Ring Energy, Inc.",BLNCAC,Energy,Oil & Gas,Oil/Gas Exploration,USA,REI,A,L,4420411,100.0,"Ring Energy, Inc.",United States
+"MIND Technology, Inc.",MITCHA,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,MIND,A,L,349424,100.0,"MIND Technology, Inc.",United States
+"TETRA Technologies, Inc.",TETRAT,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,TTI,A,L,35290,100.0,"TETRA Technologies, Inc.",United States
+Western Midstream Partners LP,WGASQP,Energy,Energy Equipment,Pipeline Transportation,USA,WES,A,L,223971217,100.0,"Western Midstream Partners, LP",United States
+"QS Energy, Inc.",MNDLCC,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,QSEP,A,L,2434322,100.0,"QS Energy, Inc.",United States
+"Nauticus Robotics, Inc.",VFUKST,Energy,Electrical,Industrial Electrical Equipment,USA,KITT,A,L,424070764,100.0,"Nauticus Robotics, Inc.",United States
+ProFrac Holding Corp.,GDSKLU,Energy,Oil & Gas,Oil/Gas Upstream Operations,USA,ACDC,A,L,573605615,100.0,ProFrac Holding Corp.,United States
+TOYO Co. Ltd.,BLWACQ,Energy,Renewables,Solar Panels,USA,TOYO,A,L,1853063244,100.0,"TOYO Co., Ltd.",Japan
+"Frélii, Inc.",BYVWCP,Energy,Oil & Gas,Oil/Gas Exploration,USA,FRLI,A,L,65933928,100.0,"Frélii, Inc.",United States
+Northern Minerals & Exploration Ltd.,PUNENT,Energy,Oil & Gas,Oil Exploration,USA,NMEX,A,L,38567507,100.0,Northern Minerals & Exploration Ltd.,United States
+Standard Energy Corp.,STANEU,Energy,Oil & Gas,Oil/Gas Exploration,USA,STDE,A,L,3182387,100.0,Standard Energy Corporation,United States
+Cyclo3pss Corp.,CYCLOS,Energy,Electrical,Industrial Electrical Equipment,USA,CYPS,A,L,350845,100.0,Cyclo3pss Corporation,United States
+"Allied Resources, Inc.",GALOG,Energy,Oil & Gas,Oil/Gas Extraction,USA,ALOD,A,L,876486,100.0,"Allied Resources, Inc.",United States
+Pioneer Oil & Gas,PIOL,Energy,Oil & Gas,Oil/Gas Exploration,USA,POGS,A,L,416844,100.0,Pioneer Oil and Gas,United States
+The AES Corp.,AESCOR,Energy,Utilities,Electric Utilities,USA,AES,A,L,35312,100.0,The AES Corporation,United States
+"Fluence Energy, Inc.",DZJUGT,Energy,Renewables,Renewable Energy Equipment,USA,FLNC,A,L,1683252955,100.0,"Fluence Energy, Inc.",United States
+"Argan, Inc.",PLOWI,Energy,Other Energy,Power Station Construction,USA,AGX,A,L,298718,100.0,"Argan, Inc.",United States
+Isomet Corp.,IOMT,Energy,Electrical,Industrial Electrical Equipment,USA,IOMT,A,L,281567,100.0,Isomet Corp.,United States
+Lightbridge Corp.,AQSTVT,Energy,Fuel & Mining,Nuclear Fuel,USA,LTBR,A,L,21864317,100.0,Lightbridge Corporation,United States
+"Dominion Energy, Inc.",VEP,Energy,Utilities,Electric Power Distribution,USA,D,A,L,267105,100.0,"Dominion Energy, Inc.",United States
+"RGC Resources, Inc.",ROANG,Energy,Oil & Gas,Gas Utilities,USA,RGCO,A,L,300587,100.0,"RGC Resources, Inc.",United States
+Circle Energy  Inc.,CYCEN,Energy,Oil & Gas,Oil/Gas Upstream Operations,USA,CRCE,A,L,1771889959,100.0,"Circle Energy, Inc.",United States
+United Ethanol Llc,UETHLL,Energy,Renewables,Biofuels,USA,UETH,A,L,32991986,100.0,"United Ethanol, LLC.",United States
+Badger State Ethanol  Llc,BASTET,Energy,Renewables,Biofuels,USA,BADG,A,L,3561513,100.0,"Badger State Ethanol, LLC",United States
+"MicroVision, Inc.",MCRVSN,Energy,Electrical,Industrial Electrical Equipment,USA,MVIS,A,L,127282,100.0,"MicroVision, Inc.",United States
+Sentry Petroleum Ltd.,SEPLRT,Energy,Oil & Gas,Oil/Gas Exploration,USA,SPLM,A,L,26645379,100.0,Sentry Petroleum Ltd,United States
+Avista Corp.,WWPOW,Energy,Utilities,Multiutilities,USA,AVA,A,L,100918,100.0,Avista Corporation,United States
+"CarbonMeta Technologies, Inc.",SRMNI,Energy,Fuel & Mining,Coal Mining,USA,COWI,A,L,4781661,100.0,"CarbonMeta Technologies, Inc.",United States
+"MGE Energy, Inc.",MDSN,Energy,Power Generation,Electric Power Generation,USA,MGEE,A,L,285723,100.0,"MGE Energy, Inc.",United States
+Alliant Energy Corp.,WPL,Energy,Utilities,Electric Utilities,USA,LNT,A,L,312949,100.0,Alliant Energy Corporation,United States
+"Orion Energy Systems, Inc.",ORNESL,Energy,Electrical,Electric Lighting Equipment,USA,OESX,A,L,28544611,100.0,"Orion Energy Systems, Inc.",United States
+A. O. Smith Corp.,AOSM,Energy,Oil & Gas,Boilers/Tanks/Vessels,USA,AOS,A,L,997111,100.0,A. O. Smith Corporation,United States
+"Rockwell Automation, Inc.",RCKWL,Energy,Electrical,Industrial Electrical Equipment,USA,ROK,A,L,300504,100.0,"Rockwell Automation, Inc.",United States
+Regal Rexnord Corp.,REGBEL,Energy,Electrical,Electrical Components/Equipment,USA,RRX,A,L,299702,100.0,Regal Rexnord Corporation,United States
+"WEC Energy Group, Inc.",WISCEL,Energy,Utilities,Multiutilities,USA,WEC,A,L,315117,100.0,"WEC Energy Group, Inc.",United States
+Plexus Corp.,PLECO,Energy,Electrical,Electrical Components/Equipment,USA,PLXS,A,L,102348,100.0,Plexus Corp.,United States
+Blue Water Petroleum Corp.,DGINNO,Energy,Oil & Gas,Oil/Gas Exploration,USA,BWPC,A,L,114148378,100.0,Blue Water Petroleum Corp.,United States
+All American Gold Corp.,OSPVNT,Energy,Renewables,Solar Energy,USA,AAGC,A,L,40084711,100.0,All American Gold Corp.,United States
+"Black Dragon Resource Cos., Inc.",TXDD,Energy,Oil & Gas,Oil/Gas Exploration,USA,BDGR,A,L,1437890,100.0,"Black Dragon Resource Companies, Inc.",United States
+"NuTech Energy Resources, Inc.",RSOGPK,Energy,Oil & Gas,Natural Gas Exploration,USA,NERG,A,L,61111032,100.0,"NuTech Energy Resources, Inc.",United States
+"Rodedawg International Industries, Inc.",EJETHD,Energy,Utilities,Sports Utility Vehicles,USA,RWGI,A,L,10176843,100.0,"Rodedawg International Industries, Inc.",United States
+"Green Stream Holdings, Inc.",FSHLDP,Energy,Renewables,Renewable Energy Equipment,USA,GSFI,A,L,59222497,100.0,Green Stream Holdings Inc.,United States
+"Critical Solutions, Inc.",INNSIP,Energy,Renewables,Renewable Energy Equipment,USA,CSLI,A,L,36337469,100.0,"Critical Solutions, Inc.",United States
+Blue Sky Global Energy Corp.,RMZOWI,Energy,Oil & Gas,Oil/Gas Exploration,USA,BGE,A,L,1795219270,100.0,Bridge SaaS Limited,Australia
+"Advent Technologies Holdings, Inc.",HOCUCB,Energy,Fuel & Mining,Fuel Cells,USA,ADN,A,L,4508981,100.0,Andromeda Metals Limited,Australia
+"Kolibri Global Energy, Inc.",BNKPI,Energy,Oil & Gas,Oil/Gas Extraction,USA,KEI,A,L,25116010,100.0,Kolibri Global Energy Inc.,United States
+Sitio Royalties Corp.,DKUQEL,Energy,Oil & Gas,Oil Exploration,USA,STR,A,L,28169483,100.0,State Street SPDR MSCI Europe Consumer Discretionary UCITS ETF,United Kingdom
+"AE Holding I, Inc.",REGCLS,Energy,Oil & Gas,Oil/Gas Exploration,USA,APLN,A,L,115278710,100.0,PT Agung Podomoro Land Tbk,Indonesia
+XPLR Infrastructure LP,NEENPA,Energy,Renewables,Renewable Energy Generation,USA,NEP,A,L,8276502,100.0,NEP Realty and Industry Public Company Limited,Thailand
+"ALLETE, Inc.",MPL,Energy,Utilities,Electric Utilities,USA,ALE,A,L,684129716,100.0,Allegro.eu S.A.,Luxembourg
+"Scepter Holdings, Inc.",BRLNPK,Energy,Oil & Gas,Cosmetics/Toiletries,USA,BRZL,A,L,3222943,100.0,Public Joint Stock Company Buryatzoloto,Russia
+Hess Corp.,AMDHES,Energy,Oil & Gas,Integrated Oil/Gas,USA,HES,A,L,22782091,100.0,Hydraulic Elements and Systems AD,Bulgaria
+Wave Sync Corp.,LFQSTM,Energy,Renewables,Biofuels,USA,WAYS,A,L,313784602,100.0,Waystream Holding AB (publ),Sweden
+"Greenway Technologies, Inc.",DMANUC,Energy,Oil & Gas,Natural Gas Processing,USA,UMED,A,L,51508934,100.0,Unité de Fabrication des Médicaments S.A,Tunisia
+Berry Corp.,BERPET,Energy,Oil & Gas,Oil Extraction,USA,BRY,A,L,22338203,100.0,Bri-Chem Corp.,Canada
+"PHX Minerals, Inc.",PANHAN,Energy,Oil & Gas,Oil/Gas Extraction,USA,PHX,A,L,4484365,100.0,PharmX Technologies Limited,Australia
+BP Prudhoe Bay Royalty Trust,BPPRUD,Energy,Oil & Gas,Oil Extraction,USA,BPT,A,L,874657,100.0,Beach Energy Limited,Australia
+"NPK International, Inc.",NP,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,NR,A,L,9845446,100.0,Next Re SIIQ S.p.A.,Italy
+South Dakota Soybean Processors LLC,SODSPL,Energy,Oil & Gas,Vegetable Oils,USA,SDSYA,A,L,3569390,99.97,"South Dakota Soybean Processors, LLC",United States
+ECA Marcellus Trust I,ECAMZR,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,100414712,99.97,ECA Marcellus Trust I,United States
+Entergy New Orleans LLC,NOPS,Energy,Power Generation,Electric Power Generation,USA,,A,L,3474364,99.96,"Entergy New Orleans, LLC",United States
+Heron Lake Bioenergy  Llc,HLAKBL,Energy,Renewables,Biofuels,USA,HLBYL,A,L,25834455,99.96,"Heron Lake BioEnergy, LLC",United States
+Eqm Midstream Partners  Lp,EQTLPT,Energy,Energy Equipment,Pipeline Transportation,USA,,A,L,170198295,99.96,"EQM Midstream Partners, LP",United States
+"Civitas Resources, Inc.",BNNZCE,Energy,Oil & Gas,Oil/Gas Exploration,USA,CIVI,A,L,117973925,99.95,"Civitas Resources, Inc.",United States
+"E.C.D. Automotive Design, Inc.",KAHTKH,Energy,Utilities,Sports Utility Vehicles,USA,,A,L,1828670965,99.95,"ECD Automotive Design, Inc.",United States
+"PGT Innovations, Inc.",PGTII,Energy,Renewables,Metal Doors/Windows,USA,,A,L,6628356,99.95,"PGT Innovations, Inc.",United States
+Solar Integrated Roofing Corp.,SOIAGC,Energy,Renewables,Renewable Energy Equipment,USA,,A,L,37993345,99.95,Solar Integrated Roofing Corporation,United States
+"Alternus Clean Energy, Inc.",ERMBJB,Energy,Renewables,Solar Energy,USA,,A,L,695962311,99.95,"Alternus Clean Energy, Inc.",United States
+Expand Energy Corporation,CHSPKE,Energy,Oil & Gas,Oil/Gas Extraction,USA,CHK,A,L,323857,99.95,Expand Energy Corporation,United States
+The Narragansett Electric Company,NRRGEL,Energy,Utilities,Electric Power Distribution,USA,,A,L,2813518,99.95,The Narragansett Electric Company,United States
+"Flowco Holdings, Inc.",LETQQU,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,,A,L,1911836623,99.95,Flowco Holdings Inc.,United States
+Battalion Oil Corp.,TRMENA,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,1038325,99.95,Battalion Oil Corporation,United States
+Chord Energy Corp.,WHIPC,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,37644463,99.95,Chord Energy Corporation,United States
+"Gulf Island Fabrication, Inc.",GULFI,Energy,Oil & Gas,Oil/Gas Platform Construction,USA,GIFI,A,L,361280,99.95,"Gulf Island Fabrication, Inc.",United States
+Seacor Holdings Inc.,SEACOR,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,,A,L,327025,99.94,SEACOR Holdings Inc.,United States
+"High Wire Networks, Inc.",MVTGKP,Energy,Renewables,Renewable Energy Equipment,USA,,A,L,30851149,99.94,"High Wire Networks, Inc.",United States
+National Grid Usa Service Company  Inc.,NENGP,Energy,Oil & Gas,Electricity/Gas Utilities,USA,,A,L,22926661,99.94,"National Grid USA Service Company, Inc.",United States
+Eversource Energy,NEUTS,Energy,Utilities,Electric Power Distribution,USA,CNLPL,A,L,292525,99.94,Eversource Energy,United States
+Energy Transfer L.P.,SNOCO,Energy,Energy Equipment,Pipeline Transportation,USA,,A,L,23812789,99.94,Energy Transfer LP,United States
+"ABCO Energy, Inc.",ENCVTC,Energy,Electrical,Electrical Contractors,USA,ABCE,A,L,138173290,99.93,"ABCO Energy, Inc.",United States
+"Global Clean Energy Holdings, Inc.",MEDISC,Energy,Renewables,Biofuels,USA,,A,L,37125533,99.93,"Global Clean Energy Holdings, Inc.",United States
+Westmoreland Coal Co,WSTMOR,Energy,Fuel & Mining,Coal Mining,USA,,A,L,313734,99.93,Westmoreland Coal Company,United States
+Artesian Resources Corp.,ARTRES,Energy,Utilities,Water Utilities,USA,ARTNA,A,L,251682,99.93,Artesian Resources Corporation,United States
+Southwest Iowa Renewable Energy LLC,AQSMFN,Energy,Renewables,Alternative Fuels,USA,SWIOU,A,L,30984731,99.93,"Southwest Iowa Renewable Energy, LLC",United States
+"Clearway Energy, Inc.",NRGYLD,Energy,Renewables,Renewable Energy Generation,USA,CWEN,A,L,241463154,99.93,"Clearway Energy, Inc.",United States
+Corsa Coal Corp.,CRSACP,Energy,Fuel & Mining,Coal Mining,USA,CSO,A,L,232715030,99.93,Corsa Coal Corp.,United States
+"FTC Solar, Inc.",CGPYSY,Energy,Renewables,Renewable Energy Equipment,USA,,A,L,674822063,99.93,"FTC Solar, Inc.",United States
+"Select Water Solutions, Inc.",FCWQOY,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,,A,L,61023831,99.93,"Select Water Solutions, Inc.",United States
+Gulf Coast Ultra Deep Royalty Trust,GCUDR,Energy,Oil & Gas,Oil/Gas Exploration,USA,GULTU,A,L,225650172,99.93,Gulf Coast Ultra Deep Royalty Trust,United States
+HyperDynamics Corp.,RMZNTR,Energy,Oil & Gas,Oil/Gas Exploration,USA,HDYNQ,A,L,406376,99.93,Hyperdynamics Corporation,United States
+"Burnham Holdings, Inc.",BURNC,Energy,Oil & Gas,Boilers/Tanks/Vessels,USA,BURCA,A,L,959170,99.92,"Burnham Holdings, Inc.",United States
+Tn-K Energy Group Inc.,WNDLST,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,3173711,99.92,TN-K Energy Group Inc.,United States
+"Yuma Energy, Inc.",PYOL,Energy,Oil & Gas,Oil/Gas Exploration,USA,YUMAQ,A,L,325473428,99.92,"Yuma Energy, Inc.",United States
+ChampionX Corp.,APYGRP,Energy,Oil & Gas,Oil/Gas Field Machinery,USA,CHX,A,L,545985501,99.92,ChampionX Corporation,United States
+"Naturade, Inc.",NATUDE,Energy,Oil & Gas,Cosmetics/Toiletries,USA,,A,L,624062,99.91,"Naturade, Inc.",United States
+"NewHydrogen, Inc.",BOSOIN,Energy,Renewables,Renewable Energy Equipment,USA,BSRC,A,L,29054889,99.91,"NewHydrogen, Inc.",United States
+"Knightscope, Inc.",EBJKPG,Energy,Electrical,Industrial Electrical Equipment,USA,,A,L,257548773,99.91,"Knightscope, Inc.",United States
+Little Sioux Corn Processors Llc,LSICPL,Energy,Renewables,Biofuels,USA,LTUU,A,L,13389845,99.91,"Little Sioux Corn Processors, L.L.C.",United States
+ConnectM Technology Solutions Inc.,HIYNAB,Energy,Electrical,Electrical Components/Equipment,USA,CNTM,A,L,626533042,99.91,"ConnectM Technology Solutions, Inc.",United States
+Lake Area Corn Processors LLC,LACPCO,Energy,Renewables,Biofuels,USA,LKCRU,A,L,8390809,99.91,"Lake Area Corn Processors, LLC",United States
+EnLink Midstream LLC,ENLMID,Energy,Oil & Gas,Oil/Gas Midstream Operations,USA,ENLC,A,L,247475973,99.91,"EnLink Midstream, LLC",United States
+Taronis Fuels  Inc.,TLDAYO,Energy,Oil & Gas,Natural Gas Processing,USA,,A,L,629504321,99.9,"Taronis Fuels, Inc.",United States
+"Heliogen, Inc.",LZMAMQ,Energy,Renewables,Solar Energy,USA,,A,L,685104083,99.9,"Heliogen, Inc.",United States
+"VIASPACE, Inc.",GLBWPC,Energy,Power Generation,Biomass Heat/Electricity Generation,USA,VSPC,A,L,633081,99.9,VIASPACE Inc.,United States
+"NextNRG, Inc.",EZFIHI,Energy,Energy Equipment,Electric Vehicle Charging Equipment,USA,EZFL,A,L,672015616,99.9,"NextNRG, Inc.",United States
+Quad County Corn Processors Cooperative,QUCCPC,Energy,Renewables,Alternative Fuels,USA,QCCP,A,L,24658696,99.9,Quad County Corn Processors Cooperative,United States
+Patriot Renewable Fuels  Llc,PTRRFL,Energy,Renewables,Biofuels,USA,PRTFU,A,L,30985323,99.9,"Patriot Renewable Fuels, LLC",United States
+"AgEagle Aerial Systems, Inc.",HSSPMK,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,301012547,99.9,"AgEagle Aerial Systems, Inc.",United States
+Cross Timbers Royalty Trust,CTIMRT,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,317222,99.9,Cross Timbers Royalty Trust,United States
+Hugoton Royalty Trust,HGTNRY,Energy,Oil & Gas,Oil Extraction,USA,,A,L,405381,99.9,Hugoton Royalty Trust,United States
+Permianville Royalty Trust,NDUROR,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,132906184,99.9,Permianville Royalty Trust,United States
+Sandridge Mississippian Trust I,SDZMSS,Energy,Oil & Gas,Oil Extraction,USA,,A,L,117914257,99.9,SandRidge Mississippian Trust I,United States
+Mcdermott International Inc.,MCDMT,Energy,Oil & Gas,Oil/Gas Platform Construction,USA,,A,L,288033,99.89,"McDermott International, Inc.",United States
+San Juan Basin Royalty Trust,SJT,Energy,Oil & Gas,Oil Extraction,USA,,A,L,301710,99.89,San Juan Basin Royalty Trust,United States
+"C&J Energy Services, Inc.",CAJESE,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,,A,L,23838378,99.89,"C&J Energy Services, Inc.",United States
+"QEP Resources, Inc.",QEPRES,Energy,Oil & Gas,Oil/Gas Extraction,USA,,A,L,1565109,99.88,"QEP Resources, Inc.",United States
+Entergy Arkansas LLC,ARKPO,Energy,Power Generation,Electric Power Generation,USA,,A,L,3109907,99.88,"Entergy Arkansas, LLC",United States
+"Nuburu, Inc",LRKBGY,Energy,Electrical,Industrial Electrical Equipment,USA,,A,L,291350447,99.88,"Nuburu, Inc.",United States
+"M-tron Industries, Inc.",MTRZXI,Energy,Electrical,Electrical Components/Equipment,USA,,A,L,3270316,99.88,"M-tron Industries, Inc.",United States
+NSTAR Electric Co.,BOSTED,Energy,Oil & Gas,Electricity/Gas Utilities,USA,,A,L,3531778,99.88,NSTAR Electric Company,United States
+Ameren Corp.,AMRENC,Energy,Utilities,Electric Utilities,USA,AILIP,A,L,373264,99.88,Ameren Corporation,United States
+Denbury Inc.,KWSUAF,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,27490,99.88,Denbury Inc.,United States
+Permian Basin Royalty Trust,PBT,Energy,Oil & Gas,Oil Extraction,USA,,A,L,296066,99.88,Permian Basin Royalty Trust,United States
+"Ovintiv, Inc.",PCP,Energy,Oil & Gas,Natural Gas Extraction,USA,,A,L,1241057,99.87,Ovintiv Inc.,United States
+Viaspace Green Energy Inc.,VSPGEI,Energy,Renewables,Alternative Fuels,USA,VGREF,A,L,49926152,99.87,VIASPACE Green Energy Inc.,United States
+"Evergy, Inc.",EVRGXH,Energy,Utilities,Electric Power Distribution,USA,,A,L,283024,99.87,"Evergy, Inc.",United States
+TexGen Power LLC,GNGVJU,Energy,Power Generation,Fossil Fuel Power Generation,USA,TXGWU,A,L,576208837,99.87,"TexGen Power, LLC",United States
+"New Concept Energy, Inc.",WESPS,Energy,Oil & Gas,Oil/Gas Extraction,USA,,A,L,13538344,99.87,"New Concept Energy, Inc.",United States
+"KULR Technology Group, Inc.",JZWBCE,Energy,Electrical,Electrical Components/Equipment,USA,,A,L,328671450,99.87,"KULR Technology Group, Inc.",United States
+"Hubbell, Inc.",HAHU,Energy,Electrical,Electrical Components/Equipment,USA,HUB.B,A,L,279750,99.86,Hubbell Incorporated,United States
+Advanced BioEnergy LLC,ADVBEN,Energy,Renewables,Biofuels,USA,ABENU,A,L,22546371,99.86,"Advanced BioEnergy, LLC",United States
+"Nationwide RV & Resorts, Inc.",LICINT,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,BWTX,A,L,639219,99.86,"Nationwide RV & Resorts, Inc.",United States
+Southern California Gas Co.,SCGCO,Energy,Oil & Gas,Gas Utilities,USA,,A,L,3037532,99.85,Southern California Gas Company,United States
+The Connecticut Light & Power Co.,CONNLP,Energy,Oil & Gas,Electricity/Gas Utilities,USA,,A,L,1696161,99.85,The Connecticut Light and Power Company,United States
+"Electriq Power Holdings, Inc.",LQFWHQ,Energy,Utilities,Electric Power Distribution,USA,ELIQQ,A,L,429336278,99.85,"Electriq Power Holdings, Inc.",United States
+Devin Energy Corp.,DEVENG,Energy,Oil & Gas,Oil/Gas Exploration,USA,DVC.H,A,L,3474037,99.85,Devin Energy Corporation,United States
+"Earth Search Sciences, Inc.",ESRCH,Energy,Oil & Gas,Natural Gas Extraction,USA,,A,L,379741,99.85,"Earth Search Sciences, Inc.",United States
+Glacial Lakes Corn Processors,MBOVYQ,Energy,Renewables,Biofuels,USA,GLLL,A,L,144556768,99.85,"Glacial Lakes Corn Processors, Inc.",United States
+Sabine Royalty Trust,SBR,Energy,Oil & Gas,Oil Extraction,USA,,A,L,301611,99.85,Sabine Royalty Trust,United States
+"iSUN, Inc.",JENJEJ,Energy,Renewables,Renewable Energy Equipment,USA,ISUNQ,A,L,50919508,99.85,"iSun, Inc.",United States
+"Renewal Fuels, Inc.",TCHLAB,Energy,Renewables,Biofuels,USA,RNWF,A,L,34029737,99.84,"Renewal Fuels, Inc.",United States
+Rhino Resource Partners LP,RRPLP,Energy,Fuel & Mining,Coal Mining,USA,,A,L,26792881,99.84,Rhino Resource Partners LP,United States
+Entergy Mississippi LLC,MLAP,Energy,Power Generation,Electric Power Generation,USA,,A,L,3474363,99.84,"Entergy Mississippi, LLC",United States
+Kabe Exploration Inc.,KABEXL,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,33494954,99.83,"Kabe Exploration, Inc.",United States
+Entergy Gulf States Louisiana LLC,GLFUTL,Energy,Oil & Gas,Electricity/Gas Utilities,USA,,A,L,276599,99.83,"Entergy Gulf States Louisiana, L.L.C.",United States
+"Rainmaker Worldwide, Inc.",ARESFD,Energy,Utilities,Water Utilities,USA,CJTF,A,L,113117931,99.83,Rainmaker Worldwide Inc.,United States
+Ace Ethanol  Llc,AETHAL,Energy,Renewables,Biofuels,USA,ACEEU,A,L,6869700,99.83,Ace Ethanol LLC,United States
+"LanzaTech Global, Inc.",LNZTCH,Energy,Renewables,Carbon Capture/Storage,USA,,A,L,34034878,99.82,"LanzaTech Global, Inc.",United States
+Green Plains Partners LP,WINRHW,Energy,Renewables,Alternative Fuels,USA,,A,L,45330783,99.82,Green Plains Partners LP,United States
+"SUNation Energy, Inc.",CSII,Energy,Renewables,Solar Panels,USA,PEGY,A,L,706258730,99.82,SUNation Energy Inc.,United States
+Ringneck Energy LLC,CKURIQ,Energy,Renewables,Biofuels,USA,RNKEU,A,L,288323072,99.81,Ringneck Energy LLC,United States
+Trio Petroleum Corp.,EPDUAF,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,1763545698,99.81,Trio Petroleum Corp.,United States
+Iowa Renewable Energy  Llc,IOWREL,Energy,Renewables,Biofuels,USA,,A,L,32630098,99.81,"Iowa Renewable Energy, LLC",United States
+Ameren Illinois Co.,ILLPOW,Energy,Oil & Gas,Electricity/Gas Utilities,USA,,A,L,856489,99.81,Ameren Illinois Company,United States
+Western Plains Energy  L.L.C.,WPLAEL,Energy,Renewables,Biofuels,USA,WTRYU,A,L,3565126,99.81,"Western Plains Energy, LLC",United States
+Fuel Performance Solutions  Inc.,INTFTY,Energy,Fuel & Mining,Fuel Additives,USA,,A,L,635620,99.81,"Fuel Performance Solutions, Inc.",United States
+Riley Exploration - Permian  Llc,ONASC,Energy,Oil & Gas,Oil/Gas Extraction,USA,,A,L,1821153855,99.81,"Riley Exploration - Permian, LLC",United States
+NuScale Power Corp.,NUSCAU,Energy,Power Generation,Nuclear Power Generation,USA,,A,L,49439457,99.81,NuScale Power Corporation,United States
+Emerge Energy Services Lp,EENSLP,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,,A,L,233427056,99.81,Emerge Energy Services LP,United States
+Petrolia Energy Corp.,ATDNBO,Energy,Oil & Gas,Oil/Gas Exploration,USA,BBLSQ,A,L,28368194,99.81,Petrolia Energy Corporation,United States
+Washington Gas Light Co.,WGLC,Energy,Oil & Gas,Gas Utilities,USA,,A,L,3027743,99.81,Washington Gas Light Company,United States
+North American Exploration Corp,INMMGT,Energy,Oil & Gas,Oil/Gas Exploration,USA,NAMX,A,L,3808683,99.81,North American Exploration Corp.,United States
+American Eagle Energy Corp,GLDHRS,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,10838992,99.8,American Eagle Energy Corporation,United States
+"Core Natural Resources, Inc.",DNIFRP,Energy,Fuel & Mining,Coal Mining,USA,CEIX,A,L,530135269,99.8,"Core Natural Resources, Inc.",United States
+"AXIL Brands, Inc.",RVVTPL,Energy,Oil & Gas,Cosmetics/Toiletries,USA,,A,L,539890826,99.79,"AXIL Brands, Inc.",United States
+"Tempo Automation Holdings, Inc.",SLBMMV,Energy,Electrical,Industrial Electrical Equipment,USA,TMPOQ,A,L,311255837,99.79,"Tempo Automation Holdings, Inc.",United States
+"Infinity Natural Resources, Inc.",VMGMOB,Energy,Oil & Gas,Oil/Gas Upstream Operations,USA,,A,L,1899667170,99.77,"Infinity Natural Resources, Inc.",United States
+Pacific Coast Oil Trust,ROXTPC,Energy,Oil & Gas,Oil Extraction,USA,,A,L,145676038,99.76,Pacific Coast Oil Trust,United States
+"Complete Solaria, Inc.",SLRCR,Energy,Renewables,Solar Energy,USA,,A,L,1802969882,99.75,SunPower Inc.,United States
+Houston American Energy Corp.,HOAMEN,Energy,Oil & Gas,Oil/Gas Exploration,USA,HUSA,A,L,3158417,99.75,Houston American Energy Corp.,United States
+The Beard Co.,BEARDO,Energy,Oil & Gas,Oil Extraction,USA,BRCOQ,A,L,254657,99.74,Beard Co. (The),United States
+Marine Petroleum Trust,MPT,Energy,Oil & Gas,Oil/Gas Exploration,USA,MARPS,A,L,286291,99.74,Marine Petroleum Trust,United States
+Peak Resources Lp,BMQHOH,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,1897782944,99.73,Peak Resources LP,United States
+"Hawaiian Electric Co., Inc.",HWELCD,Energy,Power Generation,Electric Power Generation,USA,,A,L,9588508,99.73,"Hawaiian Electric Company, Inc.",United States
+"Integral Vision, Inc.",MDXR,Energy,Electrical,Industrial Electrical Equipment,USA,INVI,A,L,287074,99.73,"Integral Vision, Inc.",United States
+Lafayette Energy Corp.,LYSQBK,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,1790321447,99.73,Lafayette Energy Corp,United States
+"Hempstract, Inc.",HLYSYS,Energy,Oil & Gas,Oil/Gas Extraction,USA,HPST,A,L,33209864,99.72,Pride Holdings Group,United States
+NFiniTi Inc.,DRGDTH,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,1938594739,99.7,NFiniTi Inc.,United States
+"Heavy Earth Resources, Inc.",SWGPPK,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,42626964,99.7,"Heavy Earth Resources, Inc.",United States
+Epsilon Energy Ltd.,ESLNGY,Energy,Oil & Gas,Oil/Gas Exploration,USA,EPSEF,A,L,36765773,99.7,Epsilon Energy Ltd.,United States
+Treasure Island Royalty Trust,TIRT,Energy,Oil & Gas,Oil/Gas Exploration,USA,TISDZ,A,L,4153681,99.69,Treasure Island Royalty Trust,United States
+Eclipse Resources I  Lp,ECRIL,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,264071687,99.69,"Eclipse Resources I, LP",United States
+Empire Petroleum Corp.,AMRCMM,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,24795,99.68,Empire Petroleum Corporation,United States
+Paiute Oil & Mining Corp,PIUT,Energy,Oil & Gas,Oil/Gas Extraction,USA,PIUTQ,A,L,4003228,99.68,Paiute Oil & Mining Corp.,United States
+Tamm Oil and Gas Corp.,HOCMUI,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,28974357,99.67,Tamm Oil and Gas Corp.,Switzerland
+Stephan Co.,STEPCO,Energy,Oil & Gas,Cosmetics/Toiletries,USA,SPCO,A,L,305619,99.67,The Stephan Co.,United States
+Georgia Power Co.,GEOPO,Energy,Oil & Gas,Electricity/Gas Utilities,USA,,A,L,796410,99.67,Georgia Power Company,United States
+Western Metals Corp.,COACAS,Energy,Oil & Gas,Natural Gas Exploration,USA,WTLC,A,L,334670,99.66,Western Metals Corporation,United States
+Access Midstream Partners LP,CSKMID,Energy,Oil & Gas,Oil/Gas Upstream Operations,USA,,A,L,69189070,99.66,"Access Midstream Partners, L.P.",United States
+Porto Energy Corp.,PTONGY,Energy,Oil & Gas,Oil/Gas Exploration,USA,PNRXF,A,L,111958195,99.66,Porto Energy Corp.,United States
+"Cal Dive International, Inc.",CALDIV,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,CDVIQ,A,L,27440804,99.66,"Cal Dive International, Inc.",United States
+RDX Technologies Corp.,GAVRSC,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,RGDEF,A,L,25600123,99.64,RDX Technologies Corporation,United States
+Hoku Corp.,HOKUSI,Energy,Fuel & Mining,Fuel Cells,USA,HOKUQ,A,L,8081338,99.63,Hoku Corporation,United States
+Mountainview Energy Ltd.,MNTVEG,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,3171213,99.62,Mountainview Energy Ltd.,United States
+Heramba Electric Plc,HUWNIR,Energy,Renewables,Carbon Capture/Storage,USA,PITA,A,L,1852310439,99.61,Heramba Electric plc,Germany
+"374Water, Inc.",VYR,Energy,Renewables,Renewable Energy Equipment,USA,,A,L,690226053,99.61,374Water Inc.,United States
+"Renewable Innovations, Inc.",UMQWHV,Energy,Renewables,Alternative Fuels,USA,,A,L,1816942743,99.6,"Renewable Innovations, Inc.",United States
+Trimerica Energy Corp.,PDCMGL,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,51322739,99.59,Trimerica Energy Corporation,United States
+PostRock Energy Corp.,HYTKIN,Energy,Oil & Gas,Natural Gas Exploration,USA,PSTRQ,A,L,747480,99.59,PostRock Energy Corporation,United States
+"Maxwell Technologies, Inc.",MAXLAB,Energy,Electrical,Electrical Components/Equipment,USA,,A,L,286900,99.58,"Maxwell Technologies, Inc.",United States
+Red Mountain Resources  Inc.,TCHTME,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,131745245,99.57,"Red Mountain Resources, Inc.",United States
+Laxai Pharma Ltd.,HCTEC,Energy,Renewables,Biofuels,USA,,A,L,30421893,99.57,"Laxai Pharma, Ltd.",United States
+Mississippi Power Co.,MSSPWR,Energy,Power Generation,Electric Power Generation,USA,,A,L,3170623,99.55,Mississippi Power Company,United States
+Massachusetts Electric Company,MASSEL,Energy,Power Generation,Electric Power Generation,USA,,A,L,3078764,99.55,Massachusetts Electric Company,United States
+SJW Group,SJW,Energy,Utilities,Water Utilities,USA,SJW,A,L,301316,99.54,H2O America,United States
+Greenworld Development Inc.,ALHACM,Energy,Renewables,Renewable Energy Generation,USA,,A,L,105843676,99.53,"Greenworld Development, Inc.",United States
+Osyka Corp.,VLCVTR,Energy,Oil & Gas,Oil/Gas Exploration,USA,OSKA,A,L,30745858,99.52,AmpliPay Group Inc.,United States
+Global Gas Corp.,RIPKCV,Energy,Oil & Gas,Industrial Gases,USA,,A,L,1837780992,99.51,Global Gas Corporation,United States
+"Vital Energy, Inc.",LRDPI,Energy,Oil & Gas,Oil/Gas Extraction,USA,VTLE,A,L,1788832102,99.5,Vital Energy Inc.,United States
+"Sunworks, Inc.",MCHTKR,Energy,Renewables,Renewable Energy Facility Construction,USA,SUNWQ,A,L,5302725,99.47,"Sunworks, Inc.",United States
+Exact Energy Resources Inc.,SMSMBL,Energy,Oil & Gas,Oil/Gas Exploration,USA,EXER,A,L,3188778,99.45,"Exact Energy Resources, Inc.",United States
+WindGen Energy Inc.,INMD,Energy,Renewables,Renewable Energy Equipment,USA,,A,L,280006,99.44,"WindGen Energy, Inc.",United States
+Sustainable Power Corp.,SNDCHR,Energy,Renewables,Renewable Energy Generation,USA,,A,L,30334589,99.44,Sustainable Power Corp.,United States
+Red Trail Energy  Llc,RTRLEL,Energy,Renewables,Biofuels,USA,REGX,A,L,25834600,99.43,"South 8 Energy, LLC",United States
+UBI Blockchain Internet Ltd,JAYZBT,Energy,Renewables,Alternative Fuels,USA,UBIA,A,L,408241509,99.42,UBI Blockchain Internet Ltd,Hong Kong
+"EP3Oil, Inc.",SFTTEK,Energy,Oil & Gas,Oil,USA,HIHI,A,L,3188660,99.36,"EP3Oil, Inc.",United States
+Calibre Energy  Inc.,HRDWDR,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,25834816,99.35,"Calibre Energy, Inc.",United States
+"Atlantic Energy Solutions, Inc.",NTCHNV,Energy,Renewables,Renewable Energy Generation,USA,AESO,A,L,42971754,99.34,"CognoGroup, Inc.",United States
+"Oklo, Inc.",UPOWTI,Energy,Power Generation,Nuclear Power Generation,USA,,A,L,544611249,99.32,Oklo Inc.,United States
+Edison International,SOUCED,Energy,Utilities,Electric Power Transmission,USA,SCEpG,A,L,301891,99.3,Edison International,United States
+Atlantic Power Preferred Equity Ltd.,EPCORE,Energy,Power Generation,Fossil Fuel Power Generation,USA,,A,L,34049903,99.3,Atlantic Power Preferred Equity Ltd.,Canada
+RA Global Services Inc,RAMCO,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,RAGL,A,L,299454,99.2,"RA Global Services, Inc.",United States
+Titan Energy  Llc,ATLZRP,Energy,Oil & Gas,Oil/Gas Extraction,USA,,A,L,141758794,99.14,"Titan Energy, LLC",United States
+"Petro USA, Inc.",LSTPRT,Energy,Oil & Gas,Gasoline/Service Stations,USA,ATPT,A,L,2954967,99.13,"Petro USA, Inc.",United States
+"Quantum Energy, Inc.",BOOCDI,Energy,Oil & Gas,Oil/Gas Exploration,USA,,A,L,11207404,99.12,"Quantum Energy, Inc.",United States
+"NMI Group, Inc.",GRANAM,Energy,Fuel & Mining,Fuel Cells,USA,,A,L,1342606,99.08,"NMI Group, Inc.",United States
+"Venture Global, Inc.",TWVRCE,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,,A,L,1890508960,98.99,"Venture Global, Inc.",United States
+Jones Energy  Inc.,JNSELM,Energy,Oil & Gas,Oil/Gas Extraction,USA,,A,L,240936085,98.93,"Jones Energy, Inc.",United States
+"New Era Helium, Inc.",RYLFED,Energy,Oil & Gas,Industrial Gases,USA,ROCL,A,L,1858285927,98.55,"New Era Energy & Digital, Inc.",United States
+"Camac Energy, Incorporated",BSMTHB,Energy,Oil & Gas,Oil/Gas Exploration,USA,ERINQ,A,L,62604221,98.48,Erin Energy Corporation,United States
+"North America Frac Sand, Inc.",NEFSHI,Energy,Oil & Gas,Fracking Services,USA,NAFS,A,L,307040799,98.29,Havana Roasters Coffee Companies Inc.,United States
+Pure Hydrogen Corp. Ltd.,OZCPVT,Energy,Oil & Gas,Oil/Gas Exploration,USA,PH2,A,L,248335886,97.57,Pure One Corporation Limited,Australia
+Vista Proppants And Logistics Inc.,BLWJOC,Energy,Oil & Gas,Support Activities for Oil/Gas,USA,,A,L,543975957,97.51,Maalt Specialized Bulk LLC,United States
+Hunter Technology Corp. (Canada),RDGPET,Energy,Oil & Gas,Oil Exploration,USA,HOC.H,A,L,4593398,93.14,Hunter Technology Corporation,United States

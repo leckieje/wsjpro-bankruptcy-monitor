@@ -4,3 +4,12 @@ dist
 *.local
 .vercel
 .env*.local
+.DS_Store
+__pycache__
+*.xlsx
+
+# Pipeline intermediate outputs (regenerated on each run)
+get-data/output/*.csv
+get-data/output/*.txt
+get-data/input/*.csv
+get-data/company-sectors/*.csv
