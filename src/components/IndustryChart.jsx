@@ -31,6 +31,14 @@ function getGroupByField(filters) {
   return 'Sector'
 }
 
+function getBreadcrumb(filters) {
+  const parts = []
+  if (filters.sector) parts.push(filters.sector)
+  if (filters.subSector) parts.push(filters.subSector)
+  if (filters.industry) parts.push(filters.industry)
+  return parts.join(' / ')
+}
+
 function getGroupLabel(filters) {
   if (filters.subSector) return 'Industry'
   if (filters.sector) return 'Sub-Sector'
@@ -73,10 +81,13 @@ export default function IndustryChart({ scoredRows, filters, onFiltersChange }) 
   return (
     <div className="expandable-block">
       <div className="chart-title">
-        {canGoBack && (
-          <button className="back-link" onClick={handleBack}>&larr; Back</button>
-        )}
         <span>Average Score by {groupLabel}</span>
+        {canGoBack && (
+          <div className="breadcrumb-row">
+            <button className="back-link" onClick={handleBack}>&larr; Back</button>
+            <span className="breadcrumb-path">{getBreadcrumb(filters)}</span>
+          </div>
+        )}
       </div>
       <table className={`results-table industry-table${expanded ? ' industry-table--expanded' : ''}`}>
         <thead>

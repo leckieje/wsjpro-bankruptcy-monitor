@@ -174,6 +174,7 @@ export default function App() {
                 rows={parsedData.rows}
                 displayColumns={displayColumns}
                 scoredRows={filteredRows}
+                filters={filters}
               />
             </div>
           </>

@@ -55,7 +55,16 @@ function downloadCSV(data, displayColumns, isScored) {
   URL.revokeObjectURL(url)
 }
 
-export default function ResultsTable({ rows, displayColumns, scoredRows }) {
+function getBreadcrumb(filters) {
+  if (!filters) return ''
+  const parts = []
+  if (filters.sector) parts.push(filters.sector)
+  if (filters.subSector) parts.push(filters.subSector)
+  if (filters.industry) parts.push(filters.industry)
+  return parts.join(' / ')
+}
+
+export default function ResultsTable({ rows, displayColumns, scoredRows, filters }) {
   const [expanded, setExpanded] = useState(false)
   const [highlightedRow, setHighlightedRow] = useState(null)
   const data = scoredRows ?? rows
@@ -71,7 +80,12 @@ export default function ResultsTable({ rows, displayColumns, scoredRows }) {
   return (
     <div className="expandable-block">
       <div className="table-card-header">
-        <span className="table-card-title">Results</span>
+        <div className="table-card-title-group">
+          <span className="table-card-title">Results</span>
+          {getBreadcrumb(filters) && (
+            <span className="breadcrumb-path">{getBreadcrumb(filters)}</span>
+          )}
+        </div>
         <div className="download-links">
           <button className="download-link" onClick={() => downloadCSV(data, displayColumns, isScored)}>
             &#8659; Download CSV

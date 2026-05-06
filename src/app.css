@@ -186,6 +186,12 @@ body {
   border-bottom: 1px solid var(--border);
 }
 
+.table-card-title-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 .table-card-title {
   font-size: 14px;
   font-weight: 700;
@@ -485,8 +491,9 @@ body {
   padding-bottom: 10px;
   border-bottom: 1px solid var(--border);
   display: flex;
-  align-items: center;
-  gap: 10px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
 }
 
 .back-link {
@@ -505,6 +512,19 @@ body {
 .back-link:hover {
   background: var(--accent-bg);
   border-color: var(--accent);
+}
+
+.breadcrumb-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.25rem;
+}
+
+.breadcrumb-path {
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--text-2);
 }
 
 .chart-tooltip {
