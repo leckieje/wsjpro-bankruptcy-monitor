@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useRef, useCallback } from 'react'
 import { getScoreColor } from '../utils/scoreColor.js'
 
 const PERCENT_COLUMNS = new Set(['FSS Weekly Change', 'Negative Articles'])
@@ -67,6 +67,29 @@ function getBreadcrumb(filters) {
 export default function ResultsTable({ rows, displayColumns, scoredRows, filters }) {
   const [expanded, setExpanded] = useState(false)
   const [highlightedRow, setHighlightedRow] = useState(null)
+  const wrapRef = useRef(null)
+  const dragState = useRef(null)
+
+  const onMouseDown = useCallback((e) => {
+    if (e.button !== 0) return
+    dragState.current = { startX: e.clientX, startY: e.clientY, scrollLeft: wrapRef.current.scrollLeft, scrollTop: wrapRef.current.scrollTop, moved: false }
+    e.preventDefault()
+  }, [])
+
+  const onMouseMove = useCallback((e) => {
+    if (!dragState.current) return
+    const dx = e.clientX - dragState.current.startX
+    const dy = e.clientY - dragState.current.startY
+    if (!dragState.current.moved && Math.abs(dx) < 4 && Math.abs(dy) < 4) return
+    dragState.current.moved = true
+    wrapRef.current.scrollLeft = dragState.current.scrollLeft - dx
+    wrapRef.current.scrollTop = dragState.current.scrollTop - dy
+  }, [])
+
+  const onMouseUp = useCallback((e) => {
+    if (dragState.current?.moved) e.stopPropagation()
+    dragState.current = null
+  }, [])
   const data = scoredRows ?? rows
   const isScored = scoredRows !== null
 
@@ -92,14 +115,21 @@ export default function ResultsTable({ rows, displayColumns, scoredRows, filters
           </button>
         </div>
       </div>
-      <div className={`table-wrap${expanded ? ' table-wrap--expanded' : ''}`}>
+      <div
+        ref={wrapRef}
+        className={`table-wrap${expanded ? ' table-wrap--expanded' : ''}`}
+        onMouseDown={onMouseDown}
+        onMouseMove={onMouseMove}
+        onMouseUp={onMouseUp}
+        onMouseLeave={onMouseUp}
+      >
         <table className="results-table">
           <colgroup>
-            {isScored && <col style={{ width: '2rem' }} />}
+            {isScored && <col style={{ width: '32px', minWidth: '32px' }} />}
             {colsBefore.map((col) => (
               <col key={col} style={col === 'Company' ? { minWidth: '280px' } : {}} />
             ))}
-            {isScored && <col style={{ width: '120px' }} />}
+            {isScored && <col style={{ width: '120px', minWidth: '120px' }} />}
             {colsAfter.map((col) => <col key={col} />)}
           </colgroup>
           <thead>
@@ -121,7 +151,7 @@ export default function ResultsTable({ rows, displayColumns, scoredRows, filters
               <tr
                 key={i}
                 className={highlightedRow === i ? 'highlighted-row' : ''}
-                onClick={() => setHighlightedRow(highlightedRow === i ? null : i)}
+                onClick={(e) => { if (dragState.current === null) setHighlightedRow(highlightedRow === i ? null : i) }}
               >
                 {isScored && <td className="rank-col sticky-rank">{i + 1}</td>}
                 {colsBefore.map((col) => {

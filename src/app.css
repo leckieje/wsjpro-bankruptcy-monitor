@@ -629,6 +629,12 @@ body {
 .table-wrap {
   overflow: auto;
   max-height: 900px;
+  cursor: grab;
+  user-select: none;
+}
+
+.table-wrap:active {
+  cursor: grabbing;
 }
 
 .table-wrap--expanded {
@@ -687,15 +693,15 @@ body {
 }
 
 .results-table .highlighted-row td {
-  background: #FFF8E1;
+  background: #BFDBFE;
 }
 
 .results-table .highlighted-row:hover td {
-  background: #FFF3C4;
+  background: #93C5FD;
 }
 
 .results-table tbody tr {
-  cursor: pointer;
+  cursor: inherit;
 }
 
 .rank-col {
@@ -751,21 +757,35 @@ body {
 .results-table thead .sticky-rank,
 .results-table thead .sticky-company {
   background: var(--surface-2) !important;
-  z-index: 3;
+  z-index: 5;
 }
 
 .results-table thead .sticky-score {
   background: var(--surface-2) !important;
-  z-index: 3;
+  z-index: 5;
+}
+
+.results-table tbody tr:hover .sticky-rank,
+.results-table tbody tr:hover .sticky-company {
+  background: var(--accent-bg) !important;
 }
 
 .results-table .highlighted-row .sticky-rank,
 .results-table .highlighted-row .sticky-company {
-  background: #FFF8E1 !important;
+  background: #BFDBFE !important;
+}
+
+.results-table .highlighted-row:hover .sticky-rank,
+.results-table .highlighted-row:hover .sticky-company {
+  background: #93C5FD !important;
 }
 
 .results-table .highlighted-row .sticky-score {
-  background: #FFF3C4 !important;
+  background: #BFDBFE !important;
+}
+
+.results-table .highlighted-row:hover .sticky-score {
+  background: #93C5FD !important;
 }
 
 /* ── Download button row ── */
