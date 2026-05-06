@@ -223,6 +223,84 @@ body {
   border-color: #9CA3AF;
 }
 
+.compare-dropdown {
+  position: relative;
+}
+
+.compare-btn--active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.compare-panel {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 4px);
+  z-index: 100;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: var(--shadow-md);
+  width: 260px;
+  max-height: 320px;
+  display: flex;
+  flex-direction: column;
+}
+
+.compare-panel-actions {
+  display: flex;
+  gap: 8px;
+  padding: 8px 12px 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+.compare-action-link {
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 12px;
+  color: var(--accent);
+  cursor: pointer;
+  font-family: var(--font);
+}
+
+.compare-action-link:hover {
+  text-decoration: underline;
+}
+
+.compare-action-apply {
+  margin-left: auto;
+  font-weight: 600;
+}
+
+.compare-list {
+  list-style: none;
+  margin: 0;
+  padding: 4px 0;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.compare-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 12px;
+  font-size: 13px;
+  cursor: pointer;
+  color: var(--text);
+}
+
+.compare-item:hover {
+  background: var(--accent-bg);
+}
+
+.compare-checkbox {
+  accent-color: var(--accent);
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
 /* ── Primary button ── */
 .btn {
   display: inline-flex;
@@ -642,10 +720,17 @@ body {
 }
 
 .results-table {
-  width: 100%;
+  width: max-content;
+  min-width: 100%;
   border-collapse: separate;
   border-spacing: 0;
   font-size: 12px;
+}
+
+.results-table.industry-table {
+  width: 100%;
+  min-width: 0;
+  table-layout: auto;
 }
 
 .results-table thead th {
@@ -704,12 +789,21 @@ body {
   cursor: inherit;
 }
 
+.results-table tbody td.sticky-company,
+.results-table tbody td.sticky-score {
+  cursor: pointer;
+}
+
 .rank-col {
-  width: 2rem;
   text-align: center;
   color: var(--text-2);
   font-weight: 700;
   font-size: 11px;
+}
+
+.results-table:not(.industry-table) .rank-col {
+  width: 40px;
+  min-width: 40px;
 }
 
 .score-col {
@@ -731,42 +825,46 @@ body {
 .sticky-rank {
   position: sticky;
   left: 0;
-  z-index: 2;
+  z-index: 3;
+  width: 40px;
+  min-width: 40px;
+  max-width: 40px;
   background: var(--surface) !important;
 }
 
 .sticky-company {
   position: sticky;
-  left: 32px;
-  z-index: 2;
+  left: 40px;
+  z-index: 3;
+  width: 280px;
   min-width: 280px;
+  max-width: 280px;
   background: var(--surface) !important;
-  box-shadow: 3px 0 5px -1px rgba(0,0,0,0.06);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .sticky-score {
   position: sticky;
-  left: 312px;
-  z-index: 2;
+  left: 320px;
+  z-index: 3;
   width: 120px;
   min-width: 120px;
   background: var(--accent-bg) !important;
-  box-shadow: 3px 0 5px -1px rgba(0,0,0,0.06);
+  box-shadow: 3px 0 6px -2px rgba(0,0,0,0.1);
 }
 
 .results-table thead .sticky-rank,
-.results-table thead .sticky-company {
-  background: var(--surface-2) !important;
-  z-index: 5;
-}
-
+.results-table thead .sticky-company,
 .results-table thead .sticky-score {
   background: var(--surface-2) !important;
-  z-index: 5;
+  z-index: 6;
 }
 
 .results-table tbody tr:hover .sticky-rank,
-.results-table tbody tr:hover .sticky-company {
+.results-table tbody tr:hover .sticky-company,
+.results-table tbody tr:hover .sticky-score {
   background: var(--accent-bg) !important;
 }
 

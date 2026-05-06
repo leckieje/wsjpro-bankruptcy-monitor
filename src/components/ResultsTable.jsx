@@ -1,4 +1,4 @@
-import { useState, useRef, useCallback } from 'react'
+import { useState, useRef, useCallback, useEffect } from 'react'
 import { getScoreColor } from '../utils/scoreColor.js'
 
 const PERCENT_COLUMNS = new Set(['FSS Weekly Change', 'Negative Articles'])
@@ -67,8 +67,46 @@ function getBreadcrumb(filters) {
 export default function ResultsTable({ rows, displayColumns, scoredRows, filters }) {
   const [expanded, setExpanded] = useState(false)
   const [highlightedRow, setHighlightedRow] = useState(null)
+  const [compareOpen, setCompareOpen] = useState(false)
+  const [pendingSet, setPendingSet] = useState(new Set())
+  const [appliedSet, setAppliedSet] = useState(new Set())
+  const compareRef = useRef(null)
+
+  useEffect(() => {
+    setPendingSet(new Set())
+    setAppliedSet(new Set())
+    setCompareOpen(false)
+  }, [filters?.industry])
+
+  function openCompare() {
+    setPendingSet(new Set(appliedSet))
+    setCompareOpen(true)
+  }
+
+  function applyCompare() {
+    setAppliedSet(new Set(pendingSet))
+    setCompareOpen(false)
+  }
+
+  function clearCompare() {
+    setPendingSet(new Set())
+    setAppliedSet(new Set())
+    setCompareOpen(false)
+  }
+
+  useEffect(() => {
+    if (!compareOpen) return
+    function handleClick(e) {
+      if (compareRef.current && !compareRef.current.contains(e.target)) applyCompare()
+    }
+    document.addEventListener('mousedown', handleClick)
+    return () => document.removeEventListener('mousedown', handleClick)
+  }, [compareOpen, pendingSet])
   const wrapRef = useRef(null)
   const dragState = useRef(null)
+
+  const allData = scoredRows ?? rows
+  const isScored = scoredRows !== null
 
   const onMouseDown = useCallback((e) => {
     if (e.button !== 0) return
@@ -90,10 +128,21 @@ export default function ResultsTable({ rows, displayColumns, scoredRows, filters
     if (dragState.current?.moved) e.stopPropagation()
     dragState.current = null
   }, [])
-  const data = scoredRows ?? rows
-  const isScored = scoredRows !== null
+  const showCompare = !!filters?.industry
+  const data = (showCompare && appliedSet.size > 0)
+    ? allData.filter(row => appliedSet.has(row.Company))
+    : allData
+  const companyNames = showCompare ? allData.map(r => r.Company).filter(Boolean) : []
 
-  if (!data || data.length === 0) return <p className="empty-state">No data loaded.</p>
+  if (!allData || allData.length === 0) return <p className="empty-state">No data loaded.</p>
+
+  function toggleCompany(name) {
+    setPendingSet(prev => {
+      const next = new Set(prev)
+      next.has(name) ? next.delete(name) : next.add(name)
+      return next
+    })
+  }
 
   const companyIndex = displayColumns.indexOf('Company')
   const scoreInsertIndex = companyIndex >= 0 ? companyIndex + 1 : 1
@@ -110,6 +159,32 @@ export default function ResultsTable({ rows, displayColumns, scoredRows, filters
           )}
         </div>
         <div className="download-links">
+          {showCompare && (
+            <div className="compare-dropdown" ref={compareRef}>
+              <button
+                className={`download-link compare-btn${appliedSet.size > 0 ? ' compare-btn--active' : ''}`}
+                onClick={() => compareOpen ? applyCompare() : openCompare()}
+              >
+                Compare{appliedSet.size > 0 ? ` (${appliedSet.size})` : ''} ▾
+              </button>
+              {compareOpen && (
+                <div className="compare-panel">
+                  <div className="compare-panel-actions">
+                    <button className="compare-action-link" onClick={() => setPendingSet(new Set())}>Clear</button>
+                    <button className="compare-action-link compare-action-apply" onClick={applyCompare}>Apply</button>
+                  </div>
+                  <ul className="compare-list">
+                    {companyNames.map(name => (
+                      <li key={name} className="compare-item" onClick={() => toggleCompany(name)}>
+                        <input type="checkbox" readOnly checked={pendingSet.has(name)} className="compare-checkbox" />
+                        <span>{name}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </div>
+          )}
           <button className="download-link" onClick={() => downloadCSV(data, displayColumns, isScored)}>
             &#8659; Download CSV
           </button>
@@ -125,11 +200,11 @@ export default function ResultsTable({ rows, displayColumns, scoredRows, filters
       >
         <table className="results-table">
           <colgroup>
-            {isScored && <col style={{ width: '32px', minWidth: '32px' }} />}
+            {isScored && <col style={{ width: '40px' }} />}
             {colsBefore.map((col) => (
-              <col key={col} style={col === 'Company' ? { minWidth: '280px' } : {}} />
+              <col key={col} style={col === 'Company' ? { width: '280px' } : undefined} />
             ))}
-            {isScored && <col style={{ width: '120px', minWidth: '120px' }} />}
+            {isScored && <col style={{ width: '120px' }} />}
             {colsAfter.map((col) => <col key={col} />)}
           </colgroup>
           <thead>
@@ -151,19 +226,27 @@ export default function ResultsTable({ rows, displayColumns, scoredRows, filters
               <tr
                 key={i}
                 className={highlightedRow === i ? 'highlighted-row' : ''}
-                onClick={(e) => { if (dragState.current === null) setHighlightedRow(highlightedRow === i ? null : i) }}
               >
                 {isScored && <td className="rank-col sticky-rank">{i + 1}</td>}
                 {colsBefore.map((col) => {
                   const debtStyle = col === 'Debt to EBITDA' ? { color: formatDebtEbitda(row[col], row).color, fontWeight: formatDebtEbitda(row[col], row).color ? 600 : undefined } : undefined
                   return (
-                    <td key={col} className={col === 'Company' ? 'sticky-company' : ''} style={debtStyle}>
+                    <td
+                      key={col}
+                      className={col === 'Company' ? 'sticky-company' : ''}
+                      style={debtStyle}
+                      onClick={col === 'Company' ? (e) => { e.stopPropagation(); setHighlightedRow(highlightedRow === i ? null : i) } : undefined}
+                    >
                       {formatCell(col, row[col], isScored, row)}
                     </td>
                   )
                 })}
                 {isScored && (
-                  <td className="sticky-score score-value" style={{ color: getScoreColor(row._score) }}>
+                  <td
+                    className="sticky-score score-value"
+                    style={{ color: getScoreColor(row._score) }}
+                    onClick={(e) => { e.stopPropagation(); setHighlightedRow(highlightedRow === i ? null : i) }}
+                  >
                     {row._score.toFixed(2)}
                   </td>
                 )}
