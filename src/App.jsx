@@ -159,7 +159,7 @@ export default function App() {
                 />
               </div>
               <div className={`chart-card${scoresStale ? ' stale' : ''}`}>
-                <ScoreHistogram scoredRows={filteredRows} />
+                <ScoreHistogram scoredRows={filteredRows} filters={filters} />
               </div>
             </div>
 

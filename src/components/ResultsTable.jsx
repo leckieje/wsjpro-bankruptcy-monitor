@@ -170,7 +170,7 @@ export default function ResultsTable({ rows, displayColumns, scoredRows, filters
               {compareOpen && (
                 <div className="compare-panel">
                   <div className="compare-panel-actions">
-                    <button className="compare-action-link" onClick={() => setPendingSet(new Set())}>Clear</button>
+                    <button className="compare-action-link" onClick={clearCompare}>Clear</button>
                     <button className="compare-action-link compare-action-apply" onClick={applyCompare}>Apply</button>
                   </div>
                   <ul className="compare-list">

@@ -1,5 +1,13 @@
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts'
 
+function getBreadcrumb(filters) {
+  const parts = []
+  if (filters.sector) parts.push(filters.sector)
+  if (filters.subSector) parts.push(filters.subSector)
+  if (filters.industry) parts.push(filters.industry)
+  return parts.join(' / ')
+}
+
 function buildBuckets(scoredRows) {
   const buckets = []
   for (let i = 0; i < 100; i += 5) {
@@ -24,14 +32,18 @@ const CustomTooltip = ({ active, payload }) => {
   )
 }
 
-export default function ScoreHistogram({ scoredRows }) {
+export default function ScoreHistogram({ scoredRows, filters }) {
   if (!scoredRows) return null
 
   const data = buildBuckets(scoredRows)
+  const breadcrumb = filters ? getBreadcrumb(filters) : ''
 
   return (
     <div>
-      <h2 className="chart-title">Score Distribution</h2>
+      <div className="chart-title" style={{ flexDirection: 'row', alignItems: 'center', gap: '0.5rem' }}>
+        <span>Score Distribution</span>
+        {breadcrumb && <span className="breadcrumb-path">{breadcrumb}</span>}
+      </div>
       <ResponsiveContainer width="100%" height={220}>
         <BarChart data={data} margin={{ top: 4, right: 16, left: 0, bottom: 24 }}>
           <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e0e0e0" />
