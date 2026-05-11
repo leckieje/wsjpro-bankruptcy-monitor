@@ -633,6 +633,11 @@ body {
   font-size: 12px;
 }
 
+.industry-table thead th,
+.industry-table tbody td {
+  padding: 8px 8px;
+}
+
 .industry-table tbody {
   display: block;
   max-height: 216px;
@@ -657,32 +662,80 @@ body {
 
 .industry-table th:nth-child(1),
 .industry-table td:nth-child(1) {
-  width: 6%;
+  width: 4%;
 }
 
 .industry-table th:nth-child(2),
 .industry-table td:nth-child(2) {
-  width: 34%;
+  width: 24%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 0;
 }
 
 .industry-table th:nth-child(3),
 .industry-table td:nth-child(3) {
-  width: 22%;
+  width: 12%;
 }
 
 .industry-table th:nth-child(4),
 .industry-table td:nth-child(4) {
-  width: 14%;
+  width: 10%;
 }
 
 .industry-table th:nth-child(5),
 .industry-table td:nth-child(5) {
-  width: 12%;
+  width: 10%;
 }
 
 .industry-table th:nth-child(6),
 .industry-table td:nth-child(6) {
-  width: 12%;
+  width: 10%;
+}
+
+.industry-table th:nth-child(7),
+.industry-table td:nth-child(7) {
+  width: 10%;
+}
+
+.industry-table th:nth-child(8),
+.industry-table td:nth-child(8) {
+  width: 10%;
+}
+
+.industry-table th:nth-child(9),
+.industry-table td:nth-child(9) {
+  width: 10%;
+}
+
+.industry-data-row {
+  cursor: pointer;
+}
+
+.industry-data-row:hover td {
+  background: var(--accent-bg);
+}
+
+.industry-row--open td {
+  background: var(--accent-bg);
+}
+
+.whisker-toggle-icon {
+  display: inline-block;
+  width: 14px;
+  font-size: 10px;
+  color: var(--text-2);
+  user-select: none;
+}
+
+.whisker-row td {
+  background: var(--surface-2) !important;
+  border-bottom: 1px solid var(--border);
+  padding: 0 !important;
+}
+
+.whisker-cell {
+  padding: 10px 28px 14px;
 }
 
 .industry-footnote {

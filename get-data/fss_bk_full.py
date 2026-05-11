@@ -12,7 +12,11 @@ import numpy as np
 import requests
 import json
 import os
+from dotenv import load_dotenv
 # import urllib.parse
+
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
+FSS_API_KEY = os.environ['FACTIVA_SENTIMENT_API_KEY']
 
 from datetime import date, timedelta
 from time import sleep
@@ -25,7 +29,7 @@ drive.mount('/content/drive', force_remount=True)
 # url_ = 'https://api.dowjones.com/fss/taxonomies/companies?format=json'
 
 # headers = {
-#     'user-key': 'YonUJTau2MDerSOSK4K2lN8aZiyMSlWO'
+#     'user-key': FSS_API_KEY
 # }
 
 # response = requests.get(url_, headers=headers)
@@ -55,7 +59,7 @@ def get_codes(reg=['USA'], new=False, save=False):
     url_ = 'https://api.dowjones.com/fss/taxonomies/companies?format=json'
 
     headers = {
-        'user-key': 'YonUJTau2MDerSOSK4K2lN8aZiyMSlWO'
+        'user-key': FSS_API_KEY
     }
 
     response = requests.get(url_, headers=headers)
