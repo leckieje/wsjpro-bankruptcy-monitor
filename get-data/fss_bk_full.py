@@ -144,7 +144,7 @@ def FSS_call(firms, start, end):
 
   headers = {
       'Content-Type': 'application/json',
-      'user-key': 'YonUJTau2MDerSOSK4K2lN8aZiyMSlWO'
+      'user-key': os.environ['FACTIVA_SENTIMENT_API_KEY']
   }
 
   payload = {

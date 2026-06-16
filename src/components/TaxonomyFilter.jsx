@@ -62,6 +62,10 @@ export default function TaxonomyFilter({ rows, filters, onFiltersChange }) {
           ))}
         </select>
       </div>
+
+      <div className="taxonomy-filter-attribution">
+        Powered by Factiva Sentiment Signals, LSEG, and WSJ Pro Data
+      </div>
     </div>
   )
 }

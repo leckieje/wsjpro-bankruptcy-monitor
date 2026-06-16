@@ -2,6 +2,8 @@
 const INVERTED_COLUMNS = new Set([
   'Z-Score',
   'Quick Ratio',
+  'FSS Score',
+  'FSS Weekly Change',
   'Market Capitalization',
   'Current Open Price',
   '52-Week High Price',
@@ -113,4 +115,9 @@ export function distributeEvenly(columns) {
 
 export function getTotal(weights) {
   return Object.values(weights).reduce((sum, w) => sum + w, 0)
+}
+
+export function computeBlendedScore(level1Score, level2Probability) {
+  if (level2Probability == null || isNaN(level2Probability)) return level1Score
+  return Math.min(100, level1Score * (1 + level2Probability * 0.5))
 }
