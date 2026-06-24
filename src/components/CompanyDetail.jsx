@@ -1,9 +1,9 @@
-import { useEffect, useState } from 'react'
+import { useEffect } from 'react'
 import ForecastChart from './ForecastChart.jsx'
 import DataTable from './DataTable.jsx'
-import IndicatorToggles, { INDICATOR_LABELS, INDICATOR_COLORS } from './IndicatorToggles.jsx'
+import { INDICATOR_LABELS, INDICATOR_COLORS } from './IndicatorToggles.jsx'
 import { buildChartData } from '../utils/buildChartData.js'
-import { getCompanyData, getToggleProbability, getIndicatorOrder, buildToggleKey } from '../utils/loadForecastData.js'
+import { getCompanyData, getIndicatorOrder } from '../utils/loadForecastData.js'
 
 function getProbabilityColor(p) {
   if (p == null) return '#999'
@@ -35,37 +35,85 @@ function computeSlope(history) {
   return last - prev
 }
 
-export default function CompanyDetail({ company, modelData, onClose, enabledIndicators: globalEnabled, onToggle: onGlobalToggle, onReset: onGlobalReset }) {
+const INDICATOR_VALUE_FORMAT = {
+  z_score: (v) => v?.toFixed(2) ?? '—',
+  quick_ratio: (v) => v?.toFixed(2) ?? '—',
+  ebit_ta: (v) => v != null ? (v * 100).toFixed(1) + '%' : '—',
+  debt_ebitda: (v) => v != null ? v.toFixed(1) + 'x' : '—',
+  tl_ta: (v) => v != null ? (v * 100).toFixed(1) + '%' : '—',
+  fss_score: (v) => v != null ? (v * 100).toFixed(1) : '—',
+}
+
+function DriverRows({ shap, financials, indicatorOrder, currentZScore }) {
+  if (!shap) return null
+
+  const fin = financials || {}
+  const finValues = {
+    z_score: fin.z_score ?? currentZScore,
+    quick_ratio: fin.quick_ratio,
+    ebit_ta: fin.ebit_ta,
+    debt_ebitda: fin.debt_ebitda,
+    tl_ta: fin.tl_ta,
+    fss_score: fin.fss_score,
+  }
+
+  const rows = indicatorOrder
+    .map(ind => ({
+      key: ind,
+      label: INDICATOR_LABELS[ind],
+      color: INDICATOR_COLORS[ind],
+      shapVal: shap[ind] || 0,
+      currentVal: finValues[ind],
+    }))
+    .sort((a, b) => Math.abs(b.shapVal) - Math.abs(a.shapVal))
+
+  const maxAbs = Math.max(...rows.map(r => Math.abs(r.shapVal)))
+  if (maxAbs === 0) return null
+
+  return (
+    <div className="breakdown-bar-container">
+      <div className="breakdown-bar-label">What's driving the probability</div>
+      <div className="driver-rows">
+        {rows.map(r => {
+          const barWidth = (Math.abs(r.shapVal) / maxAbs) * 100
+          const isRisk = r.shapVal > 0
+          const ppText = (isRisk ? '+' : '−') + Math.abs(r.shapVal * 100).toFixed(1) + 'pp'
+          const fmt = INDICATOR_VALUE_FORMAT[r.key]
+          const valText = fmt ? fmt(r.currentVal) : '—'
+          return (
+            <div key={r.key} className="driver-row">
+              <span className="driver-label">{r.label}</span>
+              <span className="driver-value">{valText}</span>
+              <div className="driver-bar-track">
+                <div
+                  className="driver-bar-fill"
+                  style={{ width: `${barWidth}%`, backgroundColor: r.color }}
+                />
+              </div>
+              <span
+                className="driver-pp"
+                style={{ color: isRisk ? '#DC2626' : '#16A34A' }}
+              >
+                {ppText}
+              </span>
+            </div>
+          )
+        })}
+      </div>
+    </div>
+  )
+}
+
+export default function CompanyDetail({ company, modelData, onClose }) {
   const ticker = company?.Ticker
   const companyCode = company?.CompanyCode || company?.company_code
   const md = getCompanyData(modelData, companyCode) || getCompanyData(modelData, ticker)
 
   const indicatorOrder = getIndicatorOrder(modelData)
 
-  // Use global toggles if provided, otherwise fall back to local state
-  const [localEnabled, setLocalEnabled] = useState(indicatorOrder)
-  const enabledIndicators = globalEnabled ?? localEnabled
-
-  function handleToggle(ind) {
-    if (onGlobalToggle) { onGlobalToggle(ind); return }
-    setLocalEnabled(prev => {
-      if (prev.includes(ind)) { if (prev.length <= 1) return prev; return prev.filter(i => i !== ind) }
-      return [...prev, ind]
-    })
-  }
-
-  function handleReset() {
-    if (onGlobalReset) { onGlobalReset(); return }
-    setLocalEnabled(indicatorOrder)
-  }
-
-  const toggleKey = buildToggleKey(enabledIndicators, indicatorOrder)
-  const allOnKey = buildToggleKey(indicatorOrder, indicatorOrder)
-  const isAllOn = toggleKey === allOnKey
-
-  const currentProbability = isAllOn
-    ? (md?.history?.length > 0 ? md.history[md.history.length - 1].probability : null)
-    : getToggleProbability(md, toggleKey)
+  const currentProbability = md?.history?.length > 0
+    ? md.history[md.history.length - 1].probability
+    : null
 
   const inDistress = md?.in_distress || false
   const insufficientData = md?.insufficient_data || false
@@ -125,7 +173,7 @@ export default function CompanyDetail({ company, modelData, onClose, enabledIndi
               {currentProbability != null ? `${(currentProbability * 100).toFixed(1)}%` : '—'}
             </div>
             <div className="probability-label">Distress Probability</div>
-            {changeFromLast != null && isAllOn && (
+            {changeFromLast != null && (
               <div className={`probability-change ${changeFromLast >= 0 ? 'change-up' : 'change-down'}`}>
                 {changeFromLast >= 0 ? '▲' : '▼'} {Math.abs(changeFromLast).toFixed(1)}% from last quarter
               </div>
@@ -142,7 +190,12 @@ export default function CompanyDetail({ company, modelData, onClose, enabledIndi
         )}
 
         {!inDistress && !insufficientData && !sectorExcluded && md?.shap && (
-          <BreakdownBar shap={md.shap} enabledIndicators={enabledIndicators} indicatorOrder={indicatorOrder} />
+          <DriverRows
+            shap={md.shap}
+            financials={md.financials}
+            indicatorOrder={indicatorOrder}
+            currentZScore={md.current_z_score}
+          />
         )}
 
         {sectorExcluded && md?.sector_metrics && (
@@ -150,17 +203,6 @@ export default function CompanyDetail({ company, modelData, onClose, enabledIndi
         )}
 
         <ForecastChart data={chartData} inDistress={inDistress} />
-
-        {!inDistress && !insufficientData && !sectorExcluded && md?.toggle_states && Object.keys(md.toggle_states).length > 0 && (
-          <IndicatorToggles
-            indicatorOrder={indicatorOrder}
-            enabledIndicators={enabledIndicators}
-            onToggle={handleToggle}
-            onReset={handleReset}
-            isAllOn={isAllOn}
-          />
-        )}
-
 
         <DataTable financials={md?.financials ? { ...md.financials, z_score: md.financials.z_score ?? md.current_z_score } : null} />
       </div>
@@ -228,47 +270,3 @@ function SectorMetrics({ metrics, sector }) {
     </div>
   )
 }
-
-function BreakdownBar({ shap, enabledIndicators, indicatorOrder }) {
-  const contributions = indicatorOrder
-    .filter(ind => enabledIndicators.includes(ind))
-    .map(ind => ({
-      key: ind,
-      label: INDICATOR_LABELS[ind],
-      color: INDICATOR_COLORS[ind],
-      value: shap[ind] || 0,
-    }))
-
-  const totalAbs = contributions.reduce((sum, c) => sum + Math.abs(c.value), 0)
-  if (totalAbs === 0) return null
-
-  return (
-    <div className="breakdown-bar-container">
-      <div className="breakdown-bar-label">What's driving the probability:</div>
-      <div className="breakdown-bar">
-        {contributions.map(c => {
-          const width = (Math.abs(c.value) / totalAbs) * 100
-          if (width < 2) return null
-          return (
-            <div
-              key={c.key}
-              className="breakdown-segment"
-              style={{ width: `${width}%`, backgroundColor: c.color }}
-              title={`${c.label}: ${(c.value * 100).toFixed(1)}pp`}
-            />
-          )
-        })}
-      </div>
-      <div className="breakdown-legend">
-        {contributions.filter(c => (Math.abs(c.value) / totalAbs) * 100 >= 2).map(c => (
-          <span key={c.key} className="breakdown-legend-item">
-            <span className="breakdown-dot" style={{ backgroundColor: c.color }} />
-            {c.label}
-          </span>
-        ))}
-      </div>
-    </div>
-  )
-}
-
-

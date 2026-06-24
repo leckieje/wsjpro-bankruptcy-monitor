@@ -432,9 +432,6 @@ export default function App() {
             company={selectedCompany}
             modelData={modelDataResult}
             onClose={() => setSelectedCompany(null)}
-            enabledIndicators={enabledIndicators}
-            onToggle={handleToggle}
-            onReset={handleReset}
           />
         )}
       </main>
