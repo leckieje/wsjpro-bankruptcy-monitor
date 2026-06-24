@@ -150,7 +150,7 @@ The system uses two models, one for each population:
 Both models average the probability outputs of their constituent classifiers to produce the final score. Financial-sector companies (293 identified by TRBC industry classification) are excluded from the main model and scored exclusively by the financial model — removing them improved the main model's performance by +3.4 pp AUC.
 
 ### Training Data
-- **Source**: LSEG (London Stock Exchange Group) financial data via Capital IQ fields, supplemented by Factiva Sentiment Signals sentiment data and S&P market data
+- **Source**: LSEG (London Stock Exchange Group) financial data via Capital IQ fields, supplemented by Factiva Sentiment Signals sentiment data and LSEG market data
 - **Period**: 13 quarters (Q1 2023 – Q1 2026) for production scoring; 26 quarters (Q4 2019 – Q1 2026) for validation
 - **Main model universe**: ~906 non-financial companies with valid market capitalization and financial data
 - **Financial model universe**: 258 companies across 4 sub-sectors (banks, insurance, REITs, other financial)

@@ -107,7 +107,13 @@ export default function App() {
     if (!parsedData) return null
     const rows = parsedData.rows.map(row => {
       const prob = getCompanyProbability(row, modelDataResult, toggleKey, indicatorOrder)
-      return { ...row, _score: prob != null ? prob * 100 : null }
+      const entry = modelDataResult?.companiesByTicker?.[row.Ticker]
+      const f = entry?.financials || {}
+      return {
+        ...row,
+        _score: prob != null ? prob * 100 : null,
+        'Liabilities/Assets': f.tl_ta != null ? f.tl_ta * 100 : null,
+      }
     })
 
     const FORECAST_RANK = { 'Distress': 4, 'High': 3, 'Elevated': 2, 'Accelerating': 1 }
@@ -169,12 +175,28 @@ export default function App() {
     })
   }, [sortedRows, filters, modelDataResult])
 
-  const displayColumns = (parsedData?.headers ?? []).filter(h => !h.startsWith('_'))
+  const displayColumns = [
+    'Company', 'Ticker', 'Sector', 'SubSector', 'Industry',
+    'Z-Score',
+    'Quick Ratio',
+    'Debt to EBITDA',
+    'Liabilities/Assets',
+    'FSS Score',
+    'Market Capitalization',
+  ]
 
   const FINANCE_DISPLAY_COLUMNS = [
-    'Company', 'Ticker', 'Sector', 'ROA', 'Int. Coverage', 'Debt/Assets',
-    'NPL Ratio', 'Combined Ratio', 'Quick Ratio', 'Debt/EBITDA',
-    'Liabilities/Assets', 'Sentiment', 'Market Cap',
+    'Company', 'Ticker', 'Sector', 'SubSector', 'Industry',
+    'ROA',
+    'Quick Ratio',
+    'Debt/EBITDA',
+    'Liabilities/Assets',
+    'Debt/Assets',
+    'Int. Coverage',
+    'NPL Ratio',
+    'Combined Ratio',
+    'Sentiment',
+    'Market Cap',
   ]
 
   const FINANCE_FORECAST_RANK = { 'Warning': 3, 'Alert': 2, 'Monitor': 1 }

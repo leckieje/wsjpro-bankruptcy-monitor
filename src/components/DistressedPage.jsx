@@ -50,15 +50,21 @@ export default function DistressedPage({ modelData, onRowClick }) {
   return (
     <div className="secondary-page">
       <div className="secondary-page-header">
-        <h2>
-          {nonFinancial.length} companies in Z-Score Distress Zone (Z ≤ 1.81)
-          {financial.length > 0 && <> + {financial.length} financial companies flagged by sector model</>}
-        </h2>
+        <h3 className="methodology-title">
+          <span className="methodology-title-badge">WSJ Pro</span>
+          Financial Distress Monitor
+        </h3>
         <p>
-          These companies have already crossed into the distress zone.
-          The monitor's probability model predicts <em>transitions into</em> distress — since
-          these companies are already there, they are shown separately. Financial companies
-          are included when flagged as distressed by their sector-specific model.
+          The Financial Distress Monitor uses an ML ensemble (XGBoost + Random Forest) trained
+          on sector-specific distress definitions for banks, insurance companies, REITs, and other
+          financial firms. The model predicts the probability that a company will enter its
+          sector-appropriate distress state within 2 quarters, using a 6-quarter lookback window
+          across profitability, leverage, liquidity, and sector-specific indicators.
+        </p>
+        <p>
+          Companies already flagged as distressed by their sector model are shown separately below,
+          since the model predicts <em>transitions into</em> distress — not companies already there.
+          Click any row to see the full detail view with probability chart and indicator breakdown.
         </p>
       </div>
       <div className="table-card">
